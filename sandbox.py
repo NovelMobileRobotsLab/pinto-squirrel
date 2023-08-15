@@ -1,15 +1,20 @@
 import numpy as np
 from numpy import sin, cos, pi
 from scipy.optimize import root
-from es import CMAES
+import matplotlib.pyplot as plt
 np.set_printoptions(suppress=True)
 
 
 #L1, L2, L3, L4, theta5
-# dims_0 = (29, 49, 39, 40, 0)
+# dims_0 = [33.90701626, 52.70572024, 47.64062114, 39.56311257,  0.69582653]
+# dims_0 = [40.86696359, 58.94079141, 56.63136145, 43.61973342,  0.71266773]
 # dims_0 = [31.49165768, 49.99185716, 38.80310215, 43.70066141, -0.2441217 ]
-dims_0= [32.16050325, 49.71386295, 40.89005164, 41.03462869,  0.22314399]
-
+# dims_0 = [32.51951006, 49.95192839, 40.09426508, 42.3469301 , -0.0244356 ]
+# dims_0 = [32.16050325, 49.71386295, 40.89005164, 41.03462869,  0.22314399]
+# dims_0 = [32.67419479, 49.99971777, 41.60962176, 41.08057512,  0.25414072]
+# dims_0 = [32.67308165, 49.99972578, 41.58894135, 41.09978546,  0.24911804]
+dims_0 =  [33.92215692, 49.9849175 , 43.80526204, 41.08831024,  0.21996161]
+# dims_0 = (29, 49, 39, 40, 0)
 L5 = 500
 npts = 50
 epsilon_0 = 1
@@ -69,12 +74,9 @@ def get_endpt(dims, theta1, guess):
     return p5, sol
 
 def cost(dims, guess, npts=50, TR_cutoff=TR_cutoff_0, epsilon=epsilon_0):
-
-    if(max(dims) > 50):
-        return 0
-
     theta1_range = np.linspace(0, 2*pi, npts)
     path = []
+
     for theta1 in theta1_range:
         p5, sol = get_endpt(dims, theta1, guess)
         guess = sol
@@ -107,53 +109,48 @@ def cost(dims, guess, npts=50, TR_cutoff=TR_cutoff_0, epsilon=epsilon_0):
         segment_length = np.linalg.norm(path_simp[i] - path_simp[i + 1])
         max_length = max(segment_length, max_length)
     
-    return max_length
+    return max_length, path, path_simp
+
+max_length, path, path_simp = cost(dims_0, guess_0)
+
+def longest_segment_length(points):
+    max_length = 0
+    max_indexes = (0, 0)
+    for i in range(len(points) - 1):
+        segment_length = np.linalg.norm(points[i] - points[i + 1])
+        if segment_length > max_length:
+            max_length = segment_length
+            max_indexes = (i, i+1)
+    return max_length, max_indexes
+max_length2, max_indexes = longest_segment_length(path_simp)
+
+print("maxlen: ", max_length, max_length2)
 
 
-print("initial cost:", cost(dims_0, guess_0))
+plt.close()
+fig = plt.figure(figsize=(6,5))
+ax = fig.subplots(1, 1)
+fig.tight_layout()
+ax.axis('equal')
+
+long_seg = np.array((path_simp[max_indexes[0]:max_indexes[1]+1,0], path_simp[max_indexes[0]:max_indexes[1]+1,1]))
+# print(long_seg)
+
+angle = pi/2 - np.arctan2(long_seg[1,1]-long_seg[1,0], long_seg[0,1]-long_seg[0,0])
+
+rot_mat = np.array([
+    [cos(angle), -sin(angle)],
+    [sin(angle), cos(angle)]
+])
+
+print(rot_mat @ long_seg)
 
 
-NPARAMS = 5
-NPOPULATION = 500
-MAX_ITERATION = 50
+# max_pts.set_data((, ))
+ax.plot(0,0, 'o')
+max_pts, = ax.plot(long_seg[0], long_seg[1], 'y-', linewidth=5)
+simp_pts, = ax.plot(path_simp[:,0], path_simp[:,1], 'ro-', markersize=5)
+path_pts, = ax.plot(path[:,0], path[:,1], 'ko', markersize=2)
+ax.set_title(f"{np.round(dims_0, 2)}  {round(max_length,2)} {np.degrees(angle)}")
 
-
-# defines a function to use solver to solve fit_func
-def test_solver(solver):
-  
-  guess = guess_0
-
-  history = []
-  for j in range(MAX_ITERATION):
-    solutions = solver.ask()
-    # if j == 0:
-    #   solutions = np.full((NPOPULATION, NPARAMS), guess)
-
-    # print(solutions)
-
-    fitness_list = np.zeros(solver.popsize)
-    for i in range(solver.popsize):
-      fitness_list[i] = cost(solutions[i], guess)
-
-    solver.tell(fitness_list)
-    result = solver.result() # first element is the best solution, second element is the best fitness
-    history.append(result[1])
-    if (j+1) % 1 == 0:
-      print(f"iter {j+1}: {round(result[1], 2)} {np.array2string(result[0], separator=', ')} {solver.rms_stdev()}")
-  print("local optimum discovered by solver:\n", result[0])
-  print("fitness score at this local optimum:", result[1])
-  return history
-
-# defines CMA-ES algorithm solver
-cmaes = CMAES(NPARAMS,
-  x0=dims_0,
-  popsize=NPOPULATION,
-  weight_decay=0.0,
-  sigma_init = 1
-)
-
-
-
-cma_history = test_solver(cmaes)
-
-print(cma_history)
+plt.show()
