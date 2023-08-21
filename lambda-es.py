@@ -13,7 +13,7 @@ dims_0= [32.16050325, 49.71386295, 40.89005164, 41.03462869,  0.22314399]
 L5 = 500
 npts = 50
 epsilon_0 = 1
-TR_cutoff_0 = 42
+TR_cutoff_0 = 0.7
 guess_0 = np.array([-0.37, 0.93, 0.47, -0.88]) #almost 400mm test stand 
 
 
@@ -72,6 +72,8 @@ def cost(dims, guess, npts=50, TR_cutoff=TR_cutoff_0, epsilon=epsilon_0):
 
     if(max(dims) > 50):
         return 0
+    
+    dtheta = 2*pi/npts
 
     theta1_range = np.linspace(0, 2*pi, npts)
     path = []
@@ -86,7 +88,7 @@ def cost(dims, guess, npts=50, TR_cutoff=TR_cutoff_0, epsilon=epsilon_0):
     last_p5 = path[start_i]
     while start_i > 0:
         p5 = path[start_i]
-        if np.linalg.norm(p5 - last_p5) > TR_cutoff:
+        if np.linalg.norm(p5 - last_p5) > TR_cutoff*dtheta*L5:
             break
         last_p5 = p5
         start_i -= 1
@@ -94,7 +96,7 @@ def cost(dims, guess, npts=50, TR_cutoff=TR_cutoff_0, epsilon=epsilon_0):
     last_p5 = path[end_i]
     while end_i < npts:
         p5 = path[end_i]
-        if np.linalg.norm(p5 - last_p5) > TR_cutoff:
+        if np.linalg.norm(p5 - last_p5) > TR_cutoff*dtheta*L5:
             break
         last_p5 = p5
         end_i += 1
