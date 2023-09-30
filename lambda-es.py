@@ -13,7 +13,7 @@ dims_0= [32.16050325, 49.71386295, 40.89005164, 41.03462869,  0.22314399]
 L5 = 500
 npts = 50
 epsilon_0 = 1
-TR_cutoff_0 = 0.7
+TR_cutoff_0 = 0.5
 guess_0 = np.array([-0.37, 0.93, 0.47, -0.88]) #almost 400mm test stand 
 
 
