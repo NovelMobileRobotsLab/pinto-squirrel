@@ -14,7 +14,8 @@ def T1(x_a):
 def dT1dxa(x_a):
     return 1
 def T2_inv(x_l):
-    return x_l + 0.1*x_l**2
+    return x_l
+    # return x_l + 0.1*x_l**2
 def dT2invdxl(x_l):
     return 1 + 0.2*x_l
 
