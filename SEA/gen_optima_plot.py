@@ -16,49 +16,53 @@ exp_path = f"{filedir}/{exp_name}"
 
 
 # param_folders = os.listdir(exp_path)
-param_folders = [os.path.join(exp_path, folder) for folder in sorted(os.listdir(exp_path))]
+param_folders = [os.path.join(f"{exp_path}/params", folder) for folder in sorted(os.listdir(f"{exp_path}/params"))]
 for param_path in param_folders:
+
     param_str = os.path.basename(param_path)
-    if(not param_str.startswith('fig')):
-        k_test = int(param_str.split("_")[0].split("k")[1])
-        m_l = round(int(param_str.split("_")[1].split("m")[1])*0.001, 3)
-        t_total = round(int(param_str.split("_")[2].split("t")[1])*0.001, 3)
-        leg_max = round(int(param_str.split("_")[3].split("L")[1])*0.001, 3)
+    print(param_str)
 
-        axs = [0,0]
-        fig, axs[0] = plt.subplots(1,1, figsize=(10,6))
-        ax0_twin = axs[0].twinx()
+    if(not param_str.startswith('k')):
+        continue
 
-        v_max = 0
+    k_test = int(param_str.split("_")[0].split("k")[1])
+    m_l = round(int(param_str.split("_")[1].split("m")[1])*0.001, 3)
+    t_total = round(int(param_str.split("_")[2].split("t")[1])*0.001, 3)
+    leg_max = round(int(param_str.split("_")[3].split("L")[1])*0.001, 3)
 
-        print(param_path)
-        for file in sorted(os.listdir(param_path))[-topN:]:
-            if(not file.endswith(".txt")):
-                continue
+    axs = [0,0]
+    fig, axs[0] = plt.subplots(1,1, figsize=(10,6))
+    # ax0_twin = axs[0].twinx()
 
-            X_optload = np.loadtxt(f'{param_path}/{file}')
-            file = file[:-4] #remove '.txt'
-            v_file = round(int(file.split("_")[1].split("v")[1]) * 0.001, 3)
-            
-            if(v_file > v_max):
-                v_max = v_file
-                X_best = X_optload
+    v_max = 0
 
-            ts = np.linspace(0, t_total, nsteps+1)
-            axs[0].step(ts, X_optload[3], 'r', alpha=0.2)
-            ax0_twin.step(ts, X_optload[4], 'b', alpha=0.2)
+    for file in sorted(os.listdir(param_path))[-topN:]:
+        if(not file.endswith(".txt")):
+            continue
 
-        axs[0].step(ts, X_best[3], 'r--', label=f"best", alpha=0.8, linewidth=2)
-        ax0_twin.step(ts, X_best[4], 'b--', label=f"best", alpha=0.8, linewidth=2)
-        ax0_twin.set_ylim(0, 20)
-        axs[0].set_xlabel('time (seconds)')
-        axs[0].set_ylabel('T1', color='red')
-        ax0_twin.set_ylabel('T2', color='blue')
+        X_optload = np.loadtxt(f'{param_path}/{file}')
+        file = file[:-4] #remove '.txt'
+        v_file = round(int(file.split("_")[1].split("v")[1]) * 0.001, 3)
+        
+        if(v_file > v_max):
+            v_max = v_file
+            X_best = X_optload
 
-        plt.title(f"Top {topN} transmission profiles, best in dashed\nk={k_test}, m={m_l}, t={t_total}, L={leg_max}, v_best={v_max}")
+        ts = np.linspace(0, t_total, nsteps+1)
+        axs[0].step(ts, X_optload[2], 'r', alpha=0.2)
+        # ax0_twin.step(ts, X_optload[4], 'b', alpha=0.2)
 
-        os.makedirs(f"{exp_path}/figs2", exist_ok=True)
-        plt.savefig(f'{exp_path}/figs2/{param_str}.png', dpi=300)
-        plt.close()
+    axs[0].step(ts, X_best[2], 'r--', label=f"best", alpha=0.8, linewidth=2)
+    # ax0_twin.step(ts, X_best[4], 'b--', label=f"best", alpha=0.8, linewidth=2)
+    # ax0_twin.set_ylim(0, 20)
+    axs[0].set_xlabel('Time (seconds)')
+    axs[0].set_ylabel('Leg velociy (m/s)')
+    # ax0_twin.set_ylabel('T2', color='blue')
+
+    plt.title(f"Leg velocity for top {topN} transmission profiles\nk={k_test}, m={m_l}, t={t_total}, L={leg_max}, v_best={v_max}")
+
+    os.makedirs(f"{exp_path}/figs_legvel", exist_ok=True)
+    plt.savefig(f'{exp_path}/figs_legvel/{param_str}.png', dpi=300)
+    plt.close()
 
 
