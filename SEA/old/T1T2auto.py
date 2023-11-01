@@ -25,7 +25,7 @@ def sea_model(x, u):
     x_a, x_a_dot, x_l, x_l_dot = x
 
     k = 0.69 #spring constant for xlf=15
-    # k = 2
+    # k = 1000
     # k = 0.28 #spring constant for xlf=25
     m_a = 0.1 #mass of the actuator before spring
     m_l = 0.5 #mass of the load after spring 
@@ -45,7 +45,7 @@ def sea_model(x, u):
 
 
 disp = True
-# disp = False
+disp = False
 
 if(disp):
     import pygame
@@ -74,7 +74,7 @@ times = []
 
 while running:
     
-    if(x[2] > 15):
+    if(x[2] > 25):
         running = False
 
     if(t > 0.5):
@@ -108,12 +108,13 @@ xs = np.array(xs)
 logs = np.array(logs)
 
 print(f"time taken: {t}")
-plt.plot(times, xs[:,0], label='x_a')
-plt.plot(times, xs[:,1], label='motor speed x_a_dot')
-plt.plot(times, xs[:,2], label='x_l')
-plt.plot(times, xs[:,3], label='x_l_dot')
-plt.plot(times, logs[:,0], label='motor torque')
-plt.plot(times, logs[:,0]*xs[:,1], label='power τ*ω')
-plt.title(f"end load vel: {np.round(xs[-1,3], 2)}")
+# plt.plot(times, xs[:,0], label='x_a')
+plt.plot(times, xs[:,1], 'r--', label='motor speed')
+# plt.plot(times, xs[:,2], label='x_l')
+plt.plot(times, xs[:,3], 'b--', label='load speed')
+plt.plot(times, logs[:,0], 'orange', label='motor torque')
+plt.plot(times, logs[:,0]*xs[:,1], 'green', label='motor power')
+# plt.title(f"Ending load speed: {np.round(xs[-1,3], 2)}")
+plt.title(f"stiffness = 0.69")
 plt.legend()
 plt.show()
