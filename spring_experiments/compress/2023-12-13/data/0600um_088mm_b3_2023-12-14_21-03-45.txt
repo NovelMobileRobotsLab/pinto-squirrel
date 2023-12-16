@@ -1,0 +1,10083 @@
+
+force: -0.0004
+angle: 0.0069
+
+force: 0.0011
+angle: 0.0508
+
+force: -0.0000
+angle: -0.0370
+
+force: 0.0009
+angle: 0.0069
+
+force: 0.0000
+angle: -0.0151
+
+force: -0.0008
+angle: 0.0069
+
+force: -0.0008
+angle: 0.0069
+
+force: 0.0004
+angle: 0.0289
+
+force: 0.0004
+angle: 0.0069
+
+force: -0.0000
+angle: 0.0508
+
+force: 0.0008
+angle: 0.0289
+
+force: 0.0006
+angle: 0.0069
+
+force: 0.0001
+angle: 0.0069
+
+force: 0.0003
+angle: -0.0151
+
+force: 0.0006
+angle: 0.0728
+
+force: -0.0004
+angle: 0.0289
+
+force: -0.0002
+angle: -0.0590
+
+force: 0.0001
+angle: 0.0069
+
+force: 0.0010
+angle: -0.0370
+
+force: -0.0003
+angle: 0.0289
+
+force: -0.0003
+angle: -0.0151
+
+force: -0.0001
+angle: -0.0810
+
+force: 0.0006
+angle: -0.0151
+
+force: 0.0004
+angle: 0.0069
+
+force: 0.0011
+angle: 0.0069
+
+force: 0.0002
+angle: 0.0069
+
+force: 0.0004
+angle: 0.0289
+
+force: -0.0009
+angle: 0.0289
+
+force: 0.0001
+angle: 0.0289
+
+force: -0.0000
+angle: 0.0289
+
+force: 0.0002
+angle: -0.0151
+
+force: -0.0004
+angle: 0.0508
+
+force: 0.0003
+angle: -0.0151
+
+force: -0.0001
+angle: 0.0069
+
+force: 0.0004
+angle: 0.0069
+
+force: 0.0006
+angle: 0.0289
+
+force: 0.0002
+angle: 0.0069
+
+force: 0.0001
+angle: 0.0069
+
+force: -0.0001
+angle: 0.0508
+
+force: 0.0004
+angle: 0.0069
+
+force: -0.0002
+angle: 0.0069
+
+force: -0.0004
+angle: 0.0069
+
+force: -0.0002
+angle: -0.0370
+
+force: -0.0002
+angle: 0.0289
+
+force: -0.0004
+angle: 0.0069
+
+force: 0.0009
+angle: -0.0151
+
+force: 0.0005
+angle: -0.0151
+
+force: 0.0006
+angle: 0.0069
+
+force: -0.0004
+angle: 0.0289
+
+force: 0.0002
+angle: 0.0289
+
+force: -0.0003
+angle: 0.0069
+
+force: 0.0005
+angle: -0.0151
+
+force: -0.0002
+angle: -0.0151
+
+force: 0.0002
+angle: 0.0069
+
+force: -0.0006
+angle: 0.0069
+
+force: -0.0004
+angle: 0.0069
+
+force: -0.0005
+angle: -0.0151
+
+force: 0.0007
+angle: 0.0069
+
+force: -0.0002
+angle: -0.0370
+
+force: -0.0003
+angle: -0.0151
+
+force: 0.0005
+angle: 0.0069
+
+force: 0.0007
+angle: 0.0069
+
+force: 0.0002
+angle: 0.0289
+
+force: -0.0001
+angle: 0.0069
+
+force: 0.0003
+angle: 0.0069
+
+force: -0.0007
+angle: -0.0151
+
+force: -0.0001
+angle: -0.0370
+
+force: 0.0004
+angle: 0.0069
+
+force: 0.0009
+angle: 0.0289
+
+force: -0.0002
+angle: 0.0069
+
+force: -0.0001
+angle: 0.0069
+
+force: 0.0009
+angle: 0.0069
+
+force: 0.0012
+angle: 0.0289
+
+force: 0.0004
+angle: -0.0590
+
+force: 0.0001
+angle: 0.0289
+
+force: -0.0013
+angle: -0.0151
+
+force: 0.0003
+angle: 0.0069
+
+force: 0.0002
+angle: 0.0508
+
+force: 0.0011
+angle: 0.0069
+
+force: 0.0006
+angle: -0.0151
+
+force: -0.0005
+angle: 0.0069
+
+force: -0.0008
+angle: 0.0289
+
+force: 0.0008
+angle: 0.0069
+
+force: 0.0009
+angle: 0.0069
+
+force: 0.0004
+angle: -0.0590
+
+force: 0.0004
+angle: 0.0508
+
+force: -0.0001
+angle: -0.0151
+
+force: -0.0001
+angle: 0.0508
+
+force: 0.0007
+angle: 0.0289
+
+force: 0.0010
+angle: -0.0370
+
+force: -0.0003
+angle: 0.0289
+
+force: -0.0007
+angle: 0.0069
+
+force: -0.0005
+angle: -0.0151
+
+force: 0.0010
+angle: 0.0289
+
+force: 0.0007
+angle: -0.0151
+
+force: 0.0009
+angle: 0.0069
+
+force: -0.0005
+angle: 0.0069
+
+force: 0.0002
+angle: -0.0151
+
+force: -0.0006
+angle: -0.0151
+
+force: 0.0006
+angle: 0.0289
+
+force: 0.0005
+angle: 0.0289
+
+force: 0.0003
+angle: -0.0151
+
+force: -0.0006
+angle: 0.0508
+
+force: 0.0004
+angle: -0.0151
+
+force: 0.0008
+angle: 0.0069
+
+force: 0.0004
+angle: -0.0151
+
+force: -0.0004
+angle: -0.0590
+
+force: 0.0002
+angle: 0.0289
+
+force: -0.0002
+angle: 0.0289
+
+force: -0.0003
+angle: 0.0289
+
+force: 0.0007
+angle: -0.0151
+
+force: 0.0002
+angle: -0.0590
+
+force: -0.0004
+angle: 0.0289
+
+force: -0.0004
+angle: -0.0151
+
+force: 0.0003
+angle: -0.0370
+
+force: 0.0000
+angle: -0.0370
+
+force: 0.0007
+angle: 0.0069
+
+force: 0.0002
+angle: 0.0508
+
+force: 0.0002
+angle: 0.0289
+
+force: -0.0006
+angle: 0.0289
+
+force: 0.0005
+angle: 0.0508
+
+force: 0.0006
+angle: 0.0069
+
+force: 0.0009
+angle: 0.0508
+
+force: -0.0004
+angle: 0.0289
+
+force: -0.0000
+angle: 0.0069
+
+force: -0.0004
+angle: 0.0069
+
+force: 0.0008
+angle: 0.0289
+
+force: 0.0001
+angle: 0.0289
+
+force: 0.0010
+angle: 0.0069
+
+force: 0.0002
+angle: -0.0370
+
+force: -0.0000
+angle: 0.0289
+
+force: 0.0001
+angle: -0.0151
+
+force: 0.0005
+angle: 0.0508
+
+force: 0.0003
+angle: 0.0508
+
+force: -0.0001
+angle: 0.0069
+
+force: -0.0000
+angle: 0.0289
+
+force: 0.0001
+angle: 0.0289
+
+force: 0.0001
+angle: 0.0289
+
+force: 0.0004
+angle: -0.0151
+
+force: 0.0006
+angle: 0.0289
+
+force: -0.0005
+angle: 0.0069
+
+force: -0.0005
+angle: -0.0151
+
+force: 0.0001
+angle: 0.0069
+
+force: 0.0008
+angle: -0.0151
+
+force: -0.0004
+angle: 0.0069
+
+force: 0.0006
+angle: -0.0370
+
+force: -0.0003
+angle: 0.0508
+
+force: -0.0001
+angle: 0.0289
+
+force: 0.0001
+angle: -0.0151
+
+force: 0.0007
+angle: -0.0590
+
+force: -0.0001
+angle: 0.0069
+
+force: 0.0001
+angle: -0.0151
+
+force: -0.0001
+angle: 0.0069
+
+force: 0.0006
+angle: -0.0151
+
+force: 0.0005
+angle: -0.0370
+
+force: 0.0001
+angle: -0.0151
+
+force: -0.0002
+angle: -0.0151
+
+force: 0.0001
+angle: 0.0289
+
+force: -0.0000
+angle: 0.0289
+
+force: 0.0003
+angle: 0.0289
+
+force: 0.0006
+angle: 0.0069
+
+force: 0.0001
+angle: -0.0370
+
+force: 0.0002
+angle: 0.0069
+
+force: -0.0002
+angle: 0.0289
+
+force: 0.0005
+angle: 0.0069
+
+force: 0.0004
+angle: -0.0370
+
+force: 0.0007
+angle: 0.0728
+
+force: -0.0000
+angle: -0.0151
+
+force: 0.0003
+angle: -0.0151
+
+force: 0.0004
+angle: -0.0151
+
+force: 0.0008
+angle: 0.0289
+
+force: 0.0008
+angle: -0.0151
+
+force: 0.0010
+angle: -0.0151
+
+force: 0.0012
+angle: -0.0151
+
+force: 0.0006
+angle: 0.0069
+
+force: 0.0004
+angle: 0.0289
+
+force: 0.0030
+angle: 0.0069
+
+force: 0.0021
+angle: 0.0289
+
+force: 0.0020
+angle: 0.0289
+
+force: -0.0014
+angle: 0.0289
+
+force: 0.0020
+angle: 0.0508
+
+force: 0.0129
+angle: 0.0508
+
+force: 0.0211
+angle: 0.0069
+
+force: 0.0298
+angle: 0.0508
+
+force: 0.0371
+angle: -0.0151
+
+force: 0.0442
+angle: 0.0289
+
+force: 0.0537
+angle: 0.0069
+
+force: 0.0592
+angle: 0.0508
+
+force: 0.0646
+angle: 0.0289
+
+force: 0.0754
+angle: -0.0151
+
+force: 0.0899
+angle: -0.0370
+
+force: 0.1291
+angle: 0.0069
+
+force: 0.1497
+angle: 0.0069
+
+force: 0.1710
+angle: 0.0289
+
+force: 0.1910
+angle: -0.0370
+
+force: 0.2139
+angle: 0.0508
+
+force: 0.2528
+angle: -0.0151
+
+force: 0.2731
+angle: -0.0810
+
+force: 0.2903
+angle: -0.0590
+
+force: 0.3053
+angle: -0.0151
+
+force: 0.3158
+angle: -0.0810
+
+force: 0.3253
+angle: -0.0810
+
+force: 0.3286
+angle: -0.0370
+
+force: 0.3355
+angle: -0.0590
+
+force: 0.3445
+angle: -0.0590
+
+force: 0.3546
+angle: -0.0810
+
+force: 0.3768
+angle: -0.0810
+
+force: 0.3876
+angle: -0.1030
+
+force: 0.3998
+angle: -0.0590
+
+force: 0.4122
+angle: -0.0370
+
+force: 0.4242
+angle: -0.0370
+
+force: 0.4554
+angle: -0.0370
+
+force: 0.4739
+angle: -0.0590
+
+force: 0.4921
+angle: -0.1249
+
+force: 0.5085
+angle: -0.0590
+
+force: 0.5238
+angle: -0.1030
+
+force: 0.5617
+angle: -0.1249
+
+force: 0.5824
+angle: -0.1030
+
+force: 0.6014
+angle: -0.0810
+
+force: 0.6153
+angle: -0.0810
+
+force: 0.6271
+angle: -0.1469
+
+force: 0.6531
+angle: -0.1030
+
+force: 0.6645
+angle: -0.1469
+
+force: 0.6723
+angle: -0.1469
+
+force: 0.6808
+angle: -0.1689
+
+force: 0.6897
+angle: -0.1908
+
+force: 0.7107
+angle: -0.2348
+
+force: 0.7165
+angle: -0.1908
+
+force: 0.7191
+angle: -0.2348
+
+force: 0.7190
+angle: -0.1689
+
+force: 0.7142
+angle: -0.2128
+
+force: 0.6866
+angle: -0.1908
+
+force: 0.6631
+angle: -0.2348
+
+force: 0.6359
+angle: -0.1469
+
+force: 0.6082
+angle: -0.1469
+
+force: 0.5779
+angle: -0.1469
+
+force: 0.5083
+angle: -0.1249
+
+force: 0.4733
+angle: -0.1689
+
+force: 0.4385
+angle: -0.1249
+
+force: 0.4036
+angle: -0.1030
+
+force: 0.3700
+angle: -0.1249
+
+force: 0.3195
+angle: -0.1030
+
+force: 0.3068
+angle: -0.0370
+
+force: 0.2990
+angle: -0.0810
+
+force: 0.2935
+angle: -0.1249
+
+force: 0.2902
+angle: -0.1030
+
+force: 0.2864
+angle: -0.0590
+
+force: 0.2846
+angle: -0.1030
+
+force: 0.2784
+angle: -0.1030
+
+force: 0.2769
+angle: -0.1469
+
+force: 0.2782
+angle: -0.1249
+
+force: 0.2747
+angle: -0.1030
+
+force: 0.2710
+angle: -0.1030
+
+force: 0.2704
+angle: -0.0590
+
+force: 0.2703
+angle: -0.0810
+
+force: 0.2712
+angle: -0.0810
+
+force: 0.2612
+angle: -0.1249
+
+force: 0.2579
+angle: -0.1249
+
+force: 0.2591
+angle: -0.0810
+
+force: 0.2624
+angle: -0.1249
+
+force: 0.2661
+angle: -0.0810
+
+force: 0.2825
+angle: -0.1469
+
+force: 0.2981
+angle: -0.1030
+
+force: 0.3130
+angle: -0.1249
+
+force: 0.3231
+angle: -0.0810
+
+force: 0.3293
+angle: -0.1469
+
+force: 0.3458
+angle: -0.1689
+
+force: 0.3537
+angle: -0.1249
+
+force: 0.3646
+angle: -0.1908
+
+force: 0.3762
+angle: -0.1249
+
+force: 0.3903
+angle: -0.1249
+
+force: 0.4093
+angle: -0.1469
+
+force: 0.4160
+angle: -0.0810
+
+force: 0.4250
+angle: -0.1469
+
+force: 0.4351
+angle: -0.1689
+
+force: 0.4433
+angle: -0.1249
+
+force: 0.4599
+angle: -0.0810
+
+force: 0.4616
+angle: -0.0810
+
+force: 0.4702
+angle: -0.1249
+
+force: 0.4878
+angle: -0.1030
+
+force: 0.5064
+angle: -0.0590
+
+force: 0.5278
+angle: -0.0590
+
+force: 0.5378
+angle: -0.1030
+
+force: 0.5484
+angle: -0.0590
+
+force: 0.5611
+angle: -0.0590
+
+force: 0.5765
+angle: -0.0370
+
+force: 0.6021
+angle: -0.0590
+
+force: 0.6164
+angle: -0.0810
+
+force: 0.6304
+angle: -0.1249
+
+force: 0.6440
+angle: -0.0810
+
+force: 0.6551
+angle: -0.1249
+
+force: 0.6736
+angle: -0.1469
+
+force: 0.6872
+angle: -0.1030
+
+force: 0.6955
+angle: -0.0810
+
+force: 0.6936
+angle: -0.1249
+
+force: 0.6847
+angle: -0.0810
+
+force: 0.6643
+angle: -0.0810
+
+force: 0.6604
+angle: -0.1030
+
+force: 0.6589
+angle: -0.1030
+
+force: 0.6556
+angle: -0.0810
+
+force: 0.6525
+angle: -0.1249
+
+force: 0.6233
+angle: -0.0810
+
+force: 0.5975
+angle: -0.1469
+
+force: 0.5677
+angle: -0.1030
+
+force: 0.5421
+angle: -0.1249
+
+force: 0.5221
+angle: -0.0810
+
+force: 0.4922
+angle: -0.0810
+
+force: 0.4891
+angle: -0.0810
+
+force: 0.4910
+angle: -0.1689
+
+force: 0.5129
+angle: -0.1030
+
+force: 0.5350
+angle: -0.1249
+
+force: 0.5311
+angle: -0.1030
+
+force: 0.5167
+angle: -0.0810
+
+force: 0.5043
+angle: -0.1030
+
+force: 0.4942
+angle: -0.1689
+
+force: 0.4917
+angle: -0.0590
+
+force: 0.5061
+angle: -0.0590
+
+force: 0.5270
+angle: -0.1030
+
+force: 0.5485
+angle: -0.1030
+
+force: 0.5725
+angle: -0.1249
+
+force: 0.6100
+angle: -0.1030
+
+force: 0.6210
+angle: -0.0810
+
+force: 0.6302
+angle: -0.1689
+
+force: 0.6415
+angle: -0.1469
+
+force: 0.6557
+angle: -0.1689
+
+force: 0.6945
+angle: -0.1908
+
+force: 0.7154
+angle: -0.1689
+
+force: 0.7356
+angle: -0.1249
+
+force: 0.7554
+angle: -0.1469
+
+force: 0.7728
+angle: -0.1249
+
+force: 0.8045
+angle: -0.1689
+
+force: 0.8183
+angle: -0.2128
+
+force: 0.8325
+angle: -0.1908
+
+force: 0.8457
+angle: -0.2128
+
+force: 0.8512
+angle: -0.3007
+
+force: 0.8920
+angle: -0.3227
+
+force: 0.9134
+angle: -0.3447
+
+force: 0.9314
+angle: -0.3666
+
+force: 0.9475
+angle: -0.3666
+
+force: 0.9632
+angle: -0.3447
+
+force: 0.9849
+angle: -0.4106
+
+force: 0.9854
+angle: -0.3447
+
+force: 0.9809
+angle: -0.4325
+
+force: 0.9747
+angle: -0.3666
+
+force: 0.9769
+angle: -0.3666
+
+force: 0.9911
+angle: -0.4106
+
+force: 0.9948
+angle: -0.3666
+
+force: 0.9973
+angle: -0.3886
+
+force: 1.0006
+angle: -0.3666
+
+force: 1.0091
+angle: -0.3227
+
+force: 1.0343
+angle: -0.4325
+
+force: 1.0502
+angle: -0.3886
+
+force: 1.0655
+angle: -0.4325
+
+force: 1.0815
+angle: -0.4765
+
+force: 1.0937
+angle: -0.4325
+
+force: 1.1154
+angle: -0.4985
+
+force: 1.1244
+angle: -0.4765
+
+force: 1.1339
+angle: -0.4765
+
+force: 1.1414
+angle: -0.4545
+
+force: 1.1494
+angle: -0.4985
+
+force: 1.1694
+angle: -0.5424
+
+force: 1.1808
+angle: -0.6303
+
+force: 1.1899
+angle: -0.5204
+
+force: 1.1979
+angle: -0.6083
+
+force: 1.2051
+angle: -0.6083
+
+force: 1.2201
+angle: -0.6523
+
+force: 1.2273
+angle: -0.6962
+
+force: 1.2347
+angle: -0.6742
+
+force: 1.2426
+angle: -0.6962
+
+force: 1.2496
+angle: -0.7182
+
+force: 1.2631
+angle: -0.6962
+
+force: 1.2691
+angle: -0.7621
+
+force: 1.2750
+angle: -0.8281
+
+force: 1.2801
+angle: -0.8500
+
+force: 1.2872
+angle: -0.8061
+
+force: 1.3013
+angle: -0.8281
+
+force: 1.3097
+angle: -0.8940
+
+force: 1.3162
+angle: -0.8940
+
+force: 1.3238
+angle: -0.9599
+
+force: 1.3310
+angle: -1.0038
+
+force: 1.3445
+angle: -1.0258
+
+force: 1.3491
+angle: -1.0917
+
+force: 1.3553
+angle: -1.1137
+
+force: 1.3613
+angle: -1.1576
+
+force: 1.3660
+angle: -1.1357
+
+force: 1.3736
+angle: -1.2016
+
+force: 1.3776
+angle: -1.2455
+
+force: 1.3815
+angle: -1.2455
+
+force: 1.3855
+angle: -1.3115
+
+force: 1.3901
+angle: -1.2675
+
+force: 1.3979
+angle: -1.3554
+
+force: 1.4023
+angle: -1.3774
+
+force: 1.4072
+angle: -1.3993
+
+force: 1.4122
+angle: -1.4653
+
+force: 1.4167
+angle: -1.4653
+
+force: 1.4261
+angle: -1.5971
+
+force: 1.4310
+angle: -1.5971
+
+force: 1.4362
+angle: -1.6630
+
+force: 1.4400
+angle: -1.6630
+
+force: 1.4461
+angle: -1.7289
+
+force: 1.4546
+angle: -1.8168
+
+force: 1.4593
+angle: -1.7509
+
+force: 1.4619
+angle: -1.7949
+
+force: 1.4655
+angle: -1.8168
+
+force: 1.4678
+angle: -1.8168
+
+force: 1.4721
+angle: -1.9047
+
+force: 1.4745
+angle: -1.9267
+
+force: 1.4780
+angle: -1.9487
+
+force: 1.4809
+angle: -2.0366
+
+force: 1.4829
+angle: -2.0146
+
+force: 1.4871
+angle: -2.1025
+
+force: 1.4904
+angle: -2.1684
+
+force: 1.4933
+angle: -2.2123
+
+force: 1.4980
+angle: -2.2783
+
+force: 1.5017
+angle: -2.2343
+
+force: 1.5058
+angle: -2.2783
+
+force: 1.5066
+angle: -2.3442
+
+force: 1.5087
+angle: -2.3222
+
+force: 1.5109
+angle: -2.3442
+
+force: 1.5117
+angle: -2.3661
+
+force: 1.5172
+angle: -2.4101
+
+force: 1.5200
+angle: -2.4321
+
+force: 1.5215
+angle: -2.4540
+
+force: 1.5219
+angle: -2.5200
+
+force: 1.5239
+angle: -2.5859
+
+force: 1.5293
+angle: -2.5859
+
+force: 1.5320
+angle: -2.5639
+
+force: 1.5334
+angle: -2.6518
+
+force: 1.5365
+angle: -2.6518
+
+force: 1.5378
+angle: -2.7177
+
+force: 1.5424
+angle: -2.7397
+
+force: 1.5453
+angle: -2.7617
+
+force: 1.5480
+angle: -2.8495
+
+force: 1.5495
+angle: -2.8495
+
+force: 1.5517
+angle: -2.8715
+
+force: 1.5555
+angle: -2.9155
+
+force: 1.5575
+angle: -2.8935
+
+force: 1.5576
+angle: -2.9594
+
+force: 1.5581
+angle: -2.9814
+
+force: 1.5587
+angle: -2.9594
+
+force: 1.5616
+angle: -3.0033
+
+force: 1.5627
+angle: -3.0253
+
+force: 1.5640
+angle: -3.0253
+
+force: 1.5655
+angle: -3.0253
+
+force: 1.5676
+angle: -3.1132
+
+force: 1.5708
+angle: -3.1132
+
+force: 1.5733
+angle: -3.1132
+
+force: 1.5752
+angle: -3.2011
+
+force: 1.5767
+angle: -3.2011
+
+force: 1.5796
+angle: -3.2890
+
+force: 1.5853
+angle: -3.3110
+
+force: 1.5875
+angle: -3.3769
+
+force: 1.5902
+angle: -3.4428
+
+force: 1.5928
+angle: -3.3549
+
+force: 1.5937
+angle: -3.4208
+
+force: 1.5957
+angle: -3.4867
+
+force: 1.5946
+angle: -3.4648
+
+force: 1.5934
+angle: -3.4867
+
+force: 1.5906
+angle: -3.4867
+
+force: 1.5897
+angle: -3.4867
+
+force: 1.5885
+angle: -3.4648
+
+force: 1.5873
+angle: -3.4867
+
+force: 1.5848
+angle: -3.3989
+
+force: 1.5839
+angle: -3.4428
+
+force: 1.5823
+angle: -3.4428
+
+force: 1.5830
+angle: -3.4428
+
+force: 1.5876
+angle: -3.4867
+
+force: 1.5928
+angle: -3.4867
+
+force: 1.5960
+angle: -3.4428
+
+force: 1.5970
+angle: -3.4648
+
+force: 1.5998
+angle: -3.4867
+
+force: 1.6008
+angle: -3.5307
+
+force: 1.6028
+angle: -3.5087
+
+force: 1.6020
+angle: -3.5527
+
+force: 1.6030
+angle: -3.6625
+
+force: 1.6049
+angle: -3.5746
+
+force: 1.6065
+angle: -3.6406
+
+force: 1.6067
+angle: -3.6406
+
+force: 1.6087
+angle: -3.7065
+
+force: 1.6091
+angle: -3.7065
+
+force: 1.6101
+angle: -3.7065
+
+force: 1.6087
+angle: -3.7504
+
+force: 1.6083
+angle: -3.6845
+
+force: 1.6065
+angle: -3.7284
+
+force: 1.6048
+angle: -3.6845
+
+force: 1.6000
+angle: -3.6845
+
+force: 1.6002
+angle: -3.7065
+
+force: 1.6000
+angle: -3.7065
+
+force: 1.6008
+angle: -3.7065
+
+force: 1.6002
+angle: -3.6845
+
+force: 1.5928
+angle: -3.6845
+
+force: 1.5891
+angle: -3.6625
+
+force: 1.5872
+angle: -3.6406
+
+force: 1.5873
+angle: -3.6406
+
+force: 1.5866
+angle: -3.6625
+
+force: 1.5855
+angle: -3.6406
+
+force: 1.5836
+angle: -3.6625
+
+force: 1.5811
+angle: -3.6625
+
+force: 1.5768
+angle: -3.6845
+
+force: 1.5750
+angle: -3.6406
+
+force: 1.5694
+angle: -3.6845
+
+force: 1.5648
+angle: -3.6625
+
+force: 1.5612
+angle: -3.6186
+
+force: 1.5580
+angle: -3.5966
+
+force: 1.5533
+angle: -3.5527
+
+force: 1.5475
+angle: -3.5746
+
+force: 1.5455
+angle: -3.5307
+
+force: 1.5439
+angle: -3.4867
+
+force: 1.5418
+angle: -3.5307
+
+force: 1.5393
+angle: -3.4867
+
+force: 1.5341
+angle: -3.4867
+
+force: 1.5331
+angle: -3.4428
+
+force: 1.5303
+angle: -3.4428
+
+force: 1.5283
+angle: -3.4208
+
+force: 1.5263
+angle: -3.3769
+
+force: 1.5219
+angle: -3.3329
+
+force: 1.5180
+angle: -3.3110
+
+force: 1.5158
+angle: -3.2890
+
+force: 1.5147
+angle: -3.2890
+
+force: 1.5118
+angle: -3.2450
+
+force: 1.5064
+angle: -3.2450
+
+force: 1.5040
+angle: -3.2011
+
+force: 1.5015
+angle: -3.1572
+
+force: 1.4990
+angle: -3.1572
+
+force: 1.4972
+angle: -3.1572
+
+force: 1.4919
+angle: -3.1572
+
+force: 1.4904
+angle: -3.1132
+
+force: 1.4878
+angle: -3.0912
+
+force: 1.4864
+angle: -3.0693
+
+force: 1.4827
+angle: -3.0693
+
+force: 1.4796
+angle: -3.0033
+
+force: 1.4771
+angle: -3.0693
+
+force: 1.4758
+angle: -3.0253
+
+force: 1.4738
+angle: -2.9814
+
+force: 1.4719
+angle: -2.9594
+
+force: 1.4683
+angle: -2.9374
+
+force: 1.4664
+angle: -2.9814
+
+force: 1.4640
+angle: -2.9155
+
+force: 1.4611
+angle: -2.8715
+
+force: 1.4591
+angle: -2.8935
+
+force: 1.4545
+angle: -2.8495
+
+force: 1.4521
+angle: -2.8276
+
+force: 1.4499
+angle: -2.8056
+
+force: 1.4471
+angle: -2.7836
+
+force: 1.4443
+angle: -2.7836
+
+force: 1.4389
+angle: -2.7397
+
+force: 1.4368
+angle: -2.6957
+
+force: 1.4334
+angle: -2.6957
+
+force: 1.4297
+angle: -2.6518
+
+force: 1.4267
+angle: -2.6298
+
+force: 1.4205
+angle: -2.5419
+
+force: 1.4179
+angle: -2.5419
+
+force: 1.4145
+angle: -2.5419
+
+force: 1.4125
+angle: -2.5200
+
+force: 1.4084
+angle: -2.4540
+
+force: 1.4016
+angle: -2.4101
+
+force: 1.3976
+angle: -2.3002
+
+force: 1.3940
+angle: -2.3442
+
+force: 1.3890
+angle: -2.2783
+
+force: 1.3852
+angle: -2.2123
+
+force: 1.3786
+angle: -2.1684
+
+force: 1.3763
+angle: -2.1244
+
+force: 1.3731
+angle: -2.1464
+
+force: 1.3708
+angle: -2.1464
+
+force: 1.3686
+angle: -2.1244
+
+force: 1.3628
+angle: -2.0585
+
+force: 1.3590
+angle: -2.0366
+
+force: 1.3566
+angle: -2.0366
+
+force: 1.3541
+angle: -1.9706
+
+force: 1.3493
+angle: -1.9706
+
+force: 1.3441
+angle: -1.9706
+
+force: 1.3411
+angle: -1.9047
+
+force: 1.3386
+angle: -1.8388
+
+force: 1.3351
+angle: -1.9047
+
+force: 1.3327
+angle: -1.8608
+
+force: 1.3270
+angle: -1.7949
+
+force: 1.3248
+angle: -1.7949
+
+force: 1.3211
+angle: -1.8388
+
+force: 1.3189
+angle: -1.7949
+
+force: 1.3162
+angle: -1.7729
+
+force: 1.3117
+angle: -1.7070
+
+force: 1.3083
+angle: -1.7070
+
+force: 1.3056
+angle: -1.7070
+
+force: 1.3017
+angle: -1.7070
+
+force: 1.2979
+angle: -1.6410
+
+force: 1.2884
+angle: -1.5971
+
+force: 1.2839
+angle: -1.5532
+
+force: 1.2778
+angle: -1.5092
+
+force: 1.2719
+angle: -1.4872
+
+force: 1.2657
+angle: -1.4433
+
+force: 1.2517
+angle: -1.3993
+
+force: 1.2445
+angle: -1.3334
+
+force: 1.2384
+angle: -1.3554
+
+force: 1.2336
+angle: -1.2895
+
+force: 1.2279
+angle: -1.3115
+
+force: 1.2174
+angle: -1.2675
+
+force: 1.2116
+angle: -1.2455
+
+force: 1.2065
+angle: -1.2236
+
+force: 1.2013
+angle: -1.2016
+
+force: 1.1965
+angle: -1.1576
+
+force: 1.1873
+angle: -1.1357
+
+force: 1.1828
+angle: -1.0698
+
+force: 1.1764
+angle: -1.1357
+
+force: 1.1705
+angle: -1.0917
+
+force: 1.1615
+angle: -1.1137
+
+force: 1.1451
+angle: -0.9379
+
+force: 1.1356
+angle: -1.0038
+
+force: 1.1272
+angle: -0.9599
+
+force: 1.1183
+angle: -0.9599
+
+force: 1.1086
+angle: -0.9159
+
+force: 1.0883
+angle: -0.8500
+
+force: 1.0776
+angle: -0.8720
+
+force: 1.0662
+angle: -0.8500
+
+force: 1.0558
+angle: -0.8061
+
+force: 1.0461
+angle: -0.8500
+
+force: 1.0256
+angle: -0.7621
+
+force: 1.0133
+angle: -0.6962
+
+force: 1.0037
+angle: -0.7182
+
+force: 0.9931
+angle: -0.6962
+
+force: 0.9823
+angle: -0.6962
+
+force: 0.9582
+angle: -0.6742
+
+force: 0.9464
+angle: -0.6742
+
+force: 0.9325
+angle: -0.6083
+
+force: 0.9172
+angle: -0.5644
+
+force: 0.9011
+angle: -0.5864
+
+force: 0.8655
+angle: -0.5204
+
+force: 0.8495
+angle: -0.5204
+
+force: 0.8341
+angle: -0.5424
+
+force: 0.8220
+angle: -0.4765
+
+force: 0.8079
+angle: -0.4765
+
+force: 0.7792
+angle: -0.5204
+
+force: 0.7629
+angle: -0.4545
+
+force: 0.7486
+angle: -0.4106
+
+force: 0.7341
+angle: -0.4325
+
+force: 0.7207
+angle: -0.4325
+
+force: 0.6907
+angle: -0.3886
+
+force: 0.6745
+angle: -0.4325
+
+force: 0.6566
+angle: -0.3447
+
+force: 0.6392
+angle: -0.3447
+
+force: 0.6204
+angle: -0.3227
+
+force: 0.5906
+angle: -0.3227
+
+force: 0.5772
+angle: -0.2568
+
+force: 0.5651
+angle: -0.3007
+
+force: 0.5550
+angle: -0.2787
+
+force: 0.5409
+angle: -0.3447
+
+force: 0.5159
+angle: -0.2568
+
+force: 0.5049
+angle: -0.2568
+
+force: 0.4907
+angle: -0.2348
+
+force: 0.4754
+angle: -0.2568
+
+force: 0.4608
+angle: -0.1908
+
+force: 0.4298
+angle: -0.2348
+
+force: 0.4123
+angle: -0.2348
+
+force: 0.3938
+angle: -0.2128
+
+force: 0.3771
+angle: -0.1689
+
+force: 0.3600
+angle: -0.1469
+
+force: 0.3278
+angle: -0.1249
+
+force: 0.3114
+angle: -0.1030
+
+force: 0.2983
+angle: -0.0810
+
+force: 0.2867
+angle: -0.1030
+
+force: 0.2787
+angle: -0.1249
+
+force: 0.2605
+angle: -0.1030
+
+force: 0.2540
+angle: -0.1249
+
+force: 0.2469
+angle: -0.1030
+
+force: 0.2390
+angle: -0.0590
+
+force: 0.2325
+angle: -0.0810
+
+force: 0.2139
+angle: -0.0370
+
+force: 0.2025
+angle: -0.0370
+
+force: 0.1919
+angle: -0.0370
+
+force: 0.1785
+angle: -0.0810
+
+force: 0.1662
+angle: -0.0151
+
+force: 0.1372
+angle: 0.0069
+
+force: 0.1197
+angle: 0.0069
+
+force: 0.1013
+angle: 0.0069
+
+force: 0.0833
+angle: 0.0289
+
+force: 0.0685
+angle: 0.0069
+
+force: 0.0494
+angle: -0.0370
+
+force: 0.0383
+angle: 0.0289
+
+force: 0.0186
+angle: 0.0069
+
+force: 0.0044
+angle: -0.0590
+
+force: -0.0014
+angle: -0.0151
+
+force: -0.0029
+angle: 0.0289
+
+force: -0.0011
+angle: 0.0069
+
+force: 0.0038
+angle: -0.0370
+
+force: 0.0038
+angle: -0.0151
+
+force: 0.0026
+angle: -0.0151
+
+force: 0.0029
+angle: 0.0069
+
+force: 0.0014
+angle: 0.0069
+
+force: 0.0029
+angle: 0.0508
+
+force: 0.0042
+angle: -0.0151
+
+force: 0.0002
+angle: 0.0289
+
+force: 0.0017
+angle: -0.0590
+
+force: 0.0006
+angle: 0.0069
+
+force: 0.0027
+angle: -0.0370
+
+force: 0.0042
+angle: 0.0289
+
+force: -0.0003
+angle: -0.0151
+
+force: 0.0012
+angle: -0.0370
+
+force: 0.0001
+angle: 0.0289
+
+force: 0.0026
+angle: 0.0069
+
+force: -0.0003
+angle: -0.0151
+
+force: 0.0005
+angle: 0.0289
+
+force: 0.0010
+angle: -0.0151
+
+force: 0.0028
+angle: -0.0151
+
+force: 0.0023
+angle: 0.0069
+
+force: 0.0001
+angle: 0.0069
+
+force: 0.0004
+angle: 0.0069
+
+force: 0.0015
+angle: 0.0289
+
+force: 0.0018
+angle: -0.0151
+
+force: 0.0017
+angle: 0.0069
+
+force: 0.0010
+angle: -0.0151
+
+force: 0.0032
+angle: -0.0590
+
+force: 0.0122
+angle: 0.0069
+
+force: 0.0212
+angle: -0.0151
+
+force: 0.0325
+angle: -0.0151
+
+force: 0.0465
+angle: -0.0370
+
+force: 0.0628
+angle: 0.0289
+
+force: 0.0938
+angle: -0.0151
+
+force: 0.1120
+angle: -0.0370
+
+force: 0.1277
+angle: -0.0590
+
+force: 0.1472
+angle: -0.0810
+
+force: 0.1673
+angle: -0.0590
+
+force: 0.2050
+angle: -0.0151
+
+force: 0.2218
+angle: -0.0370
+
+force: 0.2392
+angle: -0.0370
+
+force: 0.2577
+angle: -0.0590
+
+force: 0.2811
+angle: -0.0810
+
+force: 0.3339
+angle: -0.0590
+
+force: 0.3596
+angle: -0.0590
+
+force: 0.3814
+angle: -0.1249
+
+force: 0.4019
+angle: -0.1030
+
+force: 0.4229
+angle: -0.0810
+
+force: 0.4720
+angle: -0.1469
+
+force: 0.5052
+angle: -0.0590
+
+force: 0.5393
+angle: -0.1469
+
+force: 0.5703
+angle: -0.1689
+
+force: 0.6004
+angle: -0.1689
+
+force: 0.6516
+angle: -0.2128
+
+force: 0.6789
+angle: -0.1908
+
+force: 0.7055
+angle: -0.1908
+
+force: 0.7310
+angle: -0.2568
+
+force: 0.7557
+angle: -0.2348
+
+force: 0.8006
+angle: -0.2787
+
+force: 0.8233
+angle: -0.2787
+
+force: 0.8476
+angle: -0.2787
+
+force: 0.8714
+angle: -0.3007
+
+force: 0.8926
+angle: -0.3227
+
+force: 0.9278
+angle: -0.3447
+
+force: 0.9467
+angle: -0.2787
+
+force: 0.9655
+angle: -0.4106
+
+force: 0.9832
+angle: -0.3886
+
+force: 1.0005
+angle: -0.4106
+
+force: 1.0312
+angle: -0.4106
+
+force: 1.0444
+angle: -0.4545
+
+force: 1.0553
+angle: -0.4325
+
+force: 1.0671
+angle: -0.4765
+
+force: 1.0783
+angle: -0.4765
+
+force: 1.1039
+angle: -0.5204
+
+force: 1.1152
+angle: -0.5644
+
+force: 1.1277
+angle: -0.5864
+
+force: 1.1398
+angle: -0.6083
+
+force: 1.1527
+angle: -0.5864
+
+force: 1.1781
+angle: -0.6962
+
+force: 1.1896
+angle: -0.6742
+
+force: 1.1986
+angle: -0.6742
+
+force: 1.2076
+angle: -0.6962
+
+force: 1.2163
+angle: -0.8061
+
+force: 1.2353
+angle: -0.8061
+
+force: 1.2455
+angle: -0.8061
+
+force: 1.2559
+angle: -0.8940
+
+force: 1.2659
+angle: -0.9159
+
+force: 1.2758
+angle: -0.9379
+
+force: 1.2923
+angle: -1.0258
+
+force: 1.3005
+angle: -1.0038
+
+force: 1.3074
+angle: -1.0698
+
+force: 1.3131
+angle: -1.0917
+
+force: 1.3186
+angle: -1.0698
+
+force: 1.3279
+angle: -1.1576
+
+force: 1.3335
+angle: -1.1576
+
+force: 1.3375
+angle: -1.1796
+
+force: 1.3434
+angle: -1.2236
+
+force: 1.3497
+angle: -1.2895
+
+force: 1.3667
+angle: -1.3334
+
+force: 1.3763
+angle: -1.3993
+
+force: 1.3868
+angle: -1.3993
+
+force: 1.3952
+angle: -1.4653
+
+force: 1.4017
+angle: -1.4433
+
+force: 1.4125
+angle: -1.5312
+
+force: 1.4182
+angle: -1.5971
+
+force: 1.4231
+angle: -1.5312
+
+force: 1.4282
+angle: -1.6191
+
+force: 1.4334
+angle: -1.6410
+
+force: 1.4431
+angle: -1.6630
+
+force: 1.4474
+angle: -1.6630
+
+force: 1.4530
+angle: -1.7509
+
+force: 1.4588
+angle: -1.7509
+
+force: 1.4640
+angle: -1.8168
+
+force: 1.4748
+angle: -1.7949
+
+force: 1.4799
+angle: -1.9267
+
+force: 1.4844
+angle: -1.9487
+
+force: 1.4876
+angle: -1.9706
+
+force: 1.4913
+angle: -1.9706
+
+force: 1.4982
+angle: -1.9706
+
+force: 1.5033
+angle: -2.0146
+
+force: 1.5077
+angle: -2.0805
+
+force: 1.5129
+angle: -2.1464
+
+force: 1.5159
+angle: -2.1684
+
+force: 1.5235
+angle: -2.1904
+
+force: 1.5268
+angle: -2.1904
+
+force: 1.5300
+angle: -2.2563
+
+force: 1.5320
+angle: -2.3442
+
+force: 1.5347
+angle: -2.3661
+
+force: 1.5407
+angle: -2.3222
+
+force: 1.5444
+angle: -2.4101
+
+force: 1.5478
+angle: -2.3881
+
+force: 1.5515
+angle: -2.4540
+
+force: 1.5550
+angle: -2.4101
+
+force: 1.5612
+angle: -2.4540
+
+force: 1.5637
+angle: -2.5639
+
+force: 1.5678
+angle: -2.5639
+
+force: 1.5724
+angle: -2.5639
+
+force: 1.5751
+angle: -2.6298
+
+force: 1.5802
+angle: -2.6738
+
+force: 1.5829
+angle: -2.7617
+
+force: 1.5856
+angle: -2.7397
+
+force: 1.5866
+angle: -2.8056
+
+force: 1.5916
+angle: -2.8056
+
+force: 1.6025
+angle: -2.8935
+
+force: 1.6066
+angle: -2.9374
+
+force: 1.6104
+angle: -2.9594
+
+force: 1.6125
+angle: -3.0253
+
+force: 1.6105
+angle: -3.0912
+
+force: 1.6114
+angle: -3.0693
+
+force: 1.6142
+angle: -3.0473
+
+force: 1.6154
+angle: -3.1132
+
+force: 1.6161
+angle: -3.1132
+
+force: 1.6183
+angle: -3.1352
+
+force: 1.6250
+angle: -3.1791
+
+force: 1.6295
+angle: -3.2231
+
+force: 1.6336
+angle: -3.2670
+
+force: 1.6379
+angle: -3.3110
+
+force: 1.6399
+angle: -3.3769
+
+force: 1.6470
+angle: -3.4208
+
+force: 1.6480
+angle: -3.4428
+
+force: 1.6507
+angle: -3.5087
+
+force: 1.6536
+angle: -3.5527
+
+force: 1.6558
+angle: -3.5307
+
+force: 1.6570
+angle: -3.5087
+
+force: 1.6578
+angle: -3.5966
+
+force: 1.6604
+angle: -3.5746
+
+force: 1.6643
+angle: -3.6186
+
+force: 1.6682
+angle: -3.6625
+
+force: 1.6673
+angle: -3.7065
+
+force: 1.6675
+angle: -3.6625
+
+force: 1.6695
+angle: -3.6625
+
+force: 1.6735
+angle: -3.7284
+
+force: 1.6763
+angle: -3.7284
+
+force: 1.6815
+angle: -3.7724
+
+force: 1.6833
+angle: -3.8163
+
+force: 1.6875
+angle: -3.8603
+
+force: 1.6934
+angle: -3.9042
+
+force: 1.6953
+angle: -3.9921
+
+force: 1.6967
+angle: -4.0361
+
+force: 1.6988
+angle: -4.0800
+
+force: 1.6986
+angle: -4.1899
+
+force: 1.6981
+angle: -4.1679
+
+force: 1.6992
+angle: -4.2118
+
+force: 1.6993
+angle: -4.2118
+
+force: 1.6999
+angle: -4.2338
+
+force: 1.7017
+angle: -4.1899
+
+force: 1.7046
+angle: -4.2338
+
+force: 1.7070
+angle: -4.2338
+
+force: 1.7082
+angle: -4.3437
+
+force: 1.7102
+angle: -4.2997
+
+force: 1.7115
+angle: -4.3876
+
+force: 1.7130
+angle: -4.3217
+
+force: 1.7162
+angle: -4.4316
+
+force: 1.7201
+angle: -4.4096
+
+force: 1.7222
+angle: -4.4535
+
+force: 1.7246
+angle: -4.4535
+
+force: 1.7262
+angle: -4.4535
+
+force: 1.7260
+angle: -4.4535
+
+force: 1.7263
+angle: -4.4535
+
+force: 1.7260
+angle: -4.4975
+
+force: 1.7296
+angle: -4.4755
+
+force: 1.7303
+angle: -4.5195
+
+force: 1.7327
+angle: -4.4535
+
+force: 1.7340
+angle: -4.5414
+
+force: 1.7368
+angle: -4.6074
+
+force: 1.7349
+angle: -4.6074
+
+force: 1.7343
+angle: -4.6293
+
+force: 1.7353
+angle: -4.7392
+
+force: 1.7339
+angle: -4.7392
+
+force: 1.7318
+angle: -4.7392
+
+force: 1.7312
+angle: -4.7392
+
+force: 1.7350
+angle: -4.6952
+
+force: 1.7362
+angle: -4.6952
+
+force: 1.7415
+angle: -4.7612
+
+force: 1.7407
+angle: -4.8051
+
+force: 1.7403
+angle: -4.7612
+
+force: 1.7376
+angle: -4.7612
+
+force: 1.7366
+angle: -4.8051
+
+force: 1.7419
+angle: -4.7392
+
+force: 1.7468
+angle: -4.7612
+
+force: 1.7465
+angle: -4.8710
+
+force: 1.7476
+angle: -4.8710
+
+force: 1.7484
+angle: -4.9150
+
+force: 1.7473
+angle: -4.9369
+
+force: 1.7473
+angle: -4.9589
+
+force: 1.7506
+angle: -4.9809
+
+force: 1.7527
+angle: -5.0029
+
+force: 1.7534
+angle: -4.9369
+
+force: 1.7492
+angle: -4.9809
+
+force: 1.7478
+angle: -4.9809
+
+force: 1.7492
+angle: -4.9809
+
+force: 1.7535
+angle: -4.9809
+
+force: 1.7561
+angle: -4.9369
+
+force: 1.7537
+angle: -4.9809
+
+force: 1.7502
+angle: -4.9589
+
+force: 1.7477
+angle: -4.9369
+
+force: 1.7448
+angle: -5.0029
+
+force: 1.7399
+angle: -4.9589
+
+force: 1.7347
+angle: -4.9369
+
+force: 1.7339
+angle: -4.9369
+
+force: 1.7348
+angle: -4.9369
+
+force: 1.7343
+angle: -4.9809
+
+force: 1.7326
+angle: -4.9369
+
+force: 1.7196
+angle: -4.9369
+
+force: 1.7134
+angle: -4.9369
+
+force: 1.7069
+angle: -4.9369
+
+force: 1.7013
+angle: -4.9150
+
+force: 1.6956
+angle: -4.8930
+
+force: 1.6884
+angle: -4.9150
+
+force: 1.6845
+angle: -4.8930
+
+force: 1.6791
+angle: -4.8930
+
+force: 1.6731
+angle: -4.8710
+
+force: 1.6700
+angle: -4.9150
+
+force: 1.6597
+angle: -4.8271
+
+force: 1.6561
+angle: -4.8051
+
+force: 1.6508
+angle: -4.8051
+
+force: 1.6462
+angle: -4.8051
+
+force: 1.6435
+angle: -4.8271
+
+force: 1.6377
+angle: -4.7831
+
+force: 1.6351
+angle: -4.7172
+
+force: 1.6317
+angle: -4.7831
+
+force: 1.6275
+angle: -4.7612
+
+force: 1.6231
+angle: -4.7612
+
+force: 1.6156
+angle: -4.6293
+
+force: 1.6107
+angle: -4.6293
+
+force: 1.6057
+angle: -4.6513
+
+force: 1.5998
+angle: -4.5854
+
+force: 1.5946
+angle: -4.5634
+
+force: 1.5831
+angle: -4.5195
+
+force: 1.5786
+angle: -4.5195
+
+force: 1.5736
+angle: -4.5414
+
+force: 1.5695
+angle: -4.4096
+
+force: 1.5644
+angle: -4.4755
+
+force: 1.5569
+angle: -4.4535
+
+force: 1.5527
+angle: -4.3876
+
+force: 1.5495
+angle: -4.4096
+
+force: 1.5449
+angle: -4.3657
+
+force: 1.5417
+angle: -4.3437
+
+force: 1.5345
+angle: -4.2997
+
+force: 1.5307
+angle: -4.2778
+
+force: 1.5265
+angle: -4.2778
+
+force: 1.5232
+angle: -4.1899
+
+force: 1.5212
+angle: -4.1459
+
+force: 1.5146
+angle: -4.1020
+
+force: 1.5121
+angle: -4.1020
+
+force: 1.5102
+angle: -3.9921
+
+force: 1.5078
+angle: -4.0141
+
+force: 1.5036
+angle: -3.9042
+
+force: 1.4969
+angle: -3.9262
+
+force: 1.4953
+angle: -3.8823
+
+force: 1.4926
+angle: -3.8823
+
+force: 1.4885
+angle: -3.7944
+
+force: 1.4857
+angle: -3.7724
+
+force: 1.4779
+angle: -3.6845
+
+force: 1.4737
+angle: -3.6406
+
+force: 1.4702
+angle: -3.5746
+
+force: 1.4662
+angle: -3.5746
+
+force: 1.4622
+angle: -3.4648
+
+force: 1.4560
+angle: -3.3989
+
+force: 1.4525
+angle: -3.3769
+
+force: 1.4503
+angle: -3.2890
+
+force: 1.4473
+angle: -3.2450
+
+force: 1.4448
+angle: -3.2011
+
+force: 1.4375
+angle: -3.0912
+
+force: 1.4339
+angle: -3.0693
+
+force: 1.4305
+angle: -3.0033
+
+force: 1.4276
+angle: -3.0033
+
+force: 1.4251
+angle: -2.8935
+
+force: 1.4184
+angle: -2.8495
+
+force: 1.4138
+angle: -2.8056
+
+force: 1.4094
+angle: -2.7397
+
+force: 1.4056
+angle: -2.7177
+
+force: 1.4005
+angle: -2.6518
+
+force: 1.3924
+angle: -2.6078
+
+force: 1.3893
+angle: -2.5200
+
+force: 1.3856
+angle: -2.4760
+
+force: 1.3816
+angle: -2.4321
+
+force: 1.3776
+angle: -2.3661
+
+force: 1.3678
+angle: -2.2563
+
+force: 1.3626
+angle: -2.2123
+
+force: 1.3568
+angle: -2.1464
+
+force: 1.3513
+angle: -2.0366
+
+force: 1.3450
+angle: -2.0366
+
+force: 1.3351
+angle: -2.0146
+
+force: 1.3297
+angle: -1.9267
+
+force: 1.3254
+angle: -1.9487
+
+force: 1.3200
+angle: -1.9047
+
+force: 1.3141
+angle: -1.8388
+
+force: 1.3007
+angle: -1.8388
+
+force: 1.2936
+angle: -1.7949
+
+force: 1.2859
+angle: -1.6630
+
+force: 1.2793
+angle: -1.6410
+
+force: 1.2733
+angle: -1.6630
+
+force: 1.2612
+angle: -1.6191
+
+force: 1.2559
+angle: -1.5092
+
+force: 1.2484
+angle: -1.4653
+
+force: 1.2403
+angle: -1.3993
+
+force: 1.2305
+angle: -1.3774
+
+force: 1.2121
+angle: -1.3334
+
+force: 1.2043
+angle: -1.2675
+
+force: 1.1956
+angle: -1.2675
+
+force: 1.1858
+angle: -1.2895
+
+force: 1.1778
+angle: -1.1796
+
+force: 1.1608
+angle: -1.1357
+
+force: 1.1528
+angle: -1.0917
+
+force: 1.1434
+angle: -1.0698
+
+force: 1.1355
+angle: -1.0258
+
+force: 1.1260
+angle: -1.0258
+
+force: 1.1048
+angle: -0.9819
+
+force: 1.0932
+angle: -0.9599
+
+force: 1.0822
+angle: -0.9379
+
+force: 1.0682
+angle: -0.8281
+
+force: 1.0531
+angle: -0.8061
+
+force: 1.0247
+angle: -0.7841
+
+force: 1.0119
+angle: -0.7182
+
+force: 0.9992
+angle: -0.6962
+
+force: 0.9868
+angle: -0.6303
+
+force: 0.9742
+angle: -0.6303
+
+force: 0.9475
+angle: -0.6303
+
+force: 0.9328
+angle: -0.5424
+
+force: 0.9174
+angle: -0.5644
+
+force: 0.9014
+angle: -0.4985
+
+force: 0.8851
+angle: -0.4985
+
+force: 0.8549
+angle: -0.4985
+
+force: 0.8399
+angle: -0.4545
+
+force: 0.8262
+angle: -0.4765
+
+force: 0.8118
+angle: -0.4106
+
+force: 0.7997
+angle: -0.3886
+
+force: 0.7724
+angle: -0.3447
+
+force: 0.7588
+angle: -0.3666
+
+force: 0.7443
+angle: -0.3886
+
+force: 0.7310
+angle: -0.3886
+
+force: 0.7178
+angle: -0.3007
+
+force: 0.6942
+angle: -0.3007
+
+force: 0.6807
+angle: -0.3227
+
+force: 0.6695
+angle: -0.2787
+
+force: 0.6566
+angle: -0.3227
+
+force: 0.6413
+angle: -0.2787
+
+force: 0.6061
+angle: -0.2568
+
+force: 0.5894
+angle: -0.2348
+
+force: 0.5732
+angle: -0.2128
+
+force: 0.5609
+angle: -0.1469
+
+force: 0.5488
+angle: -0.2787
+
+force: 0.5277
+angle: -0.1908
+
+force: 0.5147
+angle: -0.1908
+
+force: 0.5006
+angle: -0.1908
+
+force: 0.4870
+angle: -0.2128
+
+force: 0.4734
+angle: -0.1689
+
+force: 0.4541
+angle: -0.1689
+
+force: 0.4432
+angle: -0.1689
+
+force: 0.4332
+angle: -0.2128
+
+force: 0.4228
+angle: -0.1030
+
+force: 0.4128
+angle: -0.1249
+
+force: 0.3861
+angle: -0.1908
+
+force: 0.3749
+angle: -0.1908
+
+force: 0.3610
+angle: -0.1469
+
+force: 0.3523
+angle: -0.1030
+
+force: 0.3435
+angle: -0.1689
+
+force: 0.3211
+angle: -0.1249
+
+force: 0.3081
+angle: -0.1249
+
+force: 0.2970
+angle: -0.0810
+
+force: 0.2888
+angle: -0.1469
+
+force: 0.2820
+angle: -0.0590
+
+force: 0.2734
+angle: -0.1249
+
+force: 0.2724
+angle: -0.1030
+
+force: 0.2689
+angle: -0.1030
+
+force: 0.2630
+angle: -0.0810
+
+force: 0.2538
+angle: -0.1030
+
+force: 0.2359
+angle: -0.0590
+
+force: 0.2296
+angle: -0.1249
+
+force: 0.2262
+angle: -0.0590
+
+force: 0.2232
+angle: -0.0590
+
+force: 0.2190
+angle: -0.1469
+
+force: 0.2095
+angle: -0.1030
+
+force: 0.2007
+angle: -0.1469
+
+force: 0.1921
+angle: -0.1249
+
+force: 0.1820
+angle: -0.0810
+
+force: 0.1735
+angle: -0.1030
+
+force: 0.1514
+angle: -0.0810
+
+force: 0.1437
+angle: 0.0069
+
+force: 0.1365
+angle: -0.0151
+
+force: 0.1325
+angle: -0.0590
+
+force: 0.1277
+angle: -0.0370
+
+force: 0.1149
+angle: -0.0590
+
+force: 0.1084
+angle: -0.0810
+
+force: 0.1056
+angle: -0.0590
+
+force: 0.1034
+angle: -0.0370
+
+force: 0.1020
+angle: -0.0151
+
+force: 0.0938
+angle: -0.0370
+
+force: 0.0917
+angle: -0.0151
+
+force: 0.0888
+angle: -0.0370
+
+force: 0.0862
+angle: 0.0069
+
+force: 0.0831
+angle: -0.0370
+
+force: 0.0760
+angle: -0.0151
+
+force: 0.0732
+angle: -0.0151
+
+force: 0.0720
+angle: -73.1401
+
+force: 0.0698
+angle: -75.5790
+
+force: 0.0642
+angle: -75.5790
+
+force: 0.0525
+angle: -75.5790
+
+force: 0.0486
+angle: 0.0069
+
+force: 0.0445
+angle: -0.0151
+
+force: 0.0425
+angle: 0.0069
+
+force: 0.0421
+angle: 0.0069
+
+force: 0.0416
+angle: -0.0151
+
+force: 0.0424
+angle: -0.0151
+
+force: 0.0407
+angle: 0.0069
+
+force: 0.0386
+angle: -0.0151
+
+force: 0.0367
+angle: -0.0370
+
+force: 0.0381
+angle: -0.0151
+
+force: 0.0401
+angle: -0.0151
+
+force: 0.0436
+angle: -0.0590
+
+force: 0.0451
+angle: -0.0590
+
+force: 0.0463
+angle: -0.0810
+
+force: 0.0484
+angle: 0.0069
+
+force: 0.0507
+angle: 0.0289
+
+force: 0.0534
+angle: -0.0151
+
+force: 0.0564
+angle: -0.0590
+
+force: 0.0582
+angle: 0.0289
+
+force: 0.0573
+angle: -0.0370
+
+force: 0.0562
+angle: -0.0151
+
+force: 0.0540
+angle: -0.0370
+
+force: 0.0524
+angle: -0.0151
+
+force: 0.0504
+angle: -0.0370
+
+force: 0.0460
+angle: -0.0370
+
+force: 0.0423
+angle: -0.0151
+
+force: 0.0387
+angle: -0.0590
+
+force: 0.0341
+angle: 0.0289
+
+force: 0.0303
+angle: -0.0151
+
+force: 0.0197
+angle: -0.0370
+
+force: 0.0135
+angle: -0.0370
+
+force: 0.0042
+angle: -0.0370
+
+force: 0.0012
+angle: -0.0590
+
+force: 0.0006
+angle: -0.0370
+
+force: 0.0012
+angle: -0.0370
+
+force: 0.0001
+angle: -0.0590
+
+force: 0.0006
+angle: -0.0590
+
+force: 0.0002
+angle: -0.0590
+
+force: -0.0004
+angle: 0.0289
+
+force: 0.0008
+angle: -0.0370
+
+force: 0.0002
+angle: -0.0590
+
+force: 0.0003
+angle: -0.0370
+
+force: 0.0002
+angle: -0.0151
+
+force: 0.0006
+angle: -0.0810
+
+force: 0.0006
+angle: -0.0810
+
+force: -0.0000
+angle: -0.0370
+
+force: 0.0005
+angle: 0.0289
+
+force: 0.0011
+angle: -0.0590
+
+force: 0.0003
+angle: -0.0590
+
+force: 0.0002
+angle: -0.0370
+
+force: 0.0005
+angle: 0.0289
+
+force: 0.0007
+angle: -0.0151
+
+force: 0.0001
+angle: 0.0069
+
+force: 0.0009
+angle: -0.0151
+
+force: -0.0004
+angle: -0.0370
+
+force: 0.0007
+angle: -0.0810
+
+force: 0.0003
+angle: -0.0151
+
+force: 0.0009
+angle: -0.0370
+
+force: 0.0002
+angle: -0.0151
+
+force: 0.0003
+angle: -0.0810
+
+force: 0.0002
+angle: -0.0590
+
+force: 0.0007
+angle: -0.0370
+
+force: 0.0004
+angle: -0.0590
+
+force: 0.0003
+angle: -0.0810
+
+force: -0.0001
+angle: -0.0370
+
+force: 0.0008
+angle: -0.0590
+
+force: 0.0001
+angle: -0.0370
+
+force: 0.0003
+angle: -0.0370
+
+force: 0.0004
+angle: -0.0590
+
+force: 0.0007
+angle: -0.0370
+
+force: 0.0000
+angle: -0.0370
+
+force: 0.0005
+angle: 0.0069
+
+force: 0.0006
+angle: -0.0370
+
+force: -0.0004
+angle: -0.0370
+
+force: 0.0000
+angle: -0.0810
+
+force: 0.0002
+angle: -0.1030
+
+force: 0.0001
+angle: -0.0151
+
+force: 0.0004
+angle: -0.0370
+
+force: 0.0006
+angle: -0.0810
+
+force: -0.0000
+angle: -0.0151
+
+force: -0.0000
+angle: -0.0151
+
+force: -0.0005
+angle: -0.0151
+
+force: 0.0001
+angle: -0.0370
+
+force: 0.0001
+angle: -0.0590
+
+force: 0.0016
+angle: -0.0370
+
+force: 0.0010
+angle: -0.0151
+
+force: 0.0017
+angle: -0.0370
+
+force: 0.0011
+angle: -0.0810
+
+force: 0.0020
+angle: -0.0151
+
+force: 0.0032
+angle: -0.0151
+
+force: 0.0046
+angle: -0.0590
+
+force: 0.0074
+angle: -0.0151
+
+force: 0.0100
+angle: -0.0370
+
+force: 0.0123
+angle: -0.0590
+
+force: 0.0180
+angle: -0.0370
+
+force: 0.0212
+angle: -0.0151
+
+force: 0.0264
+angle: -0.0590
+
+force: 0.0322
+angle: -0.0810
+
+force: 0.0397
+angle: -0.0810
+
+force: 0.0639
+angle: -0.0590
+
+force: 0.0758
+angle: -0.0370
+
+force: 0.0859
+angle: -0.0370
+
+force: 0.0975
+angle: -0.0590
+
+force: 0.1119
+angle: -0.1030
+
+force: 0.1416
+angle: -0.0370
+
+force: 0.1555
+angle: -0.0151
+
+force: 0.1669
+angle: -0.1249
+
+force: 0.1814
+angle: -0.0590
+
+force: 0.1969
+angle: -0.1249
+
+force: 0.2287
+angle: -0.1030
+
+force: 0.2455
+angle: -0.0810
+
+force: 0.2658
+angle: -0.0810
+
+force: 0.2881
+angle: -0.0151
+
+force: 0.3098
+angle: -0.0810
+
+force: 0.3457
+angle: -0.1249
+
+force: 0.3642
+angle: -0.1689
+
+force: 0.3820
+angle: -0.1469
+
+force: 0.4029
+angle: -0.1469
+
+force: 0.4252
+angle: -0.1908
+
+force: 0.4744
+angle: -0.2128
+
+force: 0.4998
+angle: -0.1689
+
+force: 0.5252
+angle: -0.2128
+
+force: 0.5506
+angle: -0.1908
+
+force: 0.5724
+angle: -0.2348
+
+force: 0.6144
+angle: -0.2348
+
+force: 0.6365
+angle: -0.2348
+
+force: 0.6567
+angle: -0.2348
+
+force: 0.6784
+angle: -0.2568
+
+force: 0.6991
+angle: -0.2568
+
+force: 0.7408
+angle: -0.3227
+
+force: 0.7594
+angle: -0.2568
+
+force: 0.7781
+angle: -0.2787
+
+force: 0.7962
+angle: -0.3007
+
+force: 0.8248
+angle: -0.3227
+
+force: 0.8425
+angle: -0.3227
+
+force: 0.8594
+angle: -0.3227
+
+force: 0.8774
+angle: -0.3447
+
+force: 0.8930
+angle: -0.3886
+
+force: 0.9198
+angle: -0.3886
+
+force: 0.9320
+angle: -0.3447
+
+force: 0.9469
+angle: -0.3886
+
+force: 0.9615
+angle: -0.4325
+
+force: 0.9743
+angle: -0.4325
+
+force: 1.0050
+angle: -0.4106
+
+force: 1.0177
+angle: -0.4325
+
+force: 1.0305
+angle: -0.4545
+
+force: 1.0416
+angle: -0.4545
+
+force: 1.0529
+angle: -0.4765
+
+force: 1.0714
+angle: -0.4765
+
+force: 1.0818
+angle: -0.4985
+
+force: 1.0933
+angle: -0.4985
+
+force: 1.1052
+angle: -0.5644
+
+force: 1.1169
+angle: -0.5644
+
+force: 1.1383
+angle: -0.5864
+
+force: 1.1471
+angle: -0.5864
+
+force: 1.1547
+angle: -0.6083
+
+force: 1.1619
+angle: -0.6523
+
+force: 1.1700
+angle: -0.6083
+
+force: 1.1857
+angle: -0.6083
+
+force: 1.1951
+angle: -0.6962
+
+force: 1.2052
+angle: -0.6962
+
+force: 1.2159
+angle: -0.7841
+
+force: 1.2241
+angle: -0.8281
+
+force: 1.2387
+angle: -0.8281
+
+force: 1.2418
+angle: -0.8720
+
+force: 1.2468
+angle: -0.9159
+
+force: 1.2519
+angle: -0.8720
+
+force: 1.2578
+angle: -0.8940
+
+force: 1.2730
+angle: -0.9379
+
+force: 1.2814
+angle: -0.9599
+
+force: 1.2871
+angle: -0.9599
+
+force: 1.2939
+angle: -0.9819
+
+force: 1.2998
+angle: -1.0698
+
+force: 1.3151
+angle: -1.0698
+
+force: 1.3212
+angle: -1.1357
+
+force: 1.3293
+angle: -1.1796
+
+force: 1.3372
+angle: -1.2016
+
+force: 1.3434
+angle: -1.2455
+
+force: 1.3529
+angle: -1.3334
+
+force: 1.3579
+angle: -1.3334
+
+force: 1.3621
+angle: -1.3115
+
+force: 1.3636
+angle: -1.3334
+
+force: 1.3675
+angle: -1.3554
+
+force: 1.3742
+angle: -1.3774
+
+force: 1.3793
+angle: -1.4433
+
+force: 1.3823
+angle: -1.4653
+
+force: 1.3877
+angle: -1.5312
+
+force: 1.3914
+angle: -1.5751
+
+force: 1.3989
+angle: -1.5532
+
+force: 1.4017
+angle: -1.6191
+
+force: 1.4058
+angle: -1.6191
+
+force: 1.4091
+angle: -1.7070
+
+force: 1.4133
+angle: -1.7729
+
+force: 1.4219
+angle: -1.7729
+
+force: 1.4262
+angle: -1.8388
+
+force: 1.4302
+angle: -1.8388
+
+force: 1.4341
+angle: -1.8827
+
+force: 1.4384
+angle: -1.9267
+
+force: 1.4472
+angle: -1.9926
+
+force: 1.4513
+angle: -2.0146
+
+force: 1.4543
+angle: -2.0146
+
+force: 1.4574
+angle: -2.0805
+
+force: 1.4602
+angle: -2.1025
+
+force: 1.4659
+angle: -2.1025
+
+force: 1.4698
+angle: -2.1025
+
+force: 1.4724
+angle: -2.1684
+
+force: 1.4747
+angle: -2.2343
+
+force: 1.4772
+angle: -2.2563
+
+force: 1.4822
+angle: -2.2563
+
+force: 1.4845
+angle: -2.2343
+
+force: 1.4863
+angle: -2.2783
+
+force: 1.4890
+angle: -2.3222
+
+force: 1.4906
+angle: -2.3002
+
+force: 1.4955
+angle: -2.4101
+
+force: 1.4974
+angle: -2.4101
+
+force: 1.5005
+angle: -2.4540
+
+force: 1.5028
+angle: -2.4101
+
+force: 1.5058
+angle: -2.4980
+
+force: 1.5108
+angle: -2.5639
+
+force: 1.5137
+angle: -2.5859
+
+force: 1.5157
+angle: -2.5859
+
+force: 1.5189
+angle: -2.6957
+
+force: 1.5217
+angle: -2.6957
+
+force: 1.5264
+angle: -2.7177
+
+force: 1.5279
+angle: -2.7397
+
+force: 1.5291
+angle: -2.7397
+
+force: 1.5305
+angle: -2.7397
+
+force: 1.5320
+angle: -2.8276
+
+force: 1.5342
+angle: -2.8056
+
+force: 1.5352
+angle: -2.8056
+
+force: 1.5363
+angle: -2.7836
+
+force: 1.5359
+angle: -2.8715
+
+force: 1.5376
+angle: -2.8276
+
+force: 1.5412
+angle: -2.8715
+
+force: 1.5431
+angle: -2.8495
+
+force: 1.5445
+angle: -2.8935
+
+force: 1.5466
+angle: -2.9374
+
+force: 1.5478
+angle: -2.9594
+
+force: 1.5526
+angle: -2.9814
+
+force: 1.5556
+angle: -3.0473
+
+force: 1.5587
+angle: -3.1132
+
+force: 1.5601
+angle: -3.1352
+
+force: 1.5621
+angle: -3.1791
+
+force: 1.5653
+angle: -3.1572
+
+force: 1.5665
+angle: -3.2231
+
+force: 1.5667
+angle: -3.2231
+
+force: 1.5677
+angle: -3.2450
+
+force: 1.5686
+angle: -3.2450
+
+force: 1.5724
+angle: -3.2231
+
+force: 1.5723
+angle: -3.3110
+
+force: 1.5730
+angle: -3.2450
+
+force: 1.5745
+angle: -3.2670
+
+force: 1.5755
+angle: -3.3329
+
+force: 1.5799
+angle: -3.3329
+
+force: 1.5820
+angle: -3.3549
+
+force: 1.5836
+angle: -3.3769
+
+force: 1.5848
+angle: -3.3769
+
+force: 1.5869
+angle: -3.4648
+
+force: 1.5881
+angle: -3.4428
+
+force: 1.5892
+angle: -3.4208
+
+force: 1.5897
+angle: -3.4428
+
+force: 1.5923
+angle: -3.5087
+
+force: 1.5932
+angle: -3.5527
+
+force: 1.5973
+angle: -3.4867
+
+force: 1.5981
+angle: -3.5527
+
+force: 1.6001
+angle: -3.5966
+
+force: 1.6006
+angle: -3.6406
+
+force: 1.6030
+angle: -3.6625
+
+force: 1.6052
+angle: -3.6625
+
+force: 1.6079
+angle: -3.6625
+
+force: 1.6086
+angle: -3.7065
+
+force: 1.6107
+angle: -3.7504
+
+force: 1.6112
+angle: -3.7284
+
+force: 1.6144
+angle: -3.7504
+
+force: 1.6158
+angle: -3.7504
+
+force: 1.6174
+angle: -3.7724
+
+force: 1.6191
+angle: -3.7724
+
+force: 1.6207
+angle: -3.8383
+
+force: 1.6235
+angle: -3.8163
+
+force: 1.6243
+angle: -3.8823
+
+force: 1.6254
+angle: -3.9042
+
+force: 1.6263
+angle: -74.2167
+
+force: 1.6271
+angle: -3.8603
+
+force: 1.6319
+angle: -3.9701
+
+force: 1.6326
+angle: -3.9262
+
+force: 1.6327
+angle: -4.0361
+
+force: 1.6332
+angle: -3.9701
+
+force: 1.6340
+angle: -4.0361
+
+force: 1.6347
+angle: -4.0141
+
+force: 1.6362
+angle: -3.9921
+
+force: 1.6385
+angle: -4.0361
+
+force: 1.6389
+angle: -4.0361
+
+force: 1.6415
+angle: -4.0361
+
+force: 1.6434
+angle: -4.0580
+
+force: 1.6447
+angle: -4.1459
+
+force: 1.6451
+angle: -4.1240
+
+force: 1.6462
+angle: -4.1020
+
+force: 1.6462
+angle: -4.1240
+
+force: 1.6493
+angle: -4.1679
+
+force: 1.6503
+angle: -4.1459
+
+force: 1.6520
+angle: -4.1679
+
+force: 1.6528
+angle: -4.1899
+
+force: 1.6550
+angle: -4.1899
+
+force: 1.6575
+angle: -4.2778
+
+force: 1.6589
+angle: -4.3217
+
+force: 1.6598
+angle: -4.3217
+
+force: 1.6590
+angle: -4.3217
+
+force: 1.6611
+angle: -4.3217
+
+force: 1.6643
+angle: -4.3876
+
+force: 1.6660
+angle: -4.3437
+
+force: 1.6674
+angle: -4.3657
+
+force: 1.6709
+angle: -4.4096
+
+force: 1.6709
+angle: -4.4096
+
+force: 1.6699
+angle: -4.4316
+
+force: 1.6674
+angle: -4.4535
+
+force: 1.6677
+angle: -4.4096
+
+force: 1.6680
+angle: -4.4535
+
+force: 1.6694
+angle: -4.4975
+
+force: 1.6723
+angle: -4.4096
+
+force: 1.6748
+angle: -4.4755
+
+force: 1.6758
+angle: -4.5195
+
+force: 1.6761
+angle: -4.4535
+
+force: 1.6767
+angle: -4.4975
+
+force: 1.6778
+angle: -4.5414
+
+force: 1.6797
+angle: -4.5195
+
+force: 1.6811
+angle: -4.5854
+
+force: 1.6821
+angle: -4.5854
+
+force: 1.6816
+angle: -4.5854
+
+force: 1.6797
+angle: -4.5854
+
+force: 1.6784
+angle: -4.5414
+
+force: 1.6759
+angle: -4.6074
+
+force: 1.6725
+angle: -4.5634
+
+force: 1.6706
+angle: -4.6074
+
+force: 1.6709
+angle: -4.6293
+
+force: 1.6731
+angle: -4.5414
+
+force: 1.6740
+angle: -4.6074
+
+force: 1.6738
+angle: -4.5854
+
+force: 1.6711
+angle: -4.5634
+
+force: 1.6694
+angle: -4.5634
+
+force: 1.6715
+angle: -4.5854
+
+force: 1.6759
+angle: -4.6074
+
+force: 1.6791
+angle: -4.5854
+
+force: 1.6793
+angle: -4.6074
+
+force: 1.6699
+angle: -4.6074
+
+force: 1.6624
+angle: -4.5634
+
+force: 1.6560
+angle: -4.6074
+
+force: 1.6489
+angle: -4.5634
+
+force: 1.6438
+angle: -4.6074
+
+force: 1.6397
+angle: -4.5634
+
+force: 1.6403
+angle: -4.6074
+
+force: 1.6414
+angle: -4.5414
+
+force: 1.6421
+angle: -4.5414
+
+force: 1.6394
+angle: -4.5634
+
+force: 1.6337
+angle: -4.5195
+
+force: 1.6319
+angle: -4.5634
+
+force: 1.6293
+angle: -4.5414
+
+force: 1.6255
+angle: -4.5634
+
+force: 1.6216
+angle: -4.5414
+
+force: 1.6107
+angle: -4.5634
+
+force: 1.6055
+angle: -4.4975
+
+force: 1.5996
+angle: -4.4975
+
+force: 1.5963
+angle: -4.4755
+
+force: 1.5922
+angle: -4.4535
+
+force: 1.5869
+angle: -4.4316
+
+force: 1.5833
+angle: -4.3657
+
+force: 1.5817
+angle: -4.4316
+
+force: 1.5778
+angle: -4.3876
+
+force: 1.5748
+angle: -4.4096
+
+force: 1.5682
+angle: -4.4096
+
+force: 1.5648
+angle: -4.3437
+
+force: 1.5599
+angle: -4.3657
+
+force: 1.5559
+angle: -4.3217
+
+force: 1.5521
+angle: -4.3217
+
+force: 1.5458
+angle: -4.2558
+
+force: 1.5422
+angle: -4.2997
+
+force: 1.5386
+angle: -4.2778
+
+force: 1.5370
+angle: -4.1899
+
+force: 1.5332
+angle: -4.1899
+
+force: 1.5255
+angle: -4.1679
+
+force: 1.5219
+angle: -4.1240
+
+force: 1.5171
+angle: -3.9921
+
+force: 1.5131
+angle: -4.0580
+
+force: 1.5112
+angle: -4.0580
+
+force: 1.5043
+angle: -4.0141
+
+force: 1.5005
+angle: -3.9921
+
+force: 1.4965
+angle: -3.9482
+
+force: 1.4949
+angle: -3.8603
+
+force: 1.4907
+angle: -3.8383
+
+force: 1.4860
+angle: -3.7944
+
+force: 1.4827
+angle: -3.7284
+
+force: 1.4797
+angle: -3.7284
+
+force: 1.4757
+angle: -3.6186
+
+force: 1.4737
+angle: -3.6845
+
+force: 1.4661
+angle: -3.5746
+
+force: 1.4644
+angle: -3.5746
+
+force: 1.4610
+angle: -3.5527
+
+force: 1.4587
+angle: -3.4648
+
+force: 1.4563
+angle: -3.5307
+
+force: 1.4496
+angle: -3.4428
+
+force: 1.4447
+angle: -3.3329
+
+force: 1.4406
+angle: -3.2670
+
+force: 1.4368
+angle: -3.1791
+
+force: 1.4321
+angle: -3.1572
+
+force: 1.4254
+angle: -3.1352
+
+force: 1.4220
+angle: -3.0253
+
+force: 1.4187
+angle: -3.0473
+
+force: 1.4146
+angle: -3.0033
+
+force: 1.4115
+angle: -2.9155
+
+force: 1.4050
+angle: -2.8715
+
+force: 1.4019
+angle: -2.8495
+
+force: 1.3979
+angle: -2.7836
+
+force: 1.3946
+angle: -2.7617
+
+force: 1.3905
+angle: -2.6957
+
+force: 1.3836
+angle: -2.6078
+
+force: 1.3793
+angle: -2.6078
+
+force: 1.3753
+angle: -2.4980
+
+force: 1.3707
+angle: -2.4540
+
+force: 1.3676
+angle: -2.4760
+
+force: 1.3601
+angle: -2.4101
+
+force: 1.3574
+angle: -2.3661
+
+force: 1.3545
+angle: -2.2783
+
+force: 1.3516
+angle: -2.2783
+
+force: 1.3501
+angle: -2.2563
+
+force: 1.3443
+angle: -2.2563
+
+force: 1.3399
+angle: -2.2563
+
+force: 1.3356
+angle: -2.1684
+
+force: 1.3306
+angle: -2.1025
+
+force: 1.3255
+angle: -2.1025
+
+force: 1.3148
+angle: -1.9926
+
+force: 1.3099
+angle: -2.0146
+
+force: 1.3056
+angle: -1.9706
+
+force: 1.3003
+angle: -1.9706
+
+force: 1.2950
+angle: -1.9926
+
+force: 1.2827
+angle: -1.8388
+
+force: 1.2765
+angle: -1.7509
+
+force: 1.2691
+angle: -1.7289
+
+force: 1.2644
+angle: -1.7289
+
+force: 1.2591
+angle: -1.5751
+
+force: 1.2499
+angle: -1.6410
+
+force: 1.2433
+angle: -1.6410
+
+force: 1.2371
+angle: -1.5532
+
+force: 1.2296
+angle: -1.5312
+
+force: 1.2213
+angle: -1.4653
+
+force: 1.2029
+angle: -1.3334
+
+force: 1.1945
+angle: -1.3115
+
+force: 1.1867
+angle: -1.2895
+
+force: 1.1797
+angle: -1.2895
+
+force: 1.1731
+angle: -1.2016
+
+force: 1.1573
+angle: -1.1576
+
+force: 1.1463
+angle: -1.1796
+
+force: 1.1365
+angle: -1.0698
+
+force: 1.1246
+angle: -1.0698
+
+force: 1.1128
+angle: -1.0038
+
+force: 1.0913
+angle: -0.9379
+
+force: 1.0826
+angle: -0.8940
+
+force: 1.0754
+angle: -0.9159
+
+force: 1.0657
+angle: -0.8940
+
+force: 1.0553
+angle: -0.8061
+
+force: 1.0289
+angle: -0.8281
+
+force: 1.0160
+angle: -0.7402
+
+force: 1.0027
+angle: -0.7402
+
+force: 0.9905
+angle: -0.7621
+
+force: 0.9769
+angle: -0.6742
+
+force: 0.9490
+angle: -0.6303
+
+force: 0.9337
+angle: -0.6523
+
+force: 0.9194
+angle: -0.5424
+
+force: 0.9029
+angle: -0.5644
+
+force: 0.8864
+angle: -0.5864
+
+force: 0.8537
+angle: -0.6083
+
+force: 0.8372
+angle: -0.4985
+
+force: 0.8192
+angle: -0.4545
+
+force: 0.7994
+angle: -0.4545
+
+force: 0.7785
+angle: -0.4545
+
+force: 0.7339
+angle: -0.4325
+
+force: 0.7134
+angle: -0.3886
+
+force: 0.6955
+angle: -0.3227
+
+force: 0.6792
+angle: -0.3886
+
+force: 0.6632
+angle: -0.3666
+
+force: 0.6352
+angle: -0.3227
+
+force: 0.6209
+angle: -0.2787
+
+force: 0.6059
+angle: -0.3447
+
+force: 0.5881
+angle: -0.3227
+
+force: 0.5705
+angle: -0.3447
+
+force: 0.5309
+angle: -0.3227
+
+force: 0.5118
+angle: -0.2348
+
+force: 0.4910
+angle: -0.2568
+
+force: 0.4740
+angle: -0.2568
+
+force: 0.4583
+angle: -0.2348
+
+force: 0.4293
+angle: -0.2348
+
+force: 0.4143
+angle: -0.2128
+
+force: 0.4010
+angle: -0.2128
+
+force: 0.3866
+angle: -0.2128
+
+force: 0.3727
+angle: -0.2568
+
+force: 0.3408
+angle: -0.2348
+
+force: 0.3262
+angle: -0.1908
+
+force: 0.3113
+angle: -0.1689
+
+force: 0.2988
+angle: -0.2128
+
+force: 0.2888
+angle: -0.1908
+
+force: 0.2731
+angle: -0.1908
+
+force: 0.2666
+angle: -0.1689
+
+force: 0.2599
+angle: -0.1030
+
+force: 0.2527
+angle: -0.1249
+
+force: 0.2428
+angle: -0.1249
+
+force: 0.2192
+angle: -0.1249
+
+force: 0.2069
+angle: -0.0810
+
+force: 0.1958
+angle: -0.0590
+
+force: 0.1861
+angle: -0.1030
+
+force: 0.1804
+angle: -0.0370
+
+force: 0.1694
+angle: -0.0590
+
+force: 0.1596
+angle: -0.0370
+
+force: 0.1482
+angle: -0.1030
+
+force: 0.1399
+angle: -0.0810
+
+force: 0.1349
+angle: -0.0590
+
+force: 0.1196
+angle: -0.0370
+
+force: 0.1083
+angle: -0.0590
+
+force: 0.0985
+angle: 0.0069
+
+force: 0.0881
+angle: -0.0590
+
+force: 0.0782
+angle: -0.0151
+
+force: 0.0585
+angle: -0.0151
+
+force: 0.0504
+angle: 0.0289
+
+force: 0.0432
+angle: -0.0370
+
+force: 0.0361
+angle: -0.0590
+
+force: 0.0306
+angle: -0.0151
+
+force: 0.0230
+angle: -0.0151
+
+force: 0.0143
+angle: -0.0370
+
+force: 0.0087
+angle: -0.0370
+
+force: 0.0045
+angle: 0.0289
+
+force: 0.0033
+angle: 0.0069
+
+force: 0.0024
+angle: 0.0508
+
+force: 0.0027
+angle: -0.0370
+
+force: 0.0034
+angle: 0.0289
+
+force: 0.0028
+angle: 0.0069
+
+force: 0.0036
+angle: -0.0151
+
+force: 0.0035
+angle: -0.0151
+
+force: 0.0034
+angle: -0.0590
+
+force: 0.0029
+angle: -0.0810
+
+force: 0.0031
+angle: -0.0590
+
+force: 0.0029
+angle: -0.0370
+
+force: 0.0038
+angle: -0.0370
+
+force: 0.0028
+angle: -0.0151
+
+force: 0.0036
+angle: 0.0069
+
+force: 0.0031
+angle: -0.0151
+
+force: 0.0031
+angle: -0.0151
+
+force: 0.0024
+angle: 0.0289
+
+force: 0.0033
+angle: -0.0370
+
+force: 0.0027
+angle: -0.0370
+
+force: 0.0027
+angle: -0.0370
+
+force: 0.0035
+angle: -0.0151
+
+force: 0.0037
+angle: 0.0069
+
+force: 0.0033
+angle: -0.0151
+
+force: 0.0032
+angle: 0.0069
+
+force: 0.0031
+angle: -0.0151
+
+force: 0.0025
+angle: 0.0069
+
+force: 0.0026
+angle: -0.0370
+
+force: 0.0028
+angle: 0.0069
+
+force: 0.0035
+angle: -0.0151
+
+force: 0.0031
+angle: -0.0151
+
+force: 0.0030
+angle: -0.0151
+
+force: 0.0028
+angle: -0.0151
+
+force: 0.0028
+angle: -0.0151
+
+force: 0.0022
+angle: 0.0289
+
+force: 0.0033
+angle: -0.0151
+
+force: 0.0026
+angle: -0.0370
+
+force: 0.0037
+angle: 0.0289
+
+force: 0.0028
+angle: -0.0370
+
+force: 0.0032
+angle: -0.0590
+
+force: 0.0028
+angle: -0.0370
+
+force: 0.0025
+angle: -0.0370
+
+force: 0.0085
+angle: -0.0810
+
+force: 0.0137
+angle: -0.0151
+
+force: 0.0176
+angle: -0.0810
+
+force: 0.0216
+angle: 0.0508
+
+force: 0.0243
+angle: 0.0508
+
+force: 0.0352
+angle: -0.0370
+
+force: 0.0411
+angle: -0.0590
+
+force: 0.0487
+angle: -0.0590
+
+force: 0.0562
+angle: -0.0370
+
+force: 0.0658
+angle: 0.0069
+
+force: 0.0937
+angle: -0.0810
+
+force: 0.1084
+angle: 0.0069
+
+force: 0.1229
+angle: 0.0289
+
+force: 0.1375
+angle: -0.0370
+
+force: 0.1557
+angle: -0.0810
+
+force: 0.1921
+angle: -0.0370
+
+force: 0.2126
+angle: -73.1620
+
+force: 0.2385
+angle: -75.5790
+
+force: 0.2638
+angle: -75.5790
+
+force: 0.3093
+angle: -75.5790
+
+force: 0.3301
+angle: -0.1469
+
+force: 0.3508
+angle: -0.1030
+
+force: 0.3714
+angle: -0.0810
+
+force: 0.3943
+angle: -0.1249
+
+force: 0.4433
+angle: -0.1469
+
+force: 0.4662
+angle: -0.1469
+
+force: 0.4894
+angle: -0.1689
+
+force: 0.5125
+angle: -0.1689
+
+force: 0.5353
+angle: -0.1689
+
+force: 0.5809
+angle: -0.1469
+
+force: 0.6065
+angle: -0.1908
+
+force: 0.6338
+angle: -0.2348
+
+force: 0.6568
+angle: -0.2348
+
+force: 0.6770
+angle: -0.2348
+
+force: 0.7209
+angle: -0.2348
+
+force: 0.7415
+angle: -0.2787
+
+force: 0.7597
+angle: -0.2568
+
+force: 0.7771
+angle: -0.2787
+
+force: 0.7954
+angle: -0.3007
+
+force: 0.8342
+angle: -0.3007
+
+force: 0.8557
+angle: -0.3007
+
+force: 0.8753
+angle: -0.3666
+
+force: 0.8929
+angle: -0.3227
+
+force: 0.9084
+angle: -0.3666
+
+force: 0.9314
+angle: -0.3666
+
+force: 0.9447
+angle: -0.3447
+
+force: 0.9595
+angle: -0.3886
+
+force: 0.9776
+angle: -0.4106
+
+force: 0.9937
+angle: -0.4325
+
+force: 1.0177
+angle: -0.4765
+
+force: 1.0277
+angle: -0.4765
+
+force: 1.0404
+angle: -0.4765
+
+force: 1.0531
+angle: -0.4765
+
+force: 1.0652
+angle: -0.5644
+
+force: 1.0849
+angle: -0.5644
+
+force: 1.0961
+angle: -0.6083
+
+force: 1.1067
+angle: -0.5644
+
+force: 1.1167
+angle: -0.5644
+
+force: 1.1258
+angle: -0.6083
+
+force: 1.1419
+angle: -0.6303
+
+force: 1.1504
+angle: -0.6962
+
+force: 1.1615
+angle: -0.6742
+
+force: 1.1730
+angle: -0.7182
+
+force: 1.1835
+angle: -0.7182
+
+force: 1.2030
+angle: -0.7621
+
+force: 1.2110
+angle: -0.7621
+
+force: 1.2178
+angle: -0.8061
+
+force: 1.2233
+angle: -0.8281
+
+force: 1.2309
+angle: -0.8940
+
+force: 1.2452
+angle: -0.8940
+
+force: 1.2540
+angle: -0.8940
+
+force: 1.2626
+angle: -0.9599
+
+force: 1.2715
+angle: -0.9599
+
+force: 1.2798
+angle: -1.0478
+
+force: 1.2939
+angle: -1.0698
+
+force: 1.2993
+angle: -1.1137
+
+force: 1.3057
+angle: -1.1137
+
+force: 1.3100
+angle: -1.1576
+
+force: 1.3151
+angle: -1.1796
+
+force: 1.3254
+angle: -1.0917
+
+force: 1.3312
+angle: -1.2236
+
+force: 1.3355
+angle: -1.2455
+
+force: 1.3405
+angle: -1.3115
+
+force: 1.3450
+angle: -1.2895
+
+force: 1.3545
+angle: -1.3554
+
+force: 1.3593
+angle: -1.3554
+
+force: 1.3642
+angle: -1.4213
+
+force: 1.3692
+angle: -1.4653
+
+force: 1.3732
+angle: -1.4433
+
+force: 1.3818
+angle: -1.4872
+
+force: 1.3861
+angle: -1.5312
+
+force: 1.3906
+angle: -1.5532
+
+force: 1.3949
+angle: -1.5971
+
+force: 1.3997
+angle: -1.6191
+
+force: 1.4075
+angle: -1.7070
+
+force: 1.4119
+angle: -1.7509
+
+force: 1.4163
+angle: -1.7070
+
+force: 1.4224
+angle: -1.8168
+
+force: 1.4267
+angle: -1.8827
+
+force: 1.4359
+angle: -1.9706
+
+force: 1.4396
+angle: -1.9706
+
+force: 1.4444
+angle: -2.0146
+
+force: 1.4486
+angle: -2.0146
+
+force: 1.4529
+angle: -2.0805
+
+force: 1.4622
+angle: -2.1244
+
+force: 1.4680
+angle: -2.1904
+
+force: 1.4719
+angle: -2.2783
+
+force: 1.4764
+angle: -2.3002
+
+force: 1.4825
+angle: -2.3442
+
+force: 1.4899
+angle: -2.4321
+
+force: 1.4930
+angle: -2.3881
+
+force: 1.4955
+angle: -2.4321
+
+force: 1.4988
+angle: -2.4980
+
+force: 1.5010
+angle: -2.4760
+
+force: 1.5063
+angle: -2.5200
+
+force: 1.5088
+angle: -2.5419
+
+force: 1.5120
+angle: -2.5859
+
+force: 1.5148
+angle: -2.6518
+
+force: 1.5177
+angle: -2.6518
+
+force: 1.5240
+angle: -2.7397
+
+force: 1.5274
+angle: -2.7617
+
+force: 1.5300
+angle: -2.8056
+
+force: 1.5340
+angle: -2.8276
+
+force: 1.5378
+angle: -2.9155
+
+force: 1.5427
+angle: -2.9594
+
+force: 1.5445
+angle: -2.9814
+
+force: 1.5461
+angle: -3.0033
+
+force: 1.5474
+angle: -3.0033
+
+force: 1.5485
+angle: -3.0473
+
+force: 1.5519
+angle: -3.0473
+
+force: 1.5539
+angle: -3.0473
+
+force: 1.5539
+angle: -3.1132
+
+force: 1.5550
+angle: -3.0473
+
+force: 1.5563
+angle: -3.1572
+
+force: 1.5597
+angle: -3.1352
+
+force: 1.5610
+angle: -3.1132
+
+force: 1.5625
+angle: -3.1572
+
+force: 1.5660
+angle: -3.2670
+
+force: 1.5669
+angle: -3.2670
+
+force: 1.5705
+angle: -3.3110
+
+force: 1.5716
+angle: -3.3110
+
+force: 1.5730
+angle: -3.3329
+
+force: 1.5741
+angle: -3.3329
+
+force: 1.5767
+angle: -3.3549
+
+force: 1.5808
+angle: -3.3989
+
+force: 1.5837
+angle: -3.4428
+
+force: 1.5850
+angle: -3.4428
+
+force: 1.5880
+angle: -3.4867
+
+force: 1.5888
+angle: -3.5087
+
+force: 1.5916
+angle: -3.5527
+
+force: 1.5921
+angle: -3.5746
+
+force: 1.5954
+angle: -3.5746
+
+force: 1.5969
+angle: -3.6406
+
+force: 1.5979
+angle: -3.6845
+
+force: 1.6028
+angle: -3.7065
+
+force: 1.6066
+angle: -3.7065
+
+force: 1.6094
+angle: -3.7944
+
+force: 1.6116
+angle: -3.7944
+
+force: 1.6146
+angle: -3.8603
+
+force: 1.6180
+angle: -3.9042
+
+force: 1.6178
+angle: -3.8823
+
+force: 1.6178
+angle: -3.9482
+
+force: 1.6186
+angle: -3.9701
+
+force: 1.6209
+angle: -3.9262
+
+force: 1.6274
+angle: -4.0141
+
+force: 1.6286
+angle: -4.0141
+
+force: 1.6312
+angle: -4.0580
+
+force: 1.6321
+angle: -4.1020
+
+force: 1.6347
+angle: -4.1020
+
+force: 1.6351
+angle: -4.0580
+
+force: 1.6366
+angle: -4.1020
+
+force: 1.6380
+angle: -4.1240
+
+force: 1.6419
+angle: -4.1459
+
+force: 1.6444
+angle: -4.1899
+
+force: 1.6469
+angle: -4.2118
+
+force: 1.6470
+angle: -4.1899
+
+force: 1.6478
+angle: -4.1899
+
+force: 1.6479
+angle: -4.1899
+
+force: 1.6469
+angle: -4.2338
+
+force: 1.6516
+angle: -4.2338
+
+force: 1.6538
+angle: -4.2558
+
+force: 1.6539
+angle: -4.2118
+
+force: 1.6535
+angle: -4.2778
+
+force: 1.6530
+angle: -4.2558
+
+force: 1.6526
+angle: -4.2558
+
+force: 1.6559
+angle: -4.2558
+
+force: 1.6601
+angle: -4.2558
+
+force: 1.6615
+angle: -4.2997
+
+force: 1.6611
+angle: -4.2997
+
+force: 1.6645
+angle: -4.3437
+
+force: 1.6662
+angle: -4.3657
+
+force: 1.6671
+angle: -4.3437
+
+force: 1.6689
+angle: -4.4096
+
+force: 1.6700
+angle: -4.3437
+
+force: 1.6711
+angle: -4.3876
+
+force: 1.6721
+angle: -4.4316
+
+force: 1.6728
+angle: -4.4316
+
+force: 1.6751
+angle: -4.4096
+
+force: 1.6761
+angle: -4.4755
+
+force: 1.6793
+angle: -4.4316
+
+force: 1.6813
+angle: -4.5195
+
+force: 1.6835
+angle: -4.5195
+
+force: 1.6837
+angle: -4.5414
+
+force: 1.6844
+angle: -4.5854
+
+force: 1.6832
+angle: -4.5854
+
+force: 1.6844
+angle: -4.6074
+
+force: 1.6847
+angle: -4.5634
+
+force: 1.6874
+angle: -4.6074
+
+force: 1.6912
+angle: -4.6074
+
+force: 1.6935
+angle: -4.6074
+
+force: 1.6936
+angle: -4.6733
+
+force: 1.6939
+angle: -4.6952
+
+force: 1.6941
+angle: -4.6513
+
+force: 1.6951
+angle: -4.7172
+
+force: 1.6984
+angle: -4.6952
+
+force: 1.6989
+angle: -4.6952
+
+force: 1.6981
+angle: -4.6733
+
+force: 1.6968
+angle: -4.6952
+
+force: 1.6964
+angle: -4.7392
+
+force: 1.6971
+angle: -4.7172
+
+force: 1.6994
+angle: -4.7172
+
+force: 1.6999
+angle: -4.7172
+
+force: 1.7002
+angle: -4.7392
+
+force: 1.6994
+angle: -4.7612
+
+force: 1.6967
+angle: -4.7172
+
+force: 1.6974
+angle: -4.7612
+
+force: 1.7001
+angle: -4.7831
+
+force: 1.7018
+angle: -4.7172
+
+force: 1.7042
+angle: -4.7392
+
+force: 1.7026
+angle: -4.7831
+
+force: 1.7000
+angle: -4.7172
+
+force: 1.6956
+angle: -4.7612
+
+force: 1.6912
+angle: -4.7392
+
+force: 1.6900
+angle: -4.8051
+
+force: 1.6849
+angle: -4.7392
+
+force: 1.6815
+angle: -4.7392
+
+force: 1.6789
+angle: -4.7392
+
+force: 1.6775
+angle: -4.7392
+
+force: 1.6753
+angle: -4.7831
+
+force: 1.6677
+angle: -4.7612
+
+force: 1.6649
+angle: -4.7392
+
+force: 1.6624
+angle: -4.7392
+
+force: 1.6603
+angle: -4.7172
+
+force: 1.6606
+angle: -4.7612
+
+force: 1.6599
+angle: -4.7612
+
+force: 1.6581
+angle: -4.7392
+
+force: 1.6532
+angle: -4.7172
+
+force: 1.6494
+angle: -4.6952
+
+force: 1.6448
+angle: -4.7172
+
+force: 1.6371
+angle: -4.6952
+
+force: 1.6345
+angle: -4.7172
+
+force: 1.6321
+angle: -4.6952
+
+force: 1.6284
+angle: -4.6952
+
+force: 1.6249
+angle: -4.6293
+
+force: 1.6169
+angle: -4.6733
+
+force: 1.6138
+angle: -4.6952
+
+force: 1.6101
+angle: -4.6074
+
+force: 1.6057
+angle: -4.6733
+
+force: 1.6031
+angle: -4.6293
+
+force: 1.5950
+angle: -4.5414
+
+force: 1.5909
+angle: -4.6074
+
+force: 1.5878
+angle: -4.6074
+
+force: 1.5840
+angle: -4.5854
+
+force: 1.5801
+angle: -4.5634
+
+force: 1.5741
+angle: -4.5854
+
+force: 1.5702
+angle: -4.5634
+
+force: 1.5678
+angle: -4.4975
+
+force: 1.5647
+angle: -4.4535
+
+force: 1.5617
+angle: -4.4535
+
+force: 1.5555
+angle: -4.4096
+
+force: 1.5530
+angle: -4.4096
+
+force: 1.5490
+angle: -4.3657
+
+force: 1.5480
+angle: -4.3876
+
+force: 1.5456
+angle: -4.3217
+
+force: 1.5413
+angle: -4.3876
+
+force: 1.5393
+angle: -4.3657
+
+force: 1.5367
+angle: -4.2997
+
+force: 1.5346
+angle: -4.2997
+
+force: 1.5318
+angle: -4.2778
+
+force: 1.5247
+angle: -4.2118
+
+force: 1.5227
+angle: -4.1899
+
+force: 1.5189
+angle: -4.2118
+
+force: 1.5160
+angle: -4.1679
+
+force: 1.5142
+angle: -4.0800
+
+force: 1.5084
+angle: -4.1020
+
+force: 1.5062
+angle: -4.0361
+
+force: 1.5030
+angle: -4.0141
+
+force: 1.5001
+angle: -4.0141
+
+force: 1.4974
+angle: -3.9921
+
+force: 1.4931
+angle: -3.9701
+
+force: 1.4904
+angle: -3.9701
+
+force: 1.4876
+angle: -3.8823
+
+force: 1.4836
+angle: -3.8383
+
+force: 1.4805
+angle: -3.8163
+
+force: 1.4726
+angle: -3.7284
+
+force: 1.4695
+angle: -3.7065
+
+force: 1.4657
+angle: -3.5307
+
+force: 1.4632
+angle: -3.5087
+
+force: 1.4593
+angle: -3.5087
+
+force: 1.4519
+angle: -3.4428
+
+force: 1.4482
+angle: -3.3989
+
+force: 1.4445
+angle: -3.2890
+
+force: 1.4398
+angle: -3.2890
+
+force: 1.4362
+angle: -3.2670
+
+force: 1.4303
+angle: -3.1791
+
+force: 1.4271
+angle: -3.1572
+
+force: 1.4243
+angle: -3.1572
+
+force: 1.4225
+angle: -3.1132
+
+force: 1.4194
+angle: -3.0912
+
+force: 1.4131
+angle: -3.0253
+
+force: 1.4104
+angle: -2.9374
+
+force: 1.4082
+angle: -2.9374
+
+force: 1.4060
+angle: -2.8715
+
+force: 1.4026
+angle: -2.8495
+
+force: 1.3976
+angle: -2.8276
+
+force: 1.3937
+angle: -2.7836
+
+force: 1.3902
+angle: -2.7617
+
+force: 1.3850
+angle: -2.6298
+
+force: 1.3811
+angle: -2.6298
+
+force: 1.3723
+angle: -2.5639
+
+force: 1.3684
+angle: -2.4540
+
+force: 1.3639
+angle: -2.3661
+
+force: 1.3596
+angle: -2.3442
+
+force: 1.3545
+angle: -2.2563
+
+force: 1.3441
+angle: -2.1904
+
+force: 1.3389
+angle: -2.1464
+
+force: 1.3352
+angle: -2.1244
+
+force: 1.3304
+angle: -2.0366
+
+force: 1.3269
+angle: -2.1025
+
+force: 1.3191
+angle: -2.0585
+
+force: 1.3153
+angle: -2.0366
+
+force: 1.3105
+angle: -2.0146
+
+force: 1.3049
+angle: -1.9926
+
+force: 1.3004
+angle: -1.8827
+
+force: 1.2903
+angle: -1.9047
+
+force: 1.2867
+angle: -1.8388
+
+force: 1.2826
+angle: -1.8168
+
+force: 1.2784
+angle: -1.7729
+
+force: 1.2731
+angle: -1.7509
+
+force: 1.2612
+angle: -1.6410
+
+force: 1.2543
+angle: -1.5971
+
+force: 1.2473
+angle: -1.5751
+
+force: 1.2406
+angle: -1.5312
+
+force: 1.2365
+angle: -1.5751
+
+force: 1.2292
+angle: -1.5312
+
+force: 1.2260
+angle: -1.4872
+
+force: 1.2213
+angle: -1.4213
+
+force: 1.2172
+angle: -1.4872
+
+force: 1.2110
+angle: -1.3993
+
+force: 1.1977
+angle: -1.3554
+
+force: 1.1907
+angle: -1.2895
+
+force: 1.1854
+angle: -1.2895
+
+force: 1.1791
+angle: -1.3115
+
+force: 1.1724
+angle: -1.2455
+
+force: 1.1546
+angle: -1.1137
+
+force: 1.1452
+angle: -1.0917
+
+force: 1.1351
+angle: -1.0478
+
+force: 1.1248
+angle: -1.0478
+
+force: 1.1158
+angle: -1.0038
+
+force: 1.1022
+angle: -0.9819
+
+force: 1.0974
+angle: -0.9159
+
+force: 1.0915
+angle: -0.9599
+
+force: 1.0850
+angle: -0.9159
+
+force: 1.0765
+angle: -0.8281
+
+force: 1.0559
+angle: -0.8500
+
+force: 1.0442
+angle: -0.8281
+
+force: 1.0347
+angle: -0.7841
+
+force: 1.0256
+angle: -0.7841
+
+force: 1.0168
+angle: -0.7621
+
+force: 0.9979
+angle: -0.7621
+
+force: 0.9878
+angle: -0.6962
+
+force: 0.9758
+angle: -0.6303
+
+force: 0.9643
+angle: -0.6083
+
+force: 0.9505
+angle: -0.6303
+
+force: 0.9224
+angle: -0.6083
+
+force: 0.9083
+angle: -0.6083
+
+force: 0.8950
+angle: -0.5424
+
+force: 0.8820
+angle: -0.5204
+
+force: 0.8719
+angle: -0.5424
+
+force: 0.8521
+angle: -0.5644
+
+force: 0.8396
+angle: -0.5204
+
+force: 0.8246
+angle: -0.4765
+
+force: 0.8080
+angle: -0.4545
+
+force: 0.7915
+angle: -0.4325
+
+force: 0.7565
+angle: -0.3886
+
+force: 0.7374
+angle: -0.3886
+
+force: 0.7201
+angle: -0.3886
+
+force: 0.7046
+angle: -0.3886
+
+force: 0.6890
+angle: -0.3007
+
+force: 0.6548
+angle: -0.3447
+
+force: 0.6359
+angle: -0.3666
+
+force: 0.6167
+angle: -0.3447
+
+force: 0.5950
+angle: -0.3227
+
+force: 0.5771
+angle: -0.3007
+
+force: 0.5437
+angle: -0.2787
+
+force: 0.5282
+angle: -0.3227
+
+force: 0.5139
+angle: -0.2568
+
+force: 0.5003
+angle: -0.2568
+
+force: 0.4858
+angle: -0.2128
+
+force: 0.4485
+angle: -0.2128
+
+force: 0.4288
+angle: -0.1689
+
+force: 0.4123
+angle: -0.1689
+
+force: 0.3959
+angle: -0.2348
+
+force: 0.3793
+angle: -0.1689
+
+force: 0.3463
+angle: -0.1908
+
+force: 0.3305
+angle: -0.1908
+
+force: 0.3125
+angle: -0.1469
+
+force: 0.2956
+angle: -0.1249
+
+force: 0.2805
+angle: -0.1249
+
+force: 0.2495
+angle: -0.1469
+
+force: 0.2332
+angle: -0.1030
+
+force: 0.2180
+angle: -0.0810
+
+force: 0.2041
+angle: -0.1030
+
+force: 0.1932
+angle: -0.0810
+
+force: 0.1671
+angle: -0.1249
+
+force: 0.1522
+angle: -0.0810
+
+force: 0.1400
+angle: -0.0151
+
+force: 0.1282
+angle: -0.0590
+
+force: 0.1196
+angle: -0.0810
+
+force: 0.1007
+angle: -0.0370
+
+force: 0.0925
+angle: -0.0370
+
+force: 0.0819
+angle: -0.0151
+
+force: 0.0704
+angle: -0.0151
+
+force: 0.0630
+angle: -0.0810
+
+force: 0.0459
+angle: -0.0151
+
+force: 0.0367
+angle: 0.0069
+
+force: 0.0319
+angle: -0.0151
+
+force: 0.0266
+angle: -0.0370
+
+force: 0.0211
+angle: 0.0069
+
+force: 0.0090
+angle: 0.0069
+
+force: 0.0060
+angle: 0.0069
+
+force: 0.0037
+angle: 0.0289
+
+force: 0.0036
+angle: -0.0151
+
+force: 0.0035
+angle: 0.0069
+
+force: 0.0030
+angle: 0.0289
+
+force: 0.0036
+angle: -0.0151
+
+force: 0.0034
+angle: 0.0069
+
+force: 0.0036
+angle: 0.0069
+
+force: 0.0033
+angle: -0.0151
+
+force: 0.0037
+angle: -0.0370
+
+force: 0.0036
+angle: -0.0590
+
+force: 0.0033
+angle: 0.0069
+
+force: 0.0026
+angle: 0.0069
+
+force: 0.0038
+angle: -0.0370
+
+force: 0.0027
+angle: -0.0590
+
+force: 0.0044
+angle: -0.0151
+
+force: 0.0028
+angle: 0.0508
+
+force: 0.0029
+angle: -0.0370
+
+force: 0.0029
+angle: 0.0069
+
+force: 0.0032
+angle: -0.0151
+
+force: 0.0024
+angle: 0.0289
+
+force: 0.0031
+angle: -0.0151
+
+force: 0.0034
+angle: -0.0370
+
+force: 0.0030
+angle: -0.0370
+
+force: 0.0028
+angle: 0.0289
+
+force: 0.0030
+angle: -0.0151
+
+force: 0.0027
+angle: -0.0590
+
+force: 0.0030
+angle: -0.0151
+
+force: 0.0026
+angle: -0.0151
+
+force: 0.0033
+angle: -0.0151
+
+force: 0.0029
+angle: -0.0151
+
+force: 0.0027
+angle: -0.0370
+
+force: 0.0032
+angle: -0.0151
+
+force: 0.0025
+angle: -0.0590
+
+force: 0.0024
+angle: 0.0289
+
+force: 0.0033
+angle: -0.0370
+
+force: 0.0037
+angle: -0.0370
+
+force: 0.0024
+angle: -0.0370
+
+force: 0.0037
+angle: 0.0069
+
+force: 0.0023
+angle: -0.0370
+
+force: 0.0030
+angle: -0.0590
+
+force: 0.0022
+angle: 0.0069
+
+force: 0.0029
+angle: -0.0370
+
+force: 0.0035
+angle: -0.0370
+
+force: 0.0033
+angle: -0.0370
+
+force: 0.0027
+angle: 0.0289
+
+force: 0.0037
+angle: -0.0370
+
+force: 0.0093
+angle: -0.0151
+
+force: 0.0131
+angle: -0.0151
+
+force: 0.0220
+angle: 0.0069
+
+force: 0.0282
+angle: -0.0370
+
+force: 0.0349
+angle: -0.0151
+
+force: 0.0433
+angle: -0.0151
+
+force: 0.0586
+angle: -0.0370
+
+force: 0.0899
+angle: 0.0069
+
+force: 0.1018
+angle: -0.0370
+
+force: 0.1144
+angle: 0.0069
+
+force: 0.1288
+angle: -0.0370
+
+force: 0.1421
+angle: -0.0590
+
+force: 0.1777
+angle: -0.0151
+
+force: 0.1989
+angle: -0.0370
+
+force: 0.2240
+angle: -0.0370
+
+force: 0.2541
+angle: -0.0810
+
+force: 0.2810
+angle: -0.0810
+
+force: 0.3368
+angle: -0.1249
+
+force: 0.3651
+angle: -0.0810
+
+force: 0.3919
+angle: -0.1030
+
+force: 0.4213
+angle: -0.1030
+
+force: 0.4503
+angle: -0.1249
+
+force: 0.5071
+angle: -0.1249
+
+force: 0.5376
+angle: -0.1469
+
+force: 0.5702
+angle: -0.1689
+
+force: 0.6029
+angle: -0.2348
+
+force: 0.6329
+angle: -0.2348
+
+force: 0.6899
+angle: -0.2348
+
+force: 0.7170
+angle: -0.2787
+
+force: 0.7438
+angle: -0.2348
+
+force: 0.7685
+angle: -0.2348
+
+force: 0.7906
+angle: -0.2787
+
+force: 0.8300
+angle: -0.3007
+
+force: 0.8478
+angle: -0.3447
+
+force: 0.8678
+angle: -0.3227
+
+force: 0.8887
+angle: -0.3007
+
+force: 0.9083
+angle: -0.3447
+
+force: 0.9496
+angle: -0.3666
+
+force: 0.9698
+angle: -0.4106
+
+force: 0.9876
+angle: -0.4106
+
+force: 1.0050
+angle: -0.4106
+
+force: 1.0216
+angle: -0.4325
+
+force: 1.0484
+angle: -0.4985
+
+force: 1.0620
+angle: -0.4765
+
+force: 1.0743
+angle: -0.4765
+
+force: 1.0887
+angle: -0.5644
+
+force: 1.1043
+angle: -0.5644
+
+force: 1.1341
+angle: -0.5644
+
+force: 1.1456
+angle: -0.5864
+
+force: 1.1567
+angle: -0.6303
+
+force: 1.1682
+angle: -0.6523
+
+force: 1.1800
+angle: -0.6303
+
+force: 1.2035
+angle: -0.6742
+
+force: 1.2160
+angle: -0.7621
+
+force: 1.2267
+angle: -0.8281
+
+force: 1.2381
+angle: -0.7841
+
+force: 1.2486
+angle: -0.8500
+
+force: 1.2691
+angle: -0.9599
+
+force: 1.2798
+angle: -0.9599
+
+force: 1.2890
+angle: -0.9599
+
+force: 1.2979
+angle: -1.0038
+
+force: 1.3053
+angle: -1.0698
+
+force: 1.3179
+angle: -1.1137
+
+force: 1.3237
+angle: -1.0698
+
+force: 1.3311
+angle: -1.0917
+
+force: 1.3364
+angle: -1.2016
+
+force: 1.3424
+angle: -1.2455
+
+force: 1.3508
+angle: -1.2236
+
+force: 1.3553
+angle: -1.2895
+
+force: 1.3598
+angle: -1.3115
+
+force: 1.3662
+angle: -1.3554
+
+force: 1.3698
+angle: -1.4213
+
+force: 1.3803
+angle: -1.4433
+
+force: 1.3855
+angle: -1.5092
+
+force: 1.3903
+angle: -1.5532
+
+force: 1.3943
+angle: -1.5532
+
+force: 1.3979
+angle: -1.5971
+
+force: 1.4042
+angle: -1.5971
+
+force: 1.4095
+angle: -1.6410
+
+force: 1.4141
+angle: -1.7289
+
+force: 1.4186
+angle: -1.7729
+
+force: 1.4242
+angle: -1.8168
+
+force: 1.4315
+angle: -1.8608
+
+force: 1.4360
+angle: -1.9047
+
+force: 1.4391
+angle: -1.9267
+
+force: 1.4433
+angle: -1.9487
+
+force: 1.4454
+angle: -1.9926
+
+force: 1.4515
+angle: -1.9926
+
+force: 1.4549
+angle: -1.9926
+
+force: 1.4592
+angle: -2.0805
+
+force: 1.4623
+angle: -2.1684
+
+force: 1.4659
+angle: -2.1464
+
+force: 1.4735
+angle: -2.2123
+
+force: 1.4784
+angle: -2.2343
+
+force: 1.4821
+angle: -2.2783
+
+force: 1.4858
+angle: -2.3442
+
+force: 1.4885
+angle: -2.3222
+
+force: 1.4946
+angle: -2.3661
+
+force: 1.4972
+angle: -2.4540
+
+force: 1.5023
+angle: -2.4101
+
+force: 1.5058
+angle: -2.5419
+
+force: 1.5084
+angle: -2.5419
+
+force: 1.5135
+angle: -2.5639
+
+force: 1.5163
+angle: -2.5859
+
+force: 1.5192
+angle: -2.6298
+
+force: 1.5216
+angle: -2.6957
+
+force: 1.5248
+angle: -2.7177
+
+force: 1.5280
+angle: -2.7397
+
+force: 1.5314
+angle: -2.8056
+
+force: 1.5337
+angle: -2.8056
+
+force: 1.5379
+angle: -2.7836
+
+force: 1.5394
+angle: -2.9155
+
+force: 1.5456
+angle: -2.9814
+
+force: 1.5483
+angle: -3.0033
+
+force: 1.5515
+angle: -3.0912
+
+force: 1.5535
+angle: -3.0912
+
+force: 1.5556
+angle: -3.0912
+
+force: 1.5573
+angle: -3.1132
+
+force: 1.5607
+angle: -3.1572
+
+force: 1.5622
+angle: -3.1132
+
+force: 1.5643
+angle: -3.1352
+
+force: 1.5674
+angle: -3.2231
+
+force: 1.5739
+angle: -3.2670
+
+force: 1.5762
+angle: -3.3329
+
+force: 1.5792
+angle: -3.3549
+
+force: 1.5814
+angle: -3.3989
+
+force: 1.5825
+angle: -3.3769
+
+force: 1.5865
+angle: -3.4208
+
+force: 1.5900
+angle: -3.4208
+
+force: 1.5920
+angle: -3.4648
+
+force: 1.5929
+angle: -3.5966
+
+force: 1.5950
+angle: -3.5527
+
+force: 1.5976
+angle: -3.5966
+
+force: 1.5992
+angle: -3.6625
+
+force: 1.5986
+angle: -3.6406
+
+force: 1.5994
+angle: -3.5746
+
+force: 1.6008
+angle: -3.6406
+
+force: 1.6069
+angle: -3.6186
+
+force: 1.6080
+angle: -3.6845
+
+force: 1.6103
+angle: -3.7284
+
+force: 1.6124
+angle: -3.7944
+
+force: 1.6153
+angle: -3.7944
+
+force: 1.6201
+angle: -3.8383
+
+force: 1.6237
+angle: -3.9482
+
+force: 1.6265
+angle: -3.9042
+
+force: 1.6291
+angle: -3.9701
+
+force: 1.6327
+angle: -3.9921
+
+force: 1.6352
+angle: -4.0361
+
+force: 1.6354
+angle: -4.1020
+
+force: 1.6368
+angle: -4.0800
+
+force: 1.6381
+angle: -4.1020
+
+force: 1.6407
+angle: -4.1020
+
+force: 1.6452
+angle: -4.1240
+
+force: 1.6482
+angle: -4.1459
+
+force: 1.6503
+angle: -4.1899
+
+force: 1.6514
+angle: -4.2338
+
+force: 1.6539
+angle: -4.2338
+
+force: 1.6552
+angle: -4.2778
+
+force: 1.6572
+angle: -4.2997
+
+force: 1.6600
+angle: -4.2778
+
+force: 1.6625
+angle: -4.2778
+
+force: 1.6652
+angle: -4.3657
+
+force: 1.6692
+angle: -4.4535
+
+force: 1.6709
+angle: -4.4096
+
+force: 1.6714
+angle: -4.4316
+
+force: 1.6737
+angle: -4.3876
+
+force: 1.6770
+angle: -4.4535
+
+force: 1.6821
+angle: -4.5414
+
+force: 1.6838
+angle: -4.4975
+
+force: 1.6869
+angle: -4.5414
+
+force: 1.6901
+angle: -4.5634
+
+force: 1.6916
+angle: -4.6513
+
+force: 1.6916
+angle: -4.6074
+
+force: 1.6899
+angle: -4.6074
+
+force: 1.6928
+angle: -4.7172
+
+force: 1.6963
+angle: -4.6513
+
+force: 1.7019
+angle: -4.6733
+
+force: 1.7068
+angle: -4.7172
+
+force: 1.7102
+angle: -4.8271
+
+force: 1.7121
+angle: -4.7831
+
+force: 1.7134
+angle: -4.8710
+
+force: 1.7134
+angle: -4.8491
+
+force: 1.7149
+angle: -4.8271
+
+force: 1.7163
+angle: -4.8491
+
+force: 1.7175
+angle: -4.8930
+
+force: 1.7196
+angle: -4.8710
+
+force: 1.7188
+angle: -4.9369
+
+force: 1.7194
+angle: -4.9150
+
+force: 1.7191
+angle: -4.8930
+
+force: 1.7204
+angle: -4.8930
+
+force: 1.7214
+angle: -4.9150
+
+force: 1.7251
+angle: -4.9150
+
+force: 1.7285
+angle: -4.9369
+
+force: 1.7313
+angle: -5.0248
+
+force: 1.7318
+angle: -5.0248
+
+force: 1.7340
+angle: -5.0468
+
+force: 1.7342
+angle: -5.0688
+
+force: 1.7320
+angle: -5.0688
+
+force: 1.7298
+angle: -5.0908
+
+force: 1.7301
+angle: -5.0908
+
+force: 1.7333
+angle: -5.0688
+
+force: 1.7363
+angle: -5.1127
+
+force: 1.7389
+angle: -5.0908
+
+force: 1.7393
+angle: -5.0908
+
+force: 1.7385
+angle: -5.0908
+
+force: 1.7357
+angle: -5.0908
+
+force: 1.7376
+angle: -5.0908
+
+force: 1.7441
+angle: -5.0688
+
+force: 1.7471
+angle: -5.1347
+
+force: 1.7487
+angle: -5.1567
+
+force: 1.7497
+angle: -5.2006
+
+force: 1.7486
+angle: -5.2006
+
+force: 1.7481
+angle: -5.2006
+
+force: 1.7474
+angle: -5.1567
+
+force: 1.7488
+angle: -5.2006
+
+force: 1.7473
+angle: -5.2226
+
+force: 1.7483
+angle: -5.1567
+
+force: 1.7489
+angle: -5.1567
+
+force: 1.7521
+angle: -5.2226
+
+force: 1.7547
+angle: -5.1786
+
+force: 1.7587
+angle: -5.2006
+
+force: 1.7603
+angle: -5.2446
+
+force: 1.7597
+angle: -5.2665
+
+force: 1.7593
+angle: -5.2226
+
+force: 1.7582
+angle: -5.2226
+
+force: 1.7559
+angle: -5.2226
+
+force: 1.7524
+angle: -5.2446
+
+force: 1.7477
+angle: -5.2665
+
+force: 1.7443
+angle: -5.2446
+
+force: 1.7410
+angle: -5.2006
+
+force: 1.7373
+angle: -5.2226
+
+force: 1.7344
+angle: -5.2226
+
+force: 1.7287
+angle: -5.2446
+
+force: 1.7268
+angle: -5.2226
+
+force: 1.7250
+angle: -5.2885
+
+force: 1.7227
+angle: -5.2226
+
+force: 1.7169
+angle: -5.2665
+
+force: 1.7087
+angle: -5.2446
+
+force: 1.7025
+angle: -5.2665
+
+force: 1.6984
+angle: -5.2006
+
+force: 1.6916
+angle: -5.2006
+
+force: 1.6862
+angle: -5.1786
+
+force: 1.6748
+angle: -5.1786
+
+force: 1.6707
+angle: -5.2006
+
+force: 1.6672
+angle: -5.1567
+
+force: 1.6639
+angle: -5.2006
+
+force: 1.6586
+angle: -5.1347
+
+force: 1.6461
+angle: -5.1567
+
+force: 1.6389
+angle: -5.1127
+
+force: 1.6334
+angle: -5.0908
+
+force: 1.6268
+angle: -5.0688
+
+force: 1.6206
+angle: -5.0688
+
+force: 1.6118
+angle: -5.0468
+
+force: 1.6076
+angle: -5.0688
+
+force: 1.6030
+angle: -5.0029
+
+force: 1.5987
+angle: -5.0029
+
+force: 1.5950
+angle: -5.0248
+
+force: 1.5842
+angle: -5.0029
+
+force: 1.5804
+angle: -4.9589
+
+force: 1.5765
+angle: -4.9150
+
+force: 1.5731
+angle: -4.9369
+
+force: 1.5694
+angle: -4.8271
+
+force: 1.5685
+angle: -4.8491
+
+force: 1.5677
+angle: -4.8271
+
+force: 1.5645
+angle: -4.7612
+
+force: 1.5610
+angle: -4.6733
+
+force: 1.5592
+angle: -4.7612
+
+force: 1.5534
+angle: -4.6952
+
+force: 1.5514
+angle: -4.6513
+
+force: 1.5483
+angle: -4.6513
+
+force: 1.5454
+angle: -4.6074
+
+force: 1.5428
+angle: -4.5634
+
+force: 1.5374
+angle: -4.5414
+
+force: 1.5342
+angle: -4.5195
+
+force: 1.5316
+angle: -4.4316
+
+force: 1.5295
+angle: -4.4316
+
+force: 1.5262
+angle: -4.4755
+
+force: 1.5201
+angle: -4.2778
+
+force: 1.5168
+angle: -4.2778
+
+force: 1.5129
+angle: -4.2778
+
+force: 1.5083
+angle: -4.1459
+
+force: 1.5044
+angle: -4.0800
+
+force: 1.4944
+angle: -3.9921
+
+force: 1.4900
+angle: -3.9921
+
+force: 1.4852
+angle: -3.8603
+
+force: 1.4812
+angle: -3.7944
+
+force: 1.4760
+angle: -3.7284
+
+force: 1.4721
+angle: -3.6845
+
+force: 1.4686
+angle: -3.6625
+
+force: 1.4654
+angle: -3.5746
+
+force: 1.4605
+angle: -3.5307
+
+force: 1.4569
+angle: -3.4648
+
+force: 1.4481
+angle: -3.3549
+
+force: 1.4450
+angle: -3.3549
+
+force: 1.4410
+angle: -3.2670
+
+force: 1.4372
+angle: -3.2450
+
+force: 1.4335
+angle: -3.2011
+
+force: 1.4254
+angle: -3.1352
+
+force: 1.4189
+angle: -3.0473
+
+force: 1.4141
+angle: -3.0033
+
+force: 1.4091
+angle: -2.8935
+
+force: 1.4043
+angle: -2.8276
+
+force: 1.3955
+angle: -2.8056
+
+force: 1.3918
+angle: -2.7397
+
+force: 1.3882
+angle: -2.7177
+
+force: 1.3841
+angle: -2.6298
+
+force: 1.3801
+angle: -2.6298
+
+force: 1.3706
+angle: -2.4980
+
+force: 1.3676
+angle: -2.4760
+
+force: 1.3636
+angle: -2.4101
+
+force: 1.3596
+angle: -2.3442
+
+force: 1.3556
+angle: -2.3442
+
+force: 1.3486
+angle: -2.3002
+
+force: 1.3433
+angle: -2.2563
+
+force: 1.3395
+angle: -2.1684
+
+force: 1.3322
+angle: -2.1244
+
+force: 1.3259
+angle: -2.1025
+
+force: 1.3120
+angle: -2.0146
+
+force: 1.3059
+angle: -1.9267
+
+force: 1.2995
+angle: -1.9487
+
+force: 1.2943
+angle: -1.8608
+
+force: 1.2867
+angle: -1.8388
+
+force: 1.2704
+angle: -1.6850
+
+force: 1.2603
+angle: -1.6410
+
+force: 1.2520
+angle: -1.5971
+
+force: 1.2438
+angle: -1.5312
+
+force: 1.2357
+angle: -1.4872
+
+force: 1.2237
+angle: -1.4872
+
+force: 1.2180
+angle: -1.4213
+
+force: 1.2116
+angle: -1.3993
+
+force: 1.2033
+angle: -1.3115
+
+force: 1.1954
+angle: -1.2236
+
+force: 1.1770
+angle: -1.2455
+
+force: 1.1691
+angle: -1.2016
+
+force: 1.1625
+angle: -1.2016
+
+force: 1.1567
+angle: -1.1576
+
+force: 1.1488
+angle: -1.0478
+
+force: 1.1352
+angle: -1.0478
+
+force: 1.1276
+angle: -1.0478
+
+force: 1.1201
+angle: -1.0258
+
+force: 1.1137
+angle: -1.0258
+
+force: 1.1094
+angle: -0.9819
+
+force: 1.0956
+angle: -0.9599
+
+force: 1.0866
+angle: -0.8940
+
+force: 1.0746
+angle: -0.8281
+
+force: 1.0606
+angle: -0.8281
+
+force: 1.0453
+angle: -0.7841
+
+force: 1.0180
+angle: -0.7182
+
+force: 1.0040
+angle: -0.7182
+
+force: 0.9917
+angle: -0.6742
+
+force: 0.9791
+angle: -0.6742
+
+force: 0.9646
+angle: -0.6303
+
+force: 0.9277
+angle: -0.5644
+
+force: 0.9072
+angle: -0.5644
+
+force: 0.8893
+angle: -0.4985
+
+force: 0.8731
+angle: -0.4985
+
+force: 0.8583
+angle: -0.4545
+
+force: 0.8270
+angle: -0.4765
+
+force: 0.8107
+angle: -0.4325
+
+force: 0.7930
+angle: -0.3886
+
+force: 0.7746
+angle: -0.4325
+
+force: 0.7526
+angle: -0.4106
+
+force: 0.7053
+angle: -0.3227
+
+force: 0.6808
+angle: -0.3666
+
+force: 0.6585
+angle: -0.3447
+
+force: 0.6355
+angle: -0.3447
+
+force: 0.6146
+angle: -0.2568
+
+force: 0.5730
+angle: -0.2787
+
+force: 0.5512
+angle: -0.3007
+
+force: 0.5281
+angle: -0.3007
+
+force: 0.5055
+angle: -0.2568
+
+force: 0.4845
+angle: -0.2348
+
+force: 0.4515
+angle: -0.2128
+
+force: 0.4338
+angle: -0.2348
+
+force: 0.4178
+angle: -73.3598
+
+force: 0.4023
+angle: -0.2128
+
+force: 0.3719
+angle: -0.2128
+
+force: 0.3569
+angle: -0.1908
+
+force: 0.3450
+angle: -0.2128
+
+force: 0.3321
+angle: -0.1908
+
+force: 0.3196
+angle: -0.1689
+
+force: 0.2929
+angle: -0.1689
+
+force: 0.2804
+angle: -0.1469
+
+force: 0.2695
+angle: -0.2128
+
+force: 0.2579
+angle: -0.1030
+
+force: 0.2485
+angle: -0.1249
+
+force: 0.2276
+angle: -0.1249
+
+force: 0.2180
+angle: -0.1030
+
+force: 0.2065
+angle: -0.0810
+
+force: 0.1950
+angle: -0.0810
+
+force: 0.1807
+angle: -0.1030
+
+force: 0.1584
+angle: -0.0810
+
+force: 0.1523
+angle: -0.0590
+
+force: 0.1475
+angle: -0.0370
+
+force: 0.1448
+angle: -0.0370
+
+force: 0.1435
+angle: -0.0370
+
+force: 0.1358
+angle: -0.0370
+
+force: 0.1310
+angle: -0.0810
+
+force: 0.1235
+angle: -0.0590
+
+force: 0.1152
+angle: -0.0151
+
+force: 0.1039
+angle: -0.0590
+
+force: 0.0802
+angle: -0.0151
+
+force: 0.0693
+angle: -0.0370
+
+force: 0.0607
+angle: -0.0151
+
+force: 0.0537
+angle: -0.0151
+
+force: 0.0471
+angle: -0.0810
+
+force: 0.0287
+angle: -0.0370
+
+force: 0.0242
+angle: -0.0810
+
+force: 0.0206
+angle: -0.0151
+
+force: 0.0156
+angle: -0.0590
+
+force: 0.0112
+angle: -0.0370
+
+force: 0.0039
+angle: -0.0370
+
+force: 0.0024
+angle: -0.0151
+
+force: 0.0026
+angle: -0.0370
+
+force: 0.0028
+angle: -0.0590
+
+force: 0.0017
+angle: -0.0151
+
+force: 0.0031
+angle: -0.0590
+
+force: 0.0028
+angle: -0.0370
+
+force: 0.0030
+angle: 0.0069
+
+force: 0.0026
+angle: 0.0069
+
+force: 0.0024
+angle: 0.0069
+
+force: 0.0018
+angle: 0.0069
+
+force: 0.0020
+angle: -0.0810
+
+force: 0.0019
+angle: -0.0151
+
+force: 0.0025
+angle: 0.0069
+
+force: 0.0027
+angle: -0.0370
+
+force: 0.0026
+angle: -0.0370
+
+force: 0.0021
+angle: -0.0151
+
+force: 0.0022
+angle: -0.0151
+
+force: 0.0020
+angle: 0.0069
+
+force: 0.0021
+angle: -0.0370
+
+force: 0.0020
+angle: -0.0590
+
+force: 0.0031
+angle: 0.0069
+
+force: 0.0023
+angle: -0.0151
+
+force: 0.0021
+angle: 0.0289
+
+force: 0.0023
+angle: -0.0151
+
+force: 0.0022
+angle: 0.0069
+
+force: 0.0026
+angle: 0.0069
+
+force: 0.0023
+angle: -0.0810
+
+force: 0.0033
+angle: -0.0810
+
+force: 0.0023
+angle: -0.0370
+
+force: 0.0024
+angle: -0.0590
+
+force: 0.0021
+angle: 0.0069
+
+force: 0.0022
+angle: -0.0370
+
+force: 0.0011
+angle: -0.0151
+
+force: 0.0021
+angle: -0.0151
+
+force: 0.0020
+angle: -0.0151
+
+force: 0.0028
+angle: -0.0151
+
+force: 0.0021
+angle: -0.0151
+
+force: 0.0026
+angle: 0.0069
+
+force: 0.0027
+angle: -0.0151
+
+force: 0.0030
+angle: -0.0590
+
+force: 0.0022
+angle: -0.0151
+
+force: 0.0030
+angle: -0.0151
+
+force: 0.0035
+angle: -0.0370
+
+force: 0.0025
+angle: -0.0590
+
+force: 0.0023
+angle: 0.0069
+
+force: 0.0053
+angle: -0.0590
+
+force: 0.0104
+angle: 0.0289
+
+force: 0.0159
+angle: -0.0151
+
+force: 0.0230
+angle: 0.0069
+
+force: 0.0371
+angle: -0.0151
+
+force: 0.0473
+angle: -0.0151
+
+force: 0.0635
+angle: 0.0289
+
+force: 0.0784
+angle: -0.0151
+
+force: 0.0900
+angle: -0.0590
+
+force: 0.1158
+angle: -0.0151
+
+force: 0.1278
+angle: -0.0590
+
+force: 0.1419
+angle: -0.0810
+
+force: 0.1547
+angle: -0.0590
+
+force: 0.1664
+angle: -0.0590
+
+force: 0.1944
+angle: -0.0590
+
+force: 0.2102
+angle: -0.1030
+
+force: 0.2272
+angle: -0.1030
+
+force: 0.2440
+angle: -0.0590
+
+force: 0.2634
+angle: -0.0590
+
+force: 0.3039
+angle: -0.0590
+
+force: 0.3318
+angle: -0.1689
+
+force: 0.3628
+angle: -0.1469
+
+force: 0.3906
+angle: -0.1689
+
+force: 0.4192
+angle: -0.1908
+
+force: 0.4725
+angle: -0.1249
+
+force: 0.4974
+angle: -0.2128
+
+force: 0.5251
+angle: -0.2128
+
+force: 0.5534
+angle: -0.2128
+
+force: 0.5850
+angle: -0.1030
+
+force: 0.6533
+angle: -0.2128
+
+force: 0.6868
+angle: -0.2128
+
+force: 0.7176
+angle: -0.2568
+
+force: 0.7463
+angle: -0.2128
+
+force: 0.7729
+angle: -0.2787
+
+force: 0.8258
+angle: -0.3007
+
+force: 0.8511
+angle: -0.3007
+
+force: 0.8777
+angle: -0.3886
+
+force: 0.9036
+angle: -0.3447
+
+force: 0.9290
+angle: -0.3886
+
+force: 0.9732
+angle: -0.3666
+
+force: 0.9930
+angle: -0.3886
+
+force: 1.0128
+angle: -0.4106
+
+force: 1.0301
+angle: -0.3886
+
+force: 1.0455
+angle: -0.4765
+
+force: 1.0756
+angle: -0.4985
+
+force: 1.0905
+angle: -0.5204
+
+force: 1.1077
+angle: -0.5424
+
+force: 1.1235
+angle: -0.5644
+
+force: 1.1379
+angle: -0.5864
+
+force: 1.1685
+angle: -0.6303
+
+force: 1.1837
+angle: -0.6962
+
+force: 1.1966
+angle: -0.7621
+
+force: 1.2071
+angle: -0.7402
+
+force: 1.2163
+angle: -0.8061
+
+force: 1.2359
+angle: -0.8281
+
+force: 1.2488
+angle: -0.8720
+
+force: 1.2604
+angle: -0.9159
+
+force: 1.2731
+angle: -1.0258
+
+force: 1.2859
+angle: -1.0038
+
+force: 1.3117
+angle: -1.1357
+
+force: 1.3232
+angle: -1.1137
+
+force: 1.3327
+angle: -1.2016
+
+force: 1.3403
+angle: -1.2675
+
+force: 1.3484
+angle: -1.2675
+
+force: 1.3625
+angle: -1.3115
+
+force: 1.3698
+angle: -1.3774
+
+force: 1.3758
+angle: -1.3993
+
+force: 1.3834
+angle: -1.4433
+
+force: 1.3910
+angle: -1.5092
+
+force: 1.4068
+angle: -1.4872
+
+force: 1.4132
+angle: -1.6191
+
+force: 1.4193
+angle: -1.6410
+
+force: 1.4249
+angle: -1.7070
+
+force: 1.4304
+angle: -1.6850
+
+force: 1.4451
+angle: -1.8168
+
+force: 1.4534
+angle: -1.9487
+
+force: 1.4612
+angle: -1.9926
+
+force: 1.4657
+angle: -2.0146
+
+force: 1.4713
+angle: -2.0585
+
+force: 1.4764
+angle: -2.1464
+
+force: 1.4789
+angle: -2.0805
+
+force: 1.4808
+angle: -2.1244
+
+force: 1.4833
+angle: -2.1684
+
+force: 1.4868
+angle: -2.2563
+
+force: 1.4969
+angle: -2.2563
+
+force: 1.5022
+angle: -2.3881
+
+force: 1.5068
+angle: -2.4540
+
+force: 1.5109
+angle: -2.4321
+
+force: 1.5159
+angle: -2.5419
+
+force: 1.5236
+angle: -2.5859
+
+force: 1.5291
+angle: -2.6518
+
+force: 1.5320
+angle: -2.6957
+
+force: 1.5344
+angle: -2.7617
+
+force: 1.5376
+angle: -2.8276
+
+force: 1.5433
+angle: -2.7836
+
+force: 1.5463
+angle: -2.8715
+
+force: 1.5515
+angle: -2.8935
+
+force: 1.5567
+angle: -2.9374
+
+force: 1.5588
+angle: -3.0033
+
+force: 1.5654
+angle: -3.0693
+
+force: 1.5685
+angle: -3.1352
+
+force: 1.5706
+angle: -3.2011
+
+force: 1.5715
+angle: -3.2011
+
+force: 1.5742
+angle: -3.2231
+
+force: 1.5782
+angle: -3.2670
+
+force: 1.5817
+angle: -3.2890
+
+force: 1.5824
+angle: -3.3110
+
+force: 1.5854
+angle: -3.3549
+
+force: 1.5883
+angle: -3.3989
+
+force: 1.5923
+angle: -3.4208
+
+force: 1.5944
+angle: -3.5087
+
+force: 1.5984
+angle: -3.5307
+
+force: 1.6003
+angle: -3.5966
+
+force: 1.6035
+angle: -3.6406
+
+force: 1.6083
+angle: -3.7065
+
+force: 1.6107
+angle: -3.6625
+
+force: 1.6111
+angle: -3.7065
+
+force: 1.6129
+angle: -3.7504
+
+force: 1.6147
+angle: -3.7065
+
+force: 1.6207
+angle: -3.7944
+
+force: 1.6223
+angle: -3.8163
+
+force: 1.6254
+angle: -3.8823
+
+force: 1.6292
+angle: -3.9921
+
+force: 1.6309
+angle: -4.0141
+
+force: 1.6359
+angle: -4.0141
+
+force: 1.6400
+angle: -4.0580
+
+force: 1.6461
+angle: -4.1459
+
+force: 1.6481
+angle: -4.1679
+
+force: 1.6517
+angle: -4.2558
+
+force: 1.6548
+angle: -4.2778
+
+force: 1.6571
+angle: -4.2558
+
+force: 1.6571
+angle: -4.3217
+
+force: 1.6604
+angle: -4.2558
+
+force: 1.6632
+angle: -4.3217
+
+force: 1.6671
+angle: -4.3437
+
+force: 1.6685
+angle: -4.3437
+
+force: 1.6712
+angle: -4.4096
+
+force: 1.6736
+angle: -4.4316
+
+force: 1.6750
+angle: -4.4535
+
+force: 1.6763
+angle: -4.4535
+
+force: 1.6792
+angle: -4.4535
+
+force: 1.6841
+angle: -4.4975
+
+force: 1.6890
+angle: -4.5414
+
+force: 1.6940
+angle: -4.5195
+
+force: 1.6999
+angle: -4.5854
+
+force: 1.7025
+angle: -4.6074
+
+force: 1.7041
+angle: -4.7392
+
+force: 1.7073
+angle: -4.6952
+
+force: 1.7071
+angle: -4.7392
+
+force: 1.7072
+angle: -4.6952
+
+force: 1.7092
+angle: -4.7172
+
+force: 1.7131
+angle: -4.7831
+
+force: 1.7158
+angle: -4.7392
+
+force: 1.7180
+angle: -4.7831
+
+force: 1.7225
+angle: -4.8051
+
+force: 1.7255
+angle: -4.8271
+
+force: 1.7271
+angle: -4.8710
+
+force: 1.7297
+angle: -4.8930
+
+force: 1.7318
+angle: -4.8930
+
+force: 1.7364
+angle: -4.9369
+
+force: 1.7373
+angle: -4.9809
+
+force: 1.7398
+angle: -5.0468
+
+force: 1.7425
+angle: -5.0468
+
+force: 1.7438
+angle: -5.0908
+
+force: 1.7480
+angle: -5.0908
+
+force: 1.7518
+angle: -5.0908
+
+force: 1.7549
+angle: -5.1347
+
+force: 1.7587
+angle: -5.1567
+
+force: 1.7608
+angle: -5.2226
+
+force: 1.7652
+angle: -5.2665
+
+force: 1.7656
+angle: -5.2665
+
+force: 1.7665
+angle: -5.2446
+
+force: 1.7677
+angle: -5.3325
+
+force: 1.7679
+angle: -5.3325
+
+force: 1.7712
+angle: -5.3105
+
+force: 1.7739
+angle: -5.3105
+
+force: 1.7776
+angle: -5.3544
+
+force: 1.7794
+angle: -5.3984
+
+force: 1.7821
+angle: -5.4203
+
+force: 1.7828
+angle: -5.4203
+
+force: 1.7847
+angle: -5.4203
+
+force: 1.7851
+angle: -5.5082
+
+force: 1.7875
+angle: -5.4643
+
+force: 1.7896
+angle: -5.5522
+
+force: 1.7919
+angle: -5.5742
+
+force: 1.7906
+angle: -5.5742
+
+force: 1.7907
+angle: -5.5522
+
+force: 1.7914
+angle: -5.5961
+
+force: 1.7949
+angle: -5.5961
+
+force: 1.7998
+angle: -5.6401
+
+force: 1.8006
+angle: -5.6401
+
+force: 1.8006
+angle: -5.6181
+
+force: 1.8007
+angle: -5.5961
+
+force: 1.7979
+angle: -5.6840
+
+force: 1.7956
+angle: -5.6181
+
+force: 1.7968
+angle: -5.6620
+
+force: 1.7998
+angle: -5.6620
+
+force: 1.8024
+angle: -5.6401
+
+force: 1.8031
+angle: -5.6620
+
+force: 1.8021
+angle: -5.6620
+
+force: 1.8038
+angle: -5.6840
+
+force: 1.8028
+angle: -5.6401
+
+force: 1.8001
+angle: -5.7060
+
+force: 1.7959
+angle: -5.6181
+
+force: 1.7887
+angle: -5.6840
+
+force: 1.7886
+angle: -5.6620
+
+force: 1.7862
+angle: -5.6401
+
+force: 1.7856
+angle: -5.6840
+
+force: 1.7832
+angle: -5.6401
+
+force: 1.7734
+angle: -5.6840
+
+force: 1.7656
+angle: -5.6620
+
+force: 1.7592
+angle: -5.6401
+
+force: 1.7514
+angle: -5.6401
+
+force: 1.7450
+angle: -5.6401
+
+force: 1.7354
+angle: -5.6181
+
+force: 1.7303
+angle: -5.5742
+
+force: 1.7237
+angle: -5.6181
+
+force: 1.7163
+angle: -5.5961
+
+force: 1.7089
+angle: -5.6181
+
+force: 1.6932
+angle: -5.5302
+
+force: 1.6871
+angle: -5.5302
+
+force: 1.6825
+angle: -5.4643
+
+force: 1.6770
+angle: -5.4643
+
+force: 1.6704
+angle: -5.4863
+
+force: 1.6575
+angle: -5.4423
+
+force: 1.6505
+angle: -5.4643
+
+force: 1.6454
+angle: -5.4203
+
+force: 1.6385
+angle: -5.3544
+
+force: 1.6337
+angle: -5.3105
+
+force: 1.6258
+angle: -5.3325
+
+force: 1.6217
+angle: -5.2885
+
+force: 1.6177
+angle: -5.2885
+
+force: 1.6149
+angle: -5.2665
+
+force: 1.6107
+angle: -5.2006
+
+force: 1.6046
+angle: -5.2226
+
+force: 1.6000
+angle: -5.1567
+
+force: 1.5964
+angle: -5.2006
+
+force: 1.5926
+angle: -5.1127
+
+force: 1.5898
+angle: -5.1127
+
+force: 1.5835
+angle: -4.9809
+
+force: 1.5807
+angle: -4.9589
+
+force: 1.5757
+angle: -4.9589
+
+force: 1.5731
+angle: -4.8930
+
+force: 1.5694
+angle: -4.8271
+
+force: 1.5611
+angle: -4.8710
+
+force: 1.5592
+angle: -4.7612
+
+force: 1.5560
+angle: -4.6733
+
+force: 1.5510
+angle: -4.6293
+
+force: 1.5460
+angle: -4.5854
+
+force: 1.5383
+angle: -4.4975
+
+force: 1.5350
+angle: -4.3217
+
+force: 1.5296
+angle: -4.2778
+
+force: 1.5228
+angle: -4.2118
+
+force: 1.5198
+angle: -4.1459
+
+force: 1.5097
+angle: -4.0800
+
+force: 1.5050
+angle: -3.9482
+
+force: 1.4998
+angle: -3.9042
+
+force: 1.4947
+angle: -3.7944
+
+force: 1.4885
+angle: -3.6845
+
+force: 1.4769
+angle: -3.6625
+
+force: 1.4709
+angle: -3.5307
+
+force: 1.4645
+angle: -3.4867
+
+force: 1.4556
+angle: -3.3110
+
+force: 1.4474
+angle: -3.1572
+
+force: 1.4320
+angle: -3.0912
+
+force: 1.4269
+angle: -3.0473
+
+force: 1.4209
+angle: -2.9155
+
+force: 1.4162
+angle: -2.8935
+
+force: 1.4114
+angle: -2.8276
+
+force: 1.4016
+angle: -2.7836
+
+force: 1.3955
+angle: -2.6957
+
+force: 1.3896
+angle: -2.5639
+
+force: 1.3845
+angle: -2.5200
+
+force: 1.3801
+angle: -2.4321
+
+force: 1.3691
+angle: -2.4101
+
+force: 1.3636
+angle: -2.3222
+
+force: 1.3589
+angle: -2.3222
+
+force: 1.3530
+angle: -2.2343
+
+force: 1.3481
+angle: -2.1904
+
+force: 1.3361
+angle: -2.0805
+
+force: 1.3294
+angle: -2.0805
+
+force: 1.3224
+angle: -1.9926
+
+force: 1.3161
+angle: -1.9047
+
+force: 1.3090
+angle: -1.9047
+
+force: 1.2957
+angle: -1.8388
+
+force: 1.2871
+angle: -1.7509
+
+force: 1.2789
+angle: -1.6630
+
+force: 1.2690
+angle: -1.5971
+
+force: 1.2581
+angle: -1.5312
+
+force: 1.2404
+angle: -1.4872
+
+force: 1.2337
+angle: -1.4653
+
+force: 1.2249
+angle: -1.4213
+
+force: 1.2156
+angle: -1.3554
+
+force: 1.2048
+angle: -1.3115
+
+force: 1.1763
+angle: -1.2455
+
+force: 1.1622
+angle: -1.1576
+
+force: 1.1495
+angle: -1.0698
+
+force: 1.1376
+angle: -1.0478
+
+force: 1.1248
+angle: -1.0038
+
+force: 1.0991
+angle: -0.9819
+
+force: 1.0839
+angle: -0.9159
+
+force: 1.0643
+angle: -0.8061
+
+force: 1.0435
+angle: -0.7402
+
+force: 1.0226
+angle: -0.7182
+
+force: 0.9841
+angle: -0.6742
+
+force: 0.9681
+angle: -0.6523
+
+force: 0.9511
+angle: -0.5644
+
+force: 0.9337
+angle: -0.5644
+
+force: 0.9126
+angle: -0.4545
+
+force: 0.8648
+angle: -0.5204
+
+force: 0.8380
+angle: -0.4545
+
+force: 0.8157
+angle: -0.4325
+
+force: 0.7945
+angle: -0.3666
+
+force: 0.7728
+angle: -0.3886
+
+force: 0.7196
+angle: -0.3227
+
+force: 0.6879
+angle: -0.3447
+
+force: 0.6550
+angle: -0.2787
+
+force: 0.6226
+angle: -0.2568
+
+force: 0.5882
+angle: -0.2128
+
+force: 0.5171
+angle: -0.1689
+
+force: 0.4818
+angle: -0.2128
+
+force: 0.4479
+angle: -0.1469
+
+force: 0.4145
+angle: -0.1249
+
+force: 0.3801
+angle: -0.0810
+
+force: 0.3235
+angle: -0.0810
+
+force: 0.2952
+angle: -0.0810
+
+force: 0.2663
+angle: 0.0069
+
+force: 0.2360
+angle: -0.0370
+
+force: 0.2052
+angle: -0.0370
+
+force: 0.1261
+angle: 0.0508
+
+force: 0.0840
+angle: 0.0948
+
+force: 0.0473
+angle: 0.0069
+
+force: 0.0280
+angle: 0.0728
+
+force: 0.0220
+angle: 0.0508
+
+force: 0.0098
+angle: 0.0508
+
+force: 0.0076
+angle: 0.0069
+
+force: 0.0044
+angle: -0.0151
+
+force: 0.0006
+angle: 0.0289
+
+force: -0.0015
+angle: 0.0069
+
+force: 0.0007
+angle: 0.0289
+
+force: -0.0002
+angle: 0.0728
+
+force: -0.0003
+angle: 0.0069
+
+force: 0.0020
+angle: 0.0508
+
+force: 0.0001
+angle: 0.0069
+
+force: 0.0020
+angle: 0.0728
+
+force: 0.0009
+angle: 0.0728
+
+force: 0.0003
+angle: 0.0289
+
+force: 0.0012
+angle: 0.0069
+
+force: 0.0005
+angle: 0.0508
+
+force: 0.0012
+angle: -0.0370
+
+end
+
+force: 0.0011
+angle: 0.0508
+
+force: 0.0022
+angle: 0.0069
+
+force: 0.0005
+angle: 0.0069
+
+force: 0.0005
+angle: 0.0069
+
+force: 0.0001
+angle: 0.0289
+
+force: 0.0010
+angle: 0.0508
+
+force: 0.0011
+angle: 0.0289
+
+force: 0.0015
+angle: -0.0151
+
+force: 0.0022
+angle: 0.0289
+
+force: 0.0017
+angle: 0.0948
+
+force: 0.0012
+angle: 0.0289
+
+force: 0.0014
+angle: 0.0508
+
+force: 0.0009
+angle: 0.0289
+
+force: 0.0012
+angle: 0.0289
+
+force: 0.0007
+angle: 0.0728
+
+force: 0.0023
+angle: 0.0069
+
+force: 0.0036
+angle: 0.0508
+
+force: 0.0059
+angle: -0.0151
+
+force: 0.0087
+angle: 0.0069
+
+force: 0.0148
+angle: 0.0069
+
+force: 0.0170
+angle: 0.0289
+
+force: 0.0228
+angle: 0.0069
+
+force: 0.0340
+angle: 0.0508
+
+force: 0.0457
+angle: 0.0289
+
+force: 0.0770
+angle: 0.0508
+
+force: 0.0894
+angle: 0.0508
+
+force: 0.1029
+angle: -0.0370
+
+force: 0.1144
+angle: 0.0069
+
+force: 0.1280
+angle: -0.0151
+
+force: 0.1504
+angle: 0.0289
+
+force: 0.1606
+angle: 0.0508
+
+force: 0.1722
+angle: 0.0289
+
+force: 0.1840
+angle: 0.0508
+
+force: 0.1942
+angle: 0.0508
+
+force: 0.2210
+angle: 0.0948
+
+force: 0.2443
+angle: 0.0289
+
+force: 0.2731
+angle: 0.0069
+
+force: 0.2982
+angle: -0.0810
+
+force: 0.3246
+angle: -0.0810
+
+force: 0.3756
+angle: -0.1469
+
+force: 0.3952
+angle: -0.2128
+
+force: 0.4114
+angle: -0.1249
+
+force: 0.4257
+angle: -0.1689
+
+force: 0.4386
+angle: -0.1469
+
+force: 0.4521
+angle: -0.1908
+
+force: 0.4566
+angle: -0.1908
+
+force: 0.4704
+angle: -0.1689
+
+force: 0.4936
+angle: -0.1908
+
+force: 0.5186
+angle: -0.2128
+
+force: 0.5757
+angle: -0.2348
+
+force: 0.6016
+angle: -0.2787
+
+force: 0.6238
+angle: -0.2568
+
+force: 0.6441
+angle: -0.3007
+
+force: 0.6675
+angle: -0.2348
+
+force: 0.7372
+angle: -0.2787
+
+force: 0.7805
+angle: -0.3447
+
+force: 0.8184
+angle: -0.3666
+
+force: 0.8538
+angle: -0.3886
+
+force: 0.8889
+angle: -0.3886
+
+force: 0.9545
+angle: -0.3666
+
+force: 0.9755
+angle: -0.4106
+
+force: 0.9694
+angle: -0.4985
+
+force: 1.0040
+angle: -0.4985
+
+force: 1.0234
+angle: -0.5204
+
+force: 1.0708
+angle: -0.5424
+
+force: 1.0941
+angle: -0.5864
+
+force: 1.1126
+angle: -0.6083
+
+force: 1.1227
+angle: -0.6303
+
+force: 1.1266
+angle: -0.6083
+
+force: 1.1183
+angle: -0.6303
+
+force: 1.1353
+angle: -0.6303
+
+force: 1.1532
+angle: -0.7402
+
+force: 1.1810
+angle: -0.7621
+
+force: 1.2042
+angle: -0.7621
+
+force: 1.2412
+angle: -0.8720
+
+force: 1.2535
+angle: -0.7841
+
+force: 1.2626
+angle: -0.8500
+
+force: 1.2704
+angle: -0.9599
+
+force: 1.2809
+angle: -0.9819
+
+force: 1.3054
+angle: -1.0038
+
+force: 1.3212
+angle: -1.0917
+
+force: 1.3354
+angle: -1.2236
+
+force: 1.3515
+angle: -1.2455
+
+force: 1.3651
+angle: -1.3115
+
+force: 1.3881
+angle: -1.4433
+
+force: 1.3974
+angle: -1.4872
+
+force: 1.4091
+angle: -1.5751
+
+force: 1.4204
+angle: -1.6191
+
+force: 1.4292
+angle: -1.7509
+
+force: 1.4457
+angle: -1.8168
+
+force: 1.4546
+angle: -1.8827
+
+force: 1.4616
+angle: -1.9706
+
+force: 1.4666
+angle: -2.0146
+
+force: 1.4708
+angle: -2.0585
+
+force: 1.4818
+angle: -2.0585
+
+force: 1.4871
+angle: -2.1464
+
+force: 1.4900
+angle: -2.1904
+
+force: 1.4951
+angle: -2.2343
+
+force: 1.4956
+angle: -2.2343
+
+force: 1.4996
+angle: -2.3002
+
+force: 1.5039
+angle: -2.4101
+
+force: 1.5102
+angle: -2.3881
+
+force: 1.5148
+angle: -2.4321
+
+force: 1.5201
+angle: -2.5639
+
+force: 1.5274
+angle: -2.6738
+
+force: 1.5330
+angle: -2.7177
+
+force: 1.5383
+angle: -2.7836
+
+force: 1.5445
+angle: -2.8495
+
+force: 1.5503
+angle: -3.0033
+
+force: 1.5605
+angle: -3.0912
+
+force: 1.5635
+angle: -3.1572
+
+force: 1.5681
+angle: -3.1791
+
+force: 1.5719
+angle: -3.3549
+
+force: 1.5766
+angle: -3.3549
+
+force: 1.5831
+angle: -3.3769
+
+force: 1.5883
+angle: -3.4208
+
+force: 1.5909
+angle: -3.5307
+
+force: 1.5942
+angle: -3.5966
+
+force: 1.5979
+angle: -3.5966
+
+force: 1.6064
+angle: -3.6845
+
+force: 1.6096
+angle: -3.7504
+
+force: 1.6134
+angle: -3.9042
+
+force: 1.6180
+angle: -3.9262
+
+force: 1.6215
+angle: -4.0580
+
+force: 1.6319
+angle: -4.0361
+
+force: 1.6369
+angle: -4.1679
+
+force: 1.6418
+angle: -4.2118
+
+force: 1.6448
+angle: -4.2997
+
+force: 1.6485
+angle: -4.3876
+
+force: 1.6564
+angle: -4.4755
+
+force: 1.6600
+angle: -4.5195
+
+force: 1.6643
+angle: -4.5634
+
+force: 1.6702
+angle: -4.6293
+
+force: 1.6743
+angle: -4.6952
+
+force: 1.6812
+angle: -4.7392
+
+force: 1.6826
+angle: -4.8271
+
+force: 1.6848
+angle: -4.8271
+
+force: 1.6874
+angle: -4.8271
+
+force: 1.6889
+angle: -4.9369
+
+force: 1.6962
+angle: -4.9809
+
+force: 1.6998
+angle: -5.1127
+
+force: 1.7033
+angle: -5.1786
+
+force: 1.7064
+angle: -5.2885
+
+force: 1.7106
+angle: -5.3105
+
+force: 1.7154
+angle: -5.3544
+
+force: 1.7175
+angle: -5.3764
+
+force: 1.7190
+angle: -5.3984
+
+force: 1.7228
+angle: -5.4423
+
+force: 1.7263
+angle: -5.4863
+
+force: 1.7316
+angle: -5.5742
+
+force: 1.7338
+angle: -5.6620
+
+force: 1.7364
+angle: -5.7060
+
+force: 1.7380
+angle: -5.7280
+
+force: 1.7427
+angle: -5.7280
+
+force: 1.7480
+angle: -5.8598
+
+force: 1.7530
+angle: -5.8378
+
+force: 1.7554
+angle: -5.9697
+
+force: 1.7583
+angle: -6.0356
+
+force: 1.7620
+angle: -5.9916
+
+force: 1.7649
+angle: -6.1015
+
+force: 1.7663
+angle: -6.1015
+
+force: 1.7688
+angle: -6.1454
+
+force: 1.7724
+angle: -6.1674
+
+force: 1.7748
+angle: -6.2553
+
+force: 1.7790
+angle: -6.2992
+
+force: 1.7819
+angle: -6.3432
+
+force: 1.7838
+angle: -6.3432
+
+force: 1.7862
+angle: -6.3432
+
+force: 1.7888
+angle: -6.3871
+
+force: 1.7948
+angle: -6.4531
+
+force: 1.7967
+angle: -6.4750
+
+force: 1.7985
+angle: -6.5629
+
+force: 1.8005
+angle: -6.5629
+
+force: 1.8023
+angle: -6.5849
+
+force: 1.8051
+angle: -6.6069
+
+force: 1.8072
+angle: -6.6728
+
+force: 1.8092
+angle: -6.7607
+
+force: 1.8125
+angle: -6.7826
+
+force: 1.8142
+angle: -6.8046
+
+force: 1.8183
+angle: -6.8266
+
+force: 1.8205
+angle: -6.8266
+
+force: 1.8222
+angle: -6.9365
+
+force: 1.8243
+angle: -6.9145
+
+force: 1.8241
+angle: -6.9584
+
+force: 1.8275
+angle: -7.0024
+
+force: 1.8281
+angle: -7.0024
+
+force: 1.8296
+angle: -6.9804
+
+force: 1.8304
+angle: -6.9584
+
+force: 1.8323
+angle: -7.0243
+
+force: 1.8342
+angle: -7.0243
+
+force: 1.8352
+angle: -7.0903
+
+force: 1.8356
+angle: -7.1342
+
+force: 1.8025
+angle: -7.2880
+
+force: 1.7751
+angle: -7.4199
+
+force: 1.7660
+angle: -7.6176
+
+force: 1.7164
+angle: -8.0351
+
+force: 1.0200
+angle: -10.0346
+
+force: 0.1917
+angle: -13.6821
+
+force: 0.5743
+angle: -14.0556
+
+force: 0.5951
+angle: -14.0776
+
+force: 0.5367
+angle: -14.0995
+
+force: 0.7133
+angle: -14.0776
+
+force: 0.5246
+angle: -14.0995
+
+force: 0.5703
+angle: -14.0776
+
+force: 0.1368
+angle: -14.0556
+
+force: 0.0183
+angle: -14.0995
+
+force: -0.0013
+angle: -14.0776
+
+force: 0.0028
+angle: -14.0995
+
+force: 0.0141
+angle: -14.0776
+
+force: 0.0071
+angle: -14.0995
+
+force: 0.0549
+angle: -14.1435
+
+force: 0.0205
+angle: -14.1435
+
+force: 0.0481
+angle: -14.0995
+
+force: 0.0345
+angle: -14.0995
+
+force: 0.0248
+angle: -14.0776
+
+force: 0.0180
+angle: -14.1215
+
+force: 0.0079
+angle: -14.0995
+
+force: -0.0004
+angle: -14.0995
+
+force: -0.0001
+angle: -14.0776
+
+force: 0.0161
+angle: -14.1215
+
+force: -0.0015
+angle: -14.1435
+
+force: -0.0059
+angle: -14.0995
+
+force: -0.0030
+angle: -14.0995
+
+force: -0.0019
+angle: -14.0776
+
+force: 0.0015
+angle: -14.0336
+
+force: -0.0007
+angle: -14.0995
+
+force: -0.0035
+angle: -14.1435
+
+force: 0.0099
+angle: -14.0995
+
+force: -0.0023
+angle: -14.0776
+
+force: 0.0020
+angle: -14.0556
+
+force: 0.0016
+angle: -14.0995
+
+force: -0.0010
+angle: -14.0995
+
+force: -0.0034
+angle: -14.0995
+
+force: -0.0061
+angle: -14.0776
+
+force: -0.0046
+angle: -14.0776
+
+force: -0.0037
+angle: -14.0556
+
+force: -0.0022
+angle: -14.1215
+
+force: -0.0024
+angle: -14.0556
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0026
+angle: -14.1215
+
+force: -0.0007
+angle: -14.1215
+
+force: -0.0011
+angle: -14.0556
+
+force: -0.0023
+angle: -14.1215
+
+force: -0.0042
+angle: -14.1215
+
+force: -0.0047
+angle: -14.1215
+
+force: -0.0041
+angle: -14.0995
+
+force: -0.0021
+angle: -14.1215
+
+force: -0.0007
+angle: -14.0776
+
+force: -0.0013
+angle: -14.1215
+
+force: -0.0037
+angle: -14.2094
+
+force: -0.0043
+angle: -14.1435
+
+force: -0.0037
+angle: -14.1874
+
+force: -0.0037
+angle: -14.1215
+
+force: -0.0023
+angle: -14.0995
+
+force: -0.0023
+angle: -14.0776
+
+force: -0.0013
+angle: -14.1215
+
+force: -0.0029
+angle: -14.0556
+
+force: -0.0021
+angle: -14.0556
+
+force: -0.0033
+angle: -14.1435
+
+force: -0.0047
+angle: -14.1215
+
+force: -0.0051
+angle: -14.0776
+
+force: -0.0037
+angle: -14.0995
+
+force: -0.0021
+angle: -14.0556
+
+force: -0.0009
+angle: -14.0995
+
+force: -0.0022
+angle: -14.0995
+
+force: -0.0026
+angle: -14.0995
+
+force: -0.0040
+angle: -14.0776
+
+force: -0.0044
+angle: -14.1655
+
+force: -0.0034
+angle: -14.0776
+
+force: -0.0030
+angle: -14.0556
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0034
+angle: -14.0995
+
+force: -0.0027
+angle: -14.0776
+
+force: -0.0035
+angle: -14.1215
+
+force: -0.0024
+angle: -14.0776
+
+force: -0.0029
+angle: -14.1215
+
+force: -0.0025
+angle: -14.1215
+
+force: -0.0039
+angle: -14.0776
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0021
+angle: -14.0776
+
+force: -0.0014
+angle: -14.1215
+
+force: -0.0030
+angle: -14.0995
+
+force: -0.0033
+angle: -14.1215
+
+force: -0.0037
+angle: -14.1215
+
+force: -0.0033
+angle: -14.1435
+
+force: -0.0036
+angle: -14.1435
+
+force: -0.0025
+angle: -14.0995
+
+force: -0.0021
+angle: -14.0556
+
+force: -0.0018
+angle: -14.0995
+
+force: -0.0030
+angle: -14.0995
+
+force: -0.0026
+angle: -14.0995
+
+force: -0.0038
+angle: -14.0995
+
+force: -0.0045
+angle: -14.0556
+
+force: -0.0037
+angle: -14.1215
+
+force: -0.0026
+angle: -14.0995
+
+force: -0.0026
+angle: -14.0995
+
+force: -0.0026
+angle: -14.1215
+
+force: -0.0028
+angle: -14.0995
+
+force: -0.0043
+angle: -14.0776
+
+force: -0.0023
+angle: -14.1435
+
+force: -0.0023
+angle: -14.0556
+
+force: -0.0013
+angle: -14.0995
+
+force: -0.0029
+angle: -14.0995
+
+force: -0.0029
+angle: -14.1874
+
+force: -0.0037
+angle: -14.1215
+
+force: -0.0029
+angle: -14.0995
+
+force: -0.0033
+angle: -14.0995
+
+force: -0.0029
+angle: -14.1215
+
+force: -0.0024
+angle: -14.1215
+
+force: -0.0032
+angle: -14.1215
+
+force: -0.0036
+angle: -14.1435
+
+force: -0.0028
+angle: -14.0556
+
+force: -0.0023
+angle: -14.0776
+
+force: -0.0027
+angle: -14.1215
+
+force: -0.0032
+angle: -14.0776
+
+force: -0.0024
+angle: -14.0556
+
+force: -0.0026
+angle: -14.0776
+
+force: -0.0033
+angle: -14.0556
+
+force: -0.0033
+angle: -14.0776
+
+force: -0.0036
+angle: -14.1655
+
+force: -0.0032
+angle: -14.1215
+
+force: -0.0028
+angle: -14.0776
+
+force: -0.0017
+angle: -14.0995
+
+force: -0.0024
+angle: -14.1215
+
+force: -0.0027
+angle: -14.1655
+
+force: -0.0036
+angle: -14.0776
+
+force: -0.0032
+angle: -14.1215
+
+force: -0.0034
+angle: -14.0995
+
+force: -0.0022
+angle: -14.0776
+
+force: -0.0030
+angle: -14.0995
+
+force: -0.0029
+angle: -14.0776
+
+force: -0.0043
+angle: -14.1215
+
+force: -0.0034
+angle: -14.0776
+
+force: -0.0032
+angle: -14.0995
+
+force: -0.0021
+angle: -14.0995
+
+force: -0.0031
+angle: -14.0995
+
+force: -0.0023
+angle: -14.1435
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0030
+angle: -14.1215
+
+force: -0.0033
+angle: -14.1215
+
+force: -0.0026
+angle: -14.1215
+
+force: -0.0029
+angle: -14.0556
+
+force: -0.0034
+angle: -14.0995
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0031
+angle: -14.0776
+
+force: -0.0031
+angle: -14.0995
+
+force: -0.0034
+angle: -14.1215
+
+force: -0.0022
+angle: -14.0995
+
+force: -0.0028
+angle: -14.0995
+
+force: -0.0020
+angle: -14.0995
+
+force: -0.0029
+angle: -14.0776
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0039
+angle: -14.1215
+
+force: -0.0034
+angle: -14.0556
+
+force: -0.0033
+angle: -14.1215
+
+force: -0.0026
+angle: -14.0776
+
+force: -0.0030
+angle: -14.1215
+
+force: -0.0029
+angle: -14.1435
+
+force: -0.0031
+angle: -14.1215
+
+force: -0.0025
+angle: -14.0776
+
+force: -0.0032
+angle: -14.1215
+
+force: -0.0024
+angle: -14.1215
+
+force: -0.0023
+angle: -14.0776
+
+force: -0.0030
+angle: -14.1435
+
+force: -0.0042
+angle: -14.0776
+
+force: -0.0032
+angle: -14.1655
+
+force: -0.0033
+angle: -14.0995
+
+force: -0.0033
+angle: -14.1435
+
+force: -0.0028
+angle: -14.0995
+
+force: -0.0027
+angle: -14.0776
+
+force: -0.0028
+angle: -14.0776
+
+force: -0.0027
+angle: -14.0995
+
+force: -0.0022
+angle: -14.0776
+
+force: -0.0032
+angle: -14.1435
+
+force: -0.0026
+angle: -14.1435
+
+force: -0.0030
+angle: -14.1215
+
+force: -0.0031
+angle: -14.0995
+
+force: -0.0037
+angle: -14.1215
+
+force: -0.0029
+angle: -14.0995
+
+force: -0.0031
+angle: -14.0995
+
+force: -0.0021
+angle: -14.1215
+
+force: -0.0030
+angle: -14.1435
+
+force: -0.0026
+angle: -14.1215
+
+force: -0.0029
+angle: -14.1215
+
+force: -0.0026
+angle: -14.0995
+
+force: -0.0035
+angle: -14.1215
+
+force: -0.0029
+angle: -14.0995
+

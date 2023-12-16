@@ -1,4 +1,4 @@
-# batch B 100mm long: 0.61 J for 0-0.055 m displacement
+# batch B piece 1, 100mm long: 0.611 J at 0-0.056 m
 
 force: -0.0006
 angle: -0.0277
@@ -5975,6 +5975,8 @@ angle: -0.0277
 
 force: 0.6745
 angle: -0.0057
+
+end
 
 force: 0.7076
 angle: -0.0277
