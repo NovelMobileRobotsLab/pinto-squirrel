@@ -126,6 +126,11 @@ inner_circle = plt.Circle((0, 0), a2-a1, color='white', alpha=1)
 ax.add_artist(outer_circle)
 ax.add_artist(inner_circle)
 
+outer_circle = plt.Circle((0, a7), a6+a5, color='red', alpha=0.2)
+inner_circle = plt.Circle((0, a7), a6-a5, color='white', alpha=1)
+ax.add_artist(outer_circle)
+ax.add_artist(inner_circle)
+
 ax.set_aspect('equal', adjustable='box')
 ax.set_xlim(-100, 100)
 ax.set_ylim(-100, 100)

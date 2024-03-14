@@ -1,0 +1,2761 @@
+
+elapsed: 352
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 366
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 380
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 396
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 410
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 425
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 440
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 454
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 469
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 484
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 498
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 513
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 528
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 542
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 557
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 572
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 586
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 601
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 616
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 630
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 645
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 660
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 674
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 689
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 704
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 718
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 733
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 748
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 762
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 777
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 792
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 806
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 821
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 836
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 850
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 865
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 880
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 894
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 909
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 924
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 938
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 953
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 968
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 982
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 997
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1012
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1026
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1041
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1056
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1070
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1085
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1099
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2917
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1113
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1128
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1142
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1157
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1172
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1186
+dxl_pos[0]: 2224
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1201
+dxl_pos[0]: 2223
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1216
+dxl_pos[0]: 2222
+dxl_pos[1]: 1618
+dxl_pos[2]: 2916
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1230
+dxl_pos[0]: 2221
+dxl_pos[1]: 1617
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1245
+dxl_pos[0]: 2217
+dxl_pos[1]: 1613
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1260
+dxl_pos[0]: 2211
+dxl_pos[1]: 1607
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1274
+dxl_pos[0]: 2201
+dxl_pos[1]: 1599
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1289
+dxl_pos[0]: 2183
+dxl_pos[1]: 1589
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1304
+dxl_pos[0]: 2158
+dxl_pos[1]: 1585
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1318
+dxl_pos[0]: 2131
+dxl_pos[1]: 1584
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1333
+dxl_pos[0]: 2110
+dxl_pos[1]: 1586
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1348
+dxl_pos[0]: 2096
+dxl_pos[1]: 1587
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1362
+dxl_pos[0]: 2082
+dxl_pos[1]: 1584
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1377
+dxl_pos[0]: 2070
+dxl_pos[1]: 1580
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1392
+dxl_pos[0]: 2046
+dxl_pos[1]: 1570
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1406
+dxl_pos[0]: 2015
+dxl_pos[1]: 1561
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1421
+dxl_pos[0]: 1964
+dxl_pos[1]: 1546
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1436
+dxl_pos[0]: 1927
+dxl_pos[1]: 1539
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1450
+dxl_pos[0]: 1897
+dxl_pos[1]: 1537
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1464
+dxl_pos[0]: 1869
+dxl_pos[1]: 1535
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1480
+dxl_pos[0]: 1841
+dxl_pos[1]: 1532
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1494
+dxl_pos[0]: 1806
+dxl_pos[1]: 1527
+dxl_pos[2]: 2915
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1509
+dxl_pos[0]: 1760
+dxl_pos[1]: 1521
+dxl_pos[2]: 2915
+dxl_pos[3]: 2007
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1524
+dxl_pos[0]: 1727
+dxl_pos[1]: 1515
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1538
+dxl_pos[0]: 1725
+dxl_pos[1]: 1511
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1553
+dxl_pos[0]: 1729
+dxl_pos[1]: 1513
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1568
+dxl_pos[0]: 1736
+dxl_pos[1]: 1521
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1582
+dxl_pos[0]: 1758
+dxl_pos[1]: 1535
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1597
+dxl_pos[0]: 1798
+dxl_pos[1]: 1562
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1612
+dxl_pos[0]: 1850
+dxl_pos[1]: 1602
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1626
+dxl_pos[0]: 1906
+dxl_pos[1]: 1648
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1641
+dxl_pos[0]: 1970
+dxl_pos[1]: 1702
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1656
+dxl_pos[0]: 2039
+dxl_pos[1]: 1753
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1670
+dxl_pos[0]: 2104
+dxl_pos[1]: 1800
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1685
+dxl_pos[0]: 2172
+dxl_pos[1]: 1847
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1700
+dxl_pos[0]: 2239
+dxl_pos[1]: 1889
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1714
+dxl_pos[0]: 2299
+dxl_pos[1]: 1922
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1729
+dxl_pos[0]: 2359
+dxl_pos[1]: 1946
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1744
+dxl_pos[0]: 2415
+dxl_pos[1]: 1962
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1758
+dxl_pos[0]: 2468
+dxl_pos[1]: 1970
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1773
+dxl_pos[0]: 2525
+dxl_pos[1]: 1971
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1788
+dxl_pos[0]: 2583
+dxl_pos[1]: 1966
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1802
+dxl_pos[0]: 2640
+dxl_pos[1]: 1957
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1817
+dxl_pos[0]: 2703
+dxl_pos[1]: 1945
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1832
+dxl_pos[0]: 2767
+dxl_pos[1]: 1929
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1846
+dxl_pos[0]: 2818
+dxl_pos[1]: 1911
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1861
+dxl_pos[0]: 2834
+dxl_pos[1]: 1896
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1876
+dxl_pos[0]: 2804
+dxl_pos[1]: 1872
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1890
+dxl_pos[0]: 2780
+dxl_pos[1]: 1836
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1905
+dxl_pos[0]: 2756
+dxl_pos[1]: 1794
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1920
+dxl_pos[0]: 2732
+dxl_pos[1]: 1754
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1934
+dxl_pos[0]: 2709
+dxl_pos[1]: 1718
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1949
+dxl_pos[0]: 2676
+dxl_pos[1]: 1676
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1964
+dxl_pos[0]: 2635
+dxl_pos[1]: 1632
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1978
+dxl_pos[0]: 2593
+dxl_pos[1]: 1597
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 1993
+dxl_pos[0]: 2546
+dxl_pos[1]: 1560
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2008
+dxl_pos[0]: 2495
+dxl_pos[1]: 1524
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2022
+dxl_pos[0]: 2445
+dxl_pos[1]: 1488
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2037
+dxl_pos[0]: 2383
+dxl_pos[1]: 1450
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2052
+dxl_pos[0]: 2314
+dxl_pos[1]: 1416
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2066
+dxl_pos[0]: 2248
+dxl_pos[1]: 1387
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2081
+dxl_pos[0]: 2179
+dxl_pos[1]: 1356
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2096
+dxl_pos[0]: 2116
+dxl_pos[1]: 1321
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2110
+dxl_pos[0]: 2056
+dxl_pos[1]: 1285
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2125
+dxl_pos[0]: 1994
+dxl_pos[1]: 1248
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2140
+dxl_pos[0]: 1932
+dxl_pos[1]: 1214
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2154
+dxl_pos[0]: 1876
+dxl_pos[1]: 1186
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2169
+dxl_pos[0]: 1817
+dxl_pos[1]: 1159
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2184
+dxl_pos[0]: 1757
+dxl_pos[1]: 1136
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2198
+dxl_pos[0]: 1704
+dxl_pos[1]: 1115
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2213
+dxl_pos[0]: 1650
+dxl_pos[1]: 1094
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2228
+dxl_pos[0]: 1599
+dxl_pos[1]: 1078
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2242
+dxl_pos[0]: 1554
+dxl_pos[1]: 1068
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2257
+dxl_pos[0]: 1507
+dxl_pos[1]: 1064
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2272
+dxl_pos[0]: 1461
+dxl_pos[1]: 1065
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2286
+dxl_pos[0]: 1421
+dxl_pos[1]: 1069
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2301
+dxl_pos[0]: 1379
+dxl_pos[1]: 1082
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2316
+dxl_pos[0]: 1336
+dxl_pos[1]: 1109
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2330
+dxl_pos[0]: 1296
+dxl_pos[1]: 1137
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2345
+dxl_pos[0]: 1254
+dxl_pos[1]: 1167
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2360
+dxl_pos[0]: 1219
+dxl_pos[1]: 1197
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2374
+dxl_pos[0]: 1192
+dxl_pos[1]: 1224
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2389
+dxl_pos[0]: 1180
+dxl_pos[1]: 1252
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2404
+dxl_pos[0]: 1187
+dxl_pos[1]: 1268
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2418
+dxl_pos[0]: 1204
+dxl_pos[1]: 1269
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2433
+dxl_pos[0]: 1228
+dxl_pos[1]: 1273
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2448
+dxl_pos[0]: 1256
+dxl_pos[1]: 1278
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2462
+dxl_pos[0]: 1284
+dxl_pos[1]: 1287
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2477
+dxl_pos[0]: 1321
+dxl_pos[1]: 1299
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2492
+dxl_pos[0]: 1369
+dxl_pos[1]: 1315
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2506
+dxl_pos[0]: 1419
+dxl_pos[1]: 1332
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2521
+dxl_pos[0]: 1477
+dxl_pos[1]: 1358
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2536
+dxl_pos[0]: 1539
+dxl_pos[1]: 1391
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2550
+dxl_pos[0]: 1599
+dxl_pos[1]: 1423
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2565
+dxl_pos[0]: 1668
+dxl_pos[1]: 1463
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2580
+dxl_pos[0]: 1740
+dxl_pos[1]: 1508
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2594
+dxl_pos[0]: 1808
+dxl_pos[1]: 1555
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2609
+dxl_pos[0]: 1879
+dxl_pos[1]: 1606
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2624
+dxl_pos[0]: 1947
+dxl_pos[1]: 1659
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2638
+dxl_pos[0]: 2009
+dxl_pos[1]: 1706
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2653
+dxl_pos[0]: 2074
+dxl_pos[1]: 1753
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2668
+dxl_pos[0]: 2139
+dxl_pos[1]: 1796
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2682
+dxl_pos[0]: 2201
+dxl_pos[1]: 1831
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2697
+dxl_pos[0]: 2267
+dxl_pos[1]: 1861
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2712
+dxl_pos[0]: 2330
+dxl_pos[1]: 1881
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2726
+dxl_pos[0]: 2385
+dxl_pos[1]: 1888
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2741
+dxl_pos[0]: 2446
+dxl_pos[1]: 1888
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2756
+dxl_pos[0]: 2511
+dxl_pos[1]: 1881
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2770
+dxl_pos[0]: 2572
+dxl_pos[1]: 1865
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2785
+dxl_pos[0]: 2638
+dxl_pos[1]: 1841
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2800
+dxl_pos[0]: 2705
+dxl_pos[1]: 1813
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2814
+dxl_pos[0]: 2755
+dxl_pos[1]: 1786
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2829
+dxl_pos[0]: 2759
+dxl_pos[1]: 1764
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2844
+dxl_pos[0]: 2722
+dxl_pos[1]: 1731
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2858
+dxl_pos[0]: 2691
+dxl_pos[1]: 1682
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2873
+dxl_pos[0]: 2663
+dxl_pos[1]: 1629
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2888
+dxl_pos[0]: 2637
+dxl_pos[1]: 1579
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2902
+dxl_pos[0]: 2606
+dxl_pos[1]: 1530
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2917
+dxl_pos[0]: 2563
+dxl_pos[1]: 1473
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2932
+dxl_pos[0]: 2512
+dxl_pos[1]: 1417
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2946
+dxl_pos[0]: 2458
+dxl_pos[1]: 1371
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2961
+dxl_pos[0]: 2397
+dxl_pos[1]: 1327
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2976
+dxl_pos[0]: 2332
+dxl_pos[1]: 1289
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 2990
+dxl_pos[0]: 2270
+dxl_pos[1]: 1258
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3005
+dxl_pos[0]: 2205
+dxl_pos[1]: 1232
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3020
+dxl_pos[0]: 2143
+dxl_pos[1]: 1211
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3034
+dxl_pos[0]: 2080
+dxl_pos[1]: 1196
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3049
+dxl_pos[0]: 2004
+dxl_pos[1]: 1184
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3064
+dxl_pos[0]: 1921
+dxl_pos[1]: 1177
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3078
+dxl_pos[0]: 1847
+dxl_pos[1]: 1174
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3093
+dxl_pos[0]: 1771
+dxl_pos[1]: 1174
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3108
+dxl_pos[0]: 1697
+dxl_pos[1]: 1172
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3122
+dxl_pos[0]: 1632
+dxl_pos[1]: 1170
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3137
+dxl_pos[0]: 1564
+dxl_pos[1]: 1164
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3152
+dxl_pos[0]: 1500
+dxl_pos[1]: 1154
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3166
+dxl_pos[0]: 1447
+dxl_pos[1]: 1148
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3181
+dxl_pos[0]: 1396
+dxl_pos[1]: 1143
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3196
+dxl_pos[0]: 1350
+dxl_pos[1]: 1143
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3210
+dxl_pos[0]: 1313
+dxl_pos[1]: 1144
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3225
+dxl_pos[0]: 1282
+dxl_pos[1]: 1149
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3240
+dxl_pos[0]: 1259
+dxl_pos[1]: 1157
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3254
+dxl_pos[0]: 1245
+dxl_pos[1]: 1173
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3269
+dxl_pos[0]: 1234
+dxl_pos[1]: 1199
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3284
+dxl_pos[0]: 1231
+dxl_pos[1]: 1226
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3298
+dxl_pos[0]: 1236
+dxl_pos[1]: 1252
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3313
+dxl_pos[0]: 1259
+dxl_pos[1]: 1277
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3327
+dxl_pos[0]: 1308
+dxl_pos[1]: 1294
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3342
+dxl_pos[0]: 1360
+dxl_pos[1]: 1304
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3356
+dxl_pos[0]: 1410
+dxl_pos[1]: 1317
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3372
+dxl_pos[0]: 1452
+dxl_pos[1]: 1336
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3386
+dxl_pos[0]: 1494
+dxl_pos[1]: 1359
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3401
+dxl_pos[0]: 1548
+dxl_pos[1]: 1389
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3416
+dxl_pos[0]: 1611
+dxl_pos[1]: 1423
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3430
+dxl_pos[0]: 1673
+dxl_pos[1]: 1458
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3445
+dxl_pos[0]: 1741
+dxl_pos[1]: 1502
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3460
+dxl_pos[0]: 1808
+dxl_pos[1]: 1546
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3474
+dxl_pos[0]: 1873
+dxl_pos[1]: 1585
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3489
+dxl_pos[0]: 1946
+dxl_pos[1]: 1630
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3504
+dxl_pos[0]: 2026
+dxl_pos[1]: 1677
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3518
+dxl_pos[0]: 2098
+dxl_pos[1]: 1716
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3533
+dxl_pos[0]: 2169
+dxl_pos[1]: 1750
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3548
+dxl_pos[0]: 2239
+dxl_pos[1]: 1773
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3562
+dxl_pos[0]: 2306
+dxl_pos[1]: 1792
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3577
+dxl_pos[0]: 2383
+dxl_pos[1]: 1810
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3592
+dxl_pos[0]: 2464
+dxl_pos[1]: 1822
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3606
+dxl_pos[0]: 2541
+dxl_pos[1]: 1825
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3621
+dxl_pos[0]: 2621
+dxl_pos[1]: 1821
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3636
+dxl_pos[0]: 2703
+dxl_pos[1]: 1813
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3650
+dxl_pos[0]: 2769
+dxl_pos[1]: 1805
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3665
+dxl_pos[0]: 2782
+dxl_pos[1]: 1805
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3680
+dxl_pos[0]: 2757
+dxl_pos[1]: 1790
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3694
+dxl_pos[0]: 2739
+dxl_pos[1]: 1759
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3709
+dxl_pos[0]: 2723
+dxl_pos[1]: 1721
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3724
+dxl_pos[0]: 2699
+dxl_pos[1]: 1680
+dxl_pos[2]: 2918
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3738
+dxl_pos[0]: 2668
+dxl_pos[1]: 1630
+dxl_pos[2]: 2918
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3753
+dxl_pos[0]: 2627
+dxl_pos[1]: 1577
+dxl_pos[2]: 2918
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3768
+dxl_pos[0]: 2582
+dxl_pos[1]: 1525
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3782
+dxl_pos[0]: 2534
+dxl_pos[1]: 1477
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3797
+dxl_pos[0]: 2479
+dxl_pos[1]: 1428
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3812
+dxl_pos[0]: 2419
+dxl_pos[1]: 1383
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3826
+dxl_pos[0]: 2361
+dxl_pos[1]: 1346
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3841
+dxl_pos[0]: 2293
+dxl_pos[1]: 1312
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3856
+dxl_pos[0]: 2225
+dxl_pos[1]: 1279
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3870
+dxl_pos[0]: 2161
+dxl_pos[1]: 1250
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3885
+dxl_pos[0]: 2092
+dxl_pos[1]: 1222
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3900
+dxl_pos[0]: 2019
+dxl_pos[1]: 1200
+dxl_pos[2]: 2920
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3914
+dxl_pos[0]: 1945
+dxl_pos[1]: 1184
+dxl_pos[2]: 2920
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3929
+dxl_pos[0]: 1865
+dxl_pos[1]: 1173
+dxl_pos[2]: 2919
+dxl_pos[3]: 2010
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3944
+dxl_pos[0]: 1781
+dxl_pos[1]: 1165
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3958
+dxl_pos[0]: 1703
+dxl_pos[1]: 1160
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3973
+dxl_pos[0]: 1622
+dxl_pos[1]: 1154
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 3988
+dxl_pos[0]: 1544
+dxl_pos[1]: 1149
+dxl_pos[2]: 2919
+dxl_pos[3]: 2009
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4002
+dxl_pos[0]: 1476
+dxl_pos[1]: 1145
+dxl_pos[2]: 2919
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4017
+dxl_pos[0]: 1411
+dxl_pos[1]: 1143
+dxl_pos[2]: 2919
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4032
+dxl_pos[0]: 1353
+dxl_pos[1]: 1145
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4046
+dxl_pos[0]: 1303
+dxl_pos[1]: 1151
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4061
+dxl_pos[0]: 1259
+dxl_pos[1]: 1160
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4076
+dxl_pos[0]: 1220
+dxl_pos[1]: 1177
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4090
+dxl_pos[0]: 1193
+dxl_pos[1]: 1196
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4105
+dxl_pos[0]: 1171
+dxl_pos[1]: 1218
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4120
+dxl_pos[0]: 1159
+dxl_pos[1]: 1230
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4134
+dxl_pos[0]: 1157
+dxl_pos[1]: 1235
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4149
+dxl_pos[0]: 1157
+dxl_pos[1]: 1232
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4164
+dxl_pos[0]: 1157
+dxl_pos[1]: 1229
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4178
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4193
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4208
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4222
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4237
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2918
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4252
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2917
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4266
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4281
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4296
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4310
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4325
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4340
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4354
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4369
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4384
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4398
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4413
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4428
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4442
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4457
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4472
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4486
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4501
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4516
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4530
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4545
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4560
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4574
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4589
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4604
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4618
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4633
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4648
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4662
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4677
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4692
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4706
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4721
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4736
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4750
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4765
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4780
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4794
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4809
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4824
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4838
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4853
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4868
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4882
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4897
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4912
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4926
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4941
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4956
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4970
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 4985
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5000
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5014
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5029
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5044
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5058
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5073
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5088
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5102
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5117
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5132
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5146
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5161
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5176
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5190
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5205
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5220
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5234
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5249
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5264
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5278
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5293
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5308
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5322
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5337
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5352
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5366
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5381
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2915
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
+elapsed: 5396
+dxl_pos[0]: 1157
+dxl_pos[1]: 1228
+dxl_pos[2]: 2916
+dxl_pos[3]: 2008
+dxl_pos[4]: 2049
+dxl_on: 0
+
