@@ -1,0 +1,9769 @@
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646398
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10396
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646414
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646430
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10420
+encpos2: 9724
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646446
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9740
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 12
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646462
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9738
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646478
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646494
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646510
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9724
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646526
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10396
+encpos2: 9722
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 122
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646542
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9726
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646558
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10428
+encpos2: 9726
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646574
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10396
+encpos2: 9740
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 12
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646590
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10424
+encpos2: 9728
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646606
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9724
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646622
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9742
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 14
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646638
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646654
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10392
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646670
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9726
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646686
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9728
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646702
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10416
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646718
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646734
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9724
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646750
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646766
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646782
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9742
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 14
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646798
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10416
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646814
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9738
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646830
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646846
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9738
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646862
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10416
+encpos2: 9726
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646878
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646894
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10424
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646910
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10420
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646926
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646942
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10396
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646958
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9728
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646974
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 646990
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9726
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647006
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10428
+encpos2: 9728
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647022
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10404
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647038
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647054
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647070
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10396
+encpos2: 9726
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647086
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10420
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647102
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647118
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10428
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647134
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10416
+encpos2: 9738
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647150
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647166
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10420
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647182
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9724
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647198
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647214
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10408
+encpos2: 9730
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647230
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9734
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647246
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10412
+encpos2: 9736
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647262
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10400
+encpos2: 9732
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647278
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10336
+encpos2: 9738
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647294
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10336
+encpos2: 9710
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647310
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10264
+encpos2: 9684
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 84
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647326
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10292
+encpos2: 9666
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 66
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647342
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10256
+encpos2: 9652
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647358
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10204
+encpos2: 9654
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647374
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9644
+encpos2: 9642
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647390
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 8468
+encpos2: 9642
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647406
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 7292
+encpos2: 9622
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 22
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647422
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 6260
+encpos2: 9592
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 120
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647438
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5384
+encpos2: 9576
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 104
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647454
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4772
+encpos2: 9560
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 88
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647470
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4168
+encpos2: 9540
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647486
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3556
+encpos2: 9536
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 64
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647502
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3508
+encpos2: 9526
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647518
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3524
+encpos2: 9582
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647534
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3520
+encpos2: 9786
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 58
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647550
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3516
+encpos2: 10052
+encrx0: 0
+encrx1: 0
+encrx2: 78
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647566
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3504
+encpos2: 10358
+encrx0: 0
+encrx1: 0
+encrx2: 80
+encrx3: 118
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647582
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3512
+encpos2: 10646
+encrx0: 0
+encrx1: 0
+encrx2: 83
+encrx3: 22
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647598
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3504
+encpos2: 10920
+encrx0: 0
+encrx1: 0
+encrx2: 85
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647614
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3504
+encpos2: 11396
+encrx0: 0
+encrx1: 0
+encrx2: 89
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647630
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3520
+encpos2: 11982
+encrx0: 0
+encrx1: 0
+encrx2: 93
+encrx3: 78
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647646
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3520
+encpos2: 12554
+encrx0: 0
+encrx1: 0
+encrx2: 98
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647662
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3496
+encpos2: 13248
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 64
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647678
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3492
+encpos2: 14128
+encrx0: 0
+encrx1: 0
+encrx2: 110
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647694
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3504
+encpos2: 14650
+encrx0: 0
+encrx1: 0
+encrx2: 114
+encrx3: 58
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647710
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3492
+encpos2: 15352
+encrx0: 0
+encrx1: 0
+encrx2: 119
+encrx3: 120
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647726
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3180
+encpos2: 16122
+encrx0: 0
+encrx1: 0
+encrx2: 125
+encrx3: 122
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647742
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2908
+encpos2: 16948
+encrx0: 0
+encrx1: 1
+encrx2: 4
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647758
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2876
+encpos2: 17756
+encrx0: 0
+encrx1: 1
+encrx2: 10
+encrx3: 92
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647774
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2892
+encpos2: 18704
+encrx0: 0
+encrx1: 1
+encrx2: 18
+encrx3: 16
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647790
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2868
+encpos2: 19522
+encrx0: 0
+encrx1: 1
+encrx2: 24
+encrx3: 66
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647806
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2880
+encpos2: 20338
+encrx0: 0
+encrx1: 1
+encrx2: 30
+encrx3: 114
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647822
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2868
+encpos2: 21086
+encrx0: 0
+encrx1: 1
+encrx2: 36
+encrx3: 94
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647838
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2880
+encpos2: 21764
+encrx0: 0
+encrx1: 1
+encrx2: 42
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647854
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2888
+encpos2: 22370
+encrx0: 0
+encrx1: 1
+encrx2: 46
+encrx3: 98
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647870
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2852
+encpos2: 23008
+encrx0: 0
+encrx1: 1
+encrx2: 51
+encrx3: 96
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647886
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2884
+encpos2: 23606
+encrx0: 0
+encrx1: 1
+encrx2: 56
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647902
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2876
+encpos2: 24250
+encrx0: 0
+encrx1: 1
+encrx2: 61
+encrx3: 58
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647918
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2876
+encpos2: 24844
+encrx0: 0
+encrx1: 1
+encrx2: 66
+encrx3: 12
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647934
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2892
+encpos2: 25318
+encrx0: 0
+encrx1: 1
+encrx2: 69
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647950
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3256
+encpos2: 25714
+encrx0: 0
+encrx1: 1
+encrx2: 72
+encrx3: 114
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647966
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3792
+encpos2: 26176
+encrx0: 0
+encrx1: 1
+encrx2: 76
+encrx3: 64
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647982
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4264
+encpos2: 26492
+encrx0: 0
+encrx1: 1
+encrx2: 78
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 647998
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4536
+encpos2: 26664
+encrx0: 0
+encrx1: 1
+encrx2: 80
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648014
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4644
+encpos2: 26718
+encrx0: 0
+encrx1: 1
+encrx2: 80
+encrx3: 94
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648030
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4768
+encpos2: 26780
+encrx0: 0
+encrx1: 1
+encrx2: 81
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648046
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4924
+encpos2: 26860
+encrx0: 0
+encrx1: 1
+encrx2: 81
+encrx3: 108
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648062
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5060
+encpos2: 26954
+encrx0: 0
+encrx1: 1
+encrx2: 82
+encrx3: 74
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648078
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5428
+encpos2: 27112
+encrx0: 0
+encrx1: 1
+encrx2: 83
+encrx3: 104
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648094
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5748
+encpos2: 27208
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 72
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648110
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 6488
+encpos2: 27242
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 106
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648126
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 7708
+encpos2: 27234
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 98
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648142
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 8952
+encpos2: 27244
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 108
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648158
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9832
+encpos2: 27254
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 118
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648174
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9832
+encpos2: 27264
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648190
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9820
+encpos2: 27276
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 12
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648206
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9816
+encpos2: 27262
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648222
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9796
+encpos2: 27266
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648238
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9832
+encpos2: 27238
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648254
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9828
+encpos2: 27024
+encrx0: 0
+encrx1: 1
+encrx2: 83
+encrx3: 16
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648270
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9812
+encpos2: 26734
+encrx0: 0
+encrx1: 1
+encrx2: 80
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648286
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9816
+encpos2: 26422
+encrx0: 0
+encrx1: 1
+encrx2: 78
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648302
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9816
+encpos2: 26052
+encrx0: 0
+encrx1: 1
+encrx2: 75
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648318
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9816
+encpos2: 25004
+encrx0: 0
+encrx1: 1
+encrx2: 67
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648334
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9808
+encpos2: 24558
+encrx0: 0
+encrx1: 1
+encrx2: 63
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648350
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9824
+encpos2: 24002
+encrx0: 0
+encrx1: 1
+encrx2: 59
+encrx3: 66
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648366
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9828
+encpos2: 23436
+encrx0: 0
+encrx1: 1
+encrx2: 55
+encrx3: 12
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648382
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9824
+encpos2: 22740
+encrx0: 0
+encrx1: 1
+encrx2: 49
+encrx3: 84
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648398
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9820
+encpos2: 21906
+encrx0: 0
+encrx1: 1
+encrx2: 43
+encrx3: 18
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648414
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9840
+encpos2: 21344
+encrx0: 0
+encrx1: 1
+encrx2: 38
+encrx3: 96
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648430
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9824
+encpos2: 20762
+encrx0: 0
+encrx1: 1
+encrx2: 34
+encrx3: 26
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648446
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9824
+encpos2: 19942
+encrx0: 0
+encrx1: 1
+encrx2: 27
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648462
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9812
+encpos2: 19028
+encrx0: 0
+encrx1: 1
+encrx2: 20
+encrx3: 84
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648478
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9844
+encpos2: 18000
+encrx0: 0
+encrx1: 1
+encrx2: 12
+encrx3: 80
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648494
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9848
+encpos2: 16998
+encrx0: 0
+encrx1: 1
+encrx2: 4
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648510
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9828
+encpos2: 16032
+encrx0: 0
+encrx1: 0
+encrx2: 125
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648526
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9836
+encpos2: 15282
+encrx0: 0
+encrx1: 0
+encrx2: 119
+encrx3: 50
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648542
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9836
+encpos2: 14652
+encrx0: 0
+encrx1: 0
+encrx2: 114
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648558
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9840
+encpos2: 13938
+encrx0: 0
+encrx1: 0
+encrx2: 108
+encrx3: 114
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648574
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9844
+encpos2: 13266
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 82
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648590
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9832
+encpos2: 12592
+encrx0: 0
+encrx1: 0
+encrx2: 98
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648606
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9840
+encpos2: 12110
+encrx0: 0
+encrx1: 0
+encrx2: 94
+encrx3: 78
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648622
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9844
+encpos2: 11738
+encrx0: 0
+encrx1: 0
+encrx2: 91
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648638
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9860
+encpos2: 11364
+encrx0: 0
+encrx1: 0
+encrx2: 88
+encrx3: 100
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648654
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9824
+encpos2: 11022
+encrx0: 0
+encrx1: 0
+encrx2: 86
+encrx3: 14
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648670
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9844
+encpos2: 10708
+encrx0: 0
+encrx1: 0
+encrx2: 83
+encrx3: 84
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648686
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9656
+encpos2: 10422
+encrx0: 0
+encrx1: 0
+encrx2: 81
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648702
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 8980
+encpos2: 10102
+encrx0: 0
+encrx1: 0
+encrx2: 78
+encrx3: 118
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648718
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 8296
+encpos2: 9698
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 98
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648734
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 7440
+encpos2: 9528
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 56
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648750
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 6556
+encpos2: 9510
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648766
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5728
+encpos2: 9524
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648782
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5032
+encpos2: 9514
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648798
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4408
+encpos2: 9524
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648814
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3812
+encpos2: 9520
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648830
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3612
+encpos2: 9518
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648846
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3596
+encpos2: 9520
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648862
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3600
+encpos2: 9514
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648878
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3612
+encpos2: 9530
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 58
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648894
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3600
+encpos2: 9520
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648910
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3580
+encpos2: 9526
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648926
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3532
+encpos2: 9614
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 14
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648942
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3284
+encpos2: 9832
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 104
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648958
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3092
+encpos2: 10134
+encrx0: 0
+encrx1: 0
+encrx2: 79
+encrx3: 22
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648974
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3044
+encpos2: 10526
+encrx0: 0
+encrx1: 0
+encrx2: 82
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 648990
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2896
+encpos2: 11072
+encrx0: 0
+encrx1: 0
+encrx2: 86
+encrx3: 64
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649006
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2764
+encpos2: 11894
+encrx0: 0
+encrx1: 0
+encrx2: 92
+encrx3: 118
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649022
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2244
+encpos2: 12630
+encrx0: 0
+encrx1: 0
+encrx2: 98
+encrx3: 86
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649038
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1708
+encpos2: 13294
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649054
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1636
+encpos2: 13990
+encrx0: 0
+encrx1: 0
+encrx2: 109
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649070
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1376
+encpos2: 14752
+encrx0: 0
+encrx1: 0
+encrx2: 115
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649086
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1156
+encpos2: 15656
+encrx0: 0
+encrx1: 0
+encrx2: 122
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649102
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1156
+encpos2: 16412
+encrx0: 0
+encrx1: 1
+encrx2: 0
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649118
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1060
+encpos2: 17034
+encrx0: 0
+encrx1: 1
+encrx2: 5
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649134
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 760
+encpos2: 17590
+encrx0: 0
+encrx1: 1
+encrx2: 9
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649150
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 616
+encpos2: 18220
+encrx0: 0
+encrx1: 1
+encrx2: 14
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649166
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 556
+encpos2: 18748
+encrx0: 0
+encrx1: 1
+encrx2: 18
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649182
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 500
+encpos2: 19258
+encrx0: 0
+encrx1: 1
+encrx2: 22
+encrx3: 58
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649198
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 524
+encpos2: 19922
+encrx0: 0
+encrx1: 1
+encrx2: 27
+encrx3: 82
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649214
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 512
+encpos2: 20714
+encrx0: 0
+encrx1: 1
+encrx2: 33
+encrx3: 106
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649230
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 532
+encpos2: 21478
+encrx0: 0
+encrx1: 1
+encrx2: 39
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649246
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 500
+encpos2: 22316
+encrx0: 0
+encrx1: 1
+encrx2: 46
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649262
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 524
+encpos2: 23142
+encrx0: 0
+encrx1: 1
+encrx2: 52
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649278
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 524
+encpos2: 23904
+encrx0: 0
+encrx1: 1
+encrx2: 58
+encrx3: 96
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649294
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 668
+encpos2: 24510
+encrx0: 0
+encrx1: 1
+encrx2: 63
+encrx3: 62
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649310
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1288
+encpos2: 24922
+encrx0: 0
+encrx1: 1
+encrx2: 66
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649326
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1800
+encpos2: 25326
+encrx0: 0
+encrx1: 1
+encrx2: 69
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649342
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2472
+encpos2: 25876
+encrx0: 0
+encrx1: 1
+encrx2: 74
+encrx3: 20
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649358
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3400
+encpos2: 26610
+encrx0: 0
+encrx1: 1
+encrx2: 79
+encrx3: 114
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649374
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4276
+encpos2: 27188
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649390
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4336
+encpos2: 27268
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649406
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4360
+encpos2: 27286
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 22
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649422
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4352
+encpos2: 27274
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649438
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4360
+encpos2: 27286
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 22
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649454
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4376
+encpos2: 27310
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649470
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4492
+encpos2: 27380
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 116
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649486
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4540
+encpos2: 27418
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 26
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649502
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4576
+encpos2: 27436
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649518
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4588
+encpos2: 27432
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649534
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4744
+encpos2: 27436
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649550
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 6280
+encpos2: 27434
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649566
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 8128
+encpos2: 27430
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649582
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10192
+encpos2: 27466
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 74
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649598
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10772
+encpos2: 27482
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649614
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10756
+encpos2: 27482
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649630
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10760
+encpos2: 27480
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 88
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649646
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10788
+encpos2: 27482
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649662
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10780
+encpos2: 27462
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 70
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649678
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10752
+encpos2: 27034
+encrx0: 0
+encrx1: 1
+encrx2: 83
+encrx3: 26
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649694
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10772
+encpos2: 26626
+encrx0: 0
+encrx1: 1
+encrx2: 80
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649710
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10764
+encpos2: 26198
+encrx0: 0
+encrx1: 1
+encrx2: 76
+encrx3: 86
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649726
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10784
+encpos2: 25340
+encrx0: 0
+encrx1: 1
+encrx2: 69
+encrx3: 124
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649742
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10768
+encpos2: 24608
+encrx0: 0
+encrx1: 1
+encrx2: 64
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649758
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10768
+encpos2: 23968
+encrx0: 0
+encrx1: 1
+encrx2: 59
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649774
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10776
+encpos2: 23310
+encrx0: 0
+encrx1: 1
+encrx2: 54
+encrx3: 14
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649790
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10760
+encpos2: 22650
+encrx0: 0
+encrx1: 1
+encrx2: 48
+encrx3: 122
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649806
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10776
+encpos2: 21914
+encrx0: 0
+encrx1: 1
+encrx2: 43
+encrx3: 26
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649822
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10764
+encpos2: 21618
+encrx0: 0
+encrx1: 1
+encrx2: 40
+encrx3: 114
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649838
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10756
+encpos2: 21088
+encrx0: 0
+encrx1: 1
+encrx2: 36
+encrx3: 96
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649854
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10768
+encpos2: 20362
+encrx0: 0
+encrx1: 1
+encrx2: 31
+encrx3: 10
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649870
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10776
+encpos2: 19660
+encrx0: 0
+encrx1: 1
+encrx2: 25
+encrx3: 76
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649886
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10784
+encpos2: 18930
+encrx0: 0
+encrx1: 1
+encrx2: 19
+encrx3: 114
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649902
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10784
+encpos2: 18214
+encrx0: 0
+encrx1: 1
+encrx2: 14
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649918
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10764
+encpos2: 17336
+encrx0: 0
+encrx1: 1
+encrx2: 7
+encrx3: 56
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649934
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10764
+encpos2: 16404
+encrx0: 0
+encrx1: 1
+encrx2: 0
+encrx3: 20
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649950
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10780
+encpos2: 15400
+encrx0: 0
+encrx1: 0
+encrx2: 120
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649966
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10780
+encpos2: 14636
+encrx0: 0
+encrx1: 0
+encrx2: 114
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649982
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10784
+encpos2: 13826
+encrx0: 0
+encrx1: 0
+encrx2: 108
+encrx3: 2
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 649998
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10792
+encpos2: 13318
+encrx0: 0
+encrx1: 0
+encrx2: 104
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650014
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10784
+encpos2: 12794
+encrx0: 0
+encrx1: 0
+encrx2: 99
+encrx3: 122
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650030
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10760
+encpos2: 12330
+encrx0: 0
+encrx1: 0
+encrx2: 96
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650046
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10768
+encpos2: 11874
+encrx0: 0
+encrx1: 0
+encrx2: 92
+encrx3: 98
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650062
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10728
+encpos2: 11422
+encrx0: 0
+encrx1: 0
+encrx2: 89
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650078
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10696
+encpos2: 10886
+encrx0: 0
+encrx1: 0
+encrx2: 85
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650094
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10668
+encpos2: 10380
+encrx0: 0
+encrx1: 0
+encrx2: 81
+encrx3: 12
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650110
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10456
+encpos2: 10016
+encrx0: 0
+encrx1: 0
+encrx2: 78
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650126
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10008
+encpos2: 9766
+encrx0: 0
+encrx1: 0
+encrx2: 76
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650142
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9748
+encpos2: 9660
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650158
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 8956
+encpos2: 9622
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 22
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650174
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 7956
+encpos2: 9608
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650190
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 7060
+encpos2: 9618
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 18
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650206
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 6308
+encpos2: 9600
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650222
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5684
+encpos2: 9594
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 122
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650238
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 5064
+encpos2: 9598
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650254
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4384
+encpos2: 9584
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 112
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650270
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3928
+encpos2: 9584
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 112
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650286
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3336
+encpos2: 9584
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 112
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650302
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2796
+encpos2: 9584
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 112
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650318
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2284
+encpos2: 9592
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 120
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650334
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1840
+encpos2: 9582
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650350
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1640
+encpos2: 9582
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650366
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1276
+encpos2: 9534
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 62
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650382
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1144
+encpos2: 9506
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650398
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1084
+encpos2: 9500
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650414
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1016
+encpos2: 9500
+encrx0: 0
+encrx1: 0
+encrx2: 74
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650430
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1016
+encpos2: 9668
+encrx0: 0
+encrx1: 0
+encrx2: 75
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650446
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 860
+encpos2: 9982
+encrx0: 0
+encrx1: 0
+encrx2: 77
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650462
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 624
+encpos2: 10376
+encrx0: 0
+encrx1: 0
+encrx2: 81
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650478
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 388
+encpos2: 10840
+encrx0: 0
+encrx1: 0
+encrx2: 84
+encrx3: 88
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650494
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 400
+encpos2: 11510
+encrx0: 0
+encrx1: 0
+encrx2: 89
+encrx3: 118
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650510
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 376
+encpos2: 12160
+encrx0: 0
+encrx1: 0
+encrx2: 95
+encrx3: 0
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650526
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 360
+encpos2: 12692
+encrx0: 0
+encrx1: 0
+encrx2: 99
+encrx3: 20
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650542
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 380
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650558
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 384
+encpos2: 13890
+encrx0: 0
+encrx1: 0
+encrx2: 108
+encrx3: 66
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650574
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 380
+encpos2: 14516
+encrx0: 0
+encrx1: 0
+encrx2: 113
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650590
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 376
+encpos2: 15336
+encrx0: 0
+encrx1: 0
+encrx2: 119
+encrx3: 104
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650606
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 372
+encpos2: 16126
+encrx0: 0
+encrx1: 0
+encrx2: 125
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650622
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 364
+encpos2: 16946
+encrx0: 0
+encrx1: 1
+encrx2: 4
+encrx3: 50
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650638
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 372
+encpos2: 17784
+encrx0: 0
+encrx1: 1
+encrx2: 10
+encrx3: 120
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650654
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 364
+encpos2: 18604
+encrx0: 0
+encrx1: 1
+encrx2: 17
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650670
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 356
+encpos2: 19352
+encrx0: 0
+encrx1: 1
+encrx2: 23
+encrx3: 24
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650686
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 380
+encpos2: 20312
+encrx0: 0
+encrx1: 1
+encrx2: 30
+encrx3: 88
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650702
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 384
+encpos2: 21180
+encrx0: 0
+encrx1: 1
+encrx2: 37
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650718
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 368
+encpos2: 21948
+encrx0: 0
+encrx1: 1
+encrx2: 43
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650734
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 360
+encpos2: 22788
+encrx0: 0
+encrx1: 1
+encrx2: 50
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650750
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 364
+encpos2: 23714
+encrx0: 0
+encrx1: 1
+encrx2: 57
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650766
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 364
+encpos2: 24688
+encrx0: 0
+encrx1: 1
+encrx2: 64
+encrx3: 112
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650782
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 360
+encpos2: 25558
+encrx0: 0
+encrx1: 1
+encrx2: 71
+encrx3: 86
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650798
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 1440
+encpos2: 26420
+encrx0: 0
+encrx1: 1
+encrx2: 78
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650814
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2100
+encpos2: 27032
+encrx0: 0
+encrx1: 1
+encrx2: 83
+encrx3: 24
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650830
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2544
+encpos2: 27180
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650846
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2592
+encpos2: 27210
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 74
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650862
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2640
+encpos2: 27234
+encrx0: 0
+encrx1: 1
+encrx2: 84
+encrx3: 98
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650878
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2764
+encpos2: 27338
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 74
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650894
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 2892
+encpos2: 27422
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650910
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3056
+encpos2: 27470
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 78
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650926
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3188
+encpos2: 27518
+encrx0: 0
+encrx1: 1
+encrx2: 86
+encrx3: 126
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650942
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3416
+encpos2: 27566
+encrx0: 0
+encrx1: 1
+encrx2: 87
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650958
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 3744
+encpos2: 27584
+encrx0: 0
+encrx1: 1
+encrx2: 87
+encrx3: 64
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650974
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4052
+encpos2: 27602
+encrx0: 0
+encrx1: 1
+encrx2: 87
+encrx3: 82
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 650990
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 4684
+encpos2: 27652
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 4
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651006
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 6232
+encpos2: 27674
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 26
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651022
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 7868
+encpos2: 27668
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 20
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651038
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10236
+encpos2: 27656
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 8
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651054
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11032
+encpos2: 27690
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651070
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11020
+encpos2: 27690
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651086
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10996
+encpos2: 27686
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651102
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11020
+encpos2: 27690
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651118
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11012
+encpos2: 27674
+encrx0: 0
+encrx1: 1
+encrx2: 88
+encrx3: 26
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651134
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11028
+encpos2: 27354
+encrx0: 0
+encrx1: 1
+encrx2: 85
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651150
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11036
+encpos2: 26886
+encrx0: 0
+encrx1: 1
+encrx2: 82
+encrx3: 6
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651166
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11032
+encpos2: 26352
+encrx0: 0
+encrx1: 1
+encrx2: 77
+encrx3: 112
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651182
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11020
+encpos2: 25404
+encrx0: 0
+encrx1: 1
+encrx2: 70
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651198
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11020
+encpos2: 24638
+encrx0: 0
+encrx1: 1
+encrx2: 64
+encrx3: 62
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651214
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11024
+encpos2: 24020
+encrx0: 0
+encrx1: 1
+encrx2: 59
+encrx3: 84
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651230
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11044
+encpos2: 23378
+encrx0: 0
+encrx1: 1
+encrx2: 54
+encrx3: 82
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651246
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11036
+encpos2: 22630
+encrx0: 0
+encrx1: 1
+encrx2: 48
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651262
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11032
+encpos2: 21924
+encrx0: 0
+encrx1: 1
+encrx2: 43
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651278
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11036
+encpos2: 21446
+encrx0: 0
+encrx1: 1
+encrx2: 39
+encrx3: 70
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651294
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11048
+encpos2: 20892
+encrx0: 0
+encrx1: 1
+encrx2: 35
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651310
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11028
+encpos2: 20212
+encrx0: 0
+encrx1: 1
+encrx2: 29
+encrx3: 116
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651326
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11044
+encpos2: 19508
+encrx0: 0
+encrx1: 1
+encrx2: 24
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651342
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11056
+encpos2: 18722
+encrx0: 0
+encrx1: 1
+encrx2: 18
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651358
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11040
+encpos2: 18000
+encrx0: 0
+encrx1: 1
+encrx2: 12
+encrx3: 80
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651374
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11036
+encpos2: 17346
+encrx0: 0
+encrx1: 1
+encrx2: 7
+encrx3: 66
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651390
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11020
+encpos2: 16722
+encrx0: 0
+encrx1: 1
+encrx2: 2
+encrx3: 82
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651406
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11040
+encpos2: 16192
+encrx0: 0
+encrx1: 0
+encrx2: 126
+encrx3: 64
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651422
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11008
+encpos2: 15718
+encrx0: 0
+encrx1: 0
+encrx2: 122
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651438
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 11004
+encpos2: 15334
+encrx0: 0
+encrx1: 0
+encrx2: 119
+encrx3: 102
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651454
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10956
+encpos2: 15022
+encrx0: 0
+encrx1: 0
+encrx2: 117
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651470
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10944
+encpos2: 14646
+encrx0: 0
+encrx1: 0
+encrx2: 114
+encrx3: 54
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651486
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10832
+encpos2: 14190
+encrx0: 0
+encrx1: 0
+encrx2: 110
+encrx3: 110
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651502
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10648
+encpos2: 13780
+encrx0: 0
+encrx1: 0
+encrx2: 107
+encrx3: 84
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651518
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10504
+encpos2: 13276
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 92
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651534
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 10292
+encpos2: 12860
+encrx0: 0
+encrx1: 0
+encrx2: 100
+encrx3: 60
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651550
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9972
+encpos2: 12596
+encrx0: 0
+encrx1: 0
+encrx2: 98
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651566
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9648
+encpos2: 12484
+encrx0: 0
+encrx1: 0
+encrx2: 97
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651582
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9664
+encpos2: 12472
+encrx0: 0
+encrx1: 0
+encrx2: 97
+encrx3: 56
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651598
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9668
+encpos2: 12484
+encrx0: 0
+encrx1: 0
+encrx2: 97
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651614
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9664
+encpos2: 12484
+encrx0: 0
+encrx1: 0
+encrx2: 97
+encrx3: 68
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651630
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9660
+encpos2: 12486
+encrx0: 0
+encrx1: 0
+encrx2: 97
+encrx3: 70
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651646
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9660
+encpos2: 12650
+encrx0: 0
+encrx1: 0
+encrx2: 98
+encrx3: 106
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651662
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9872
+encpos2: 13118
+encrx0: 0
+encrx1: 0
+encrx2: 102
+encrx3: 62
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651678
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13274
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 90
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651694
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9896
+encpos2: 13228
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651710
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651726
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13214
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651742
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651758
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9900
+encpos2: 13216
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651774
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13228
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651790
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651806
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13236
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651822
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651838
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651854
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651870
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9872
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651886
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9860
+encpos2: 13214
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651902
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651918
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13232
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651934
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651950
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13214
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651966
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651982
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13230
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 651998
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652014
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652030
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13230
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652046
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652062
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652078
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13230
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652094
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652110
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13232
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652126
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652142
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9868
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652158
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652174
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9868
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652190
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13230
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652206
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13212
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652222
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9860
+encpos2: 13214
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652238
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13234
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 50
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652254
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652270
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9868
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652286
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652302
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9904
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652318
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652334
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652350
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652366
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13204
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 20
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652382
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652398
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652414
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13212
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652430
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13228
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652446
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652462
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652478
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9872
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652494
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9868
+encpos2: 13230
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652510
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652526
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13236
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 52
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652542
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13232
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652558
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652574
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13214
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 30
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652590
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9872
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652606
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9860
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652622
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652638
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9856
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652654
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652670
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13212
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 28
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652686
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13232
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 48
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652702
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9888
+encpos2: 13228
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652718
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13226
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 42
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652734
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9896
+encpos2: 13230
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 46
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652750
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13228
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652766
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13220
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 36
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652782
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9892
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652798
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13218
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 34
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652814
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13228
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 44
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652830
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9884
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652846
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9872
+encpos2: 13216
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 32
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652862
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9880
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652878
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9876
+encpos2: 13222
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 38
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+
+No signal to ESTOP ~~~~~~~~~~~~~~~~~~~~
+elapsed: 652894
+ntcA: 0
+ntcB: 0
+vbus: 0.00
+encpos1: 9864
+encpos2: 13224
+encrx0: 0
+encrx1: 0
+encrx2: 103
+encrx3: 40
+acc0: 0
+acc1: 0
+acc2: 0
+rate0: 0
+rate1: 0
+rate2: 0
+dxl_pos[0]: 0
+dxl_pos[1]: 0
+dxl_pos[2]: 0
+dxl_pos[3]: 0
+dxl_pos[4]: 0
+
+

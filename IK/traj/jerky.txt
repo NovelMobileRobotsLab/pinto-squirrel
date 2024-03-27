@@ -1,0 +1,4594 @@
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82076
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82179
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82280
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82385
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82490
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82595
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1240
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82700
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82804
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:82908
+cur_tot:0
+
+
+dxl_on:0
+dxl_pos[0]:1191
+dxl_pos[1]:1241
+dxl_pos[2]:2357
+dxl_pos[3]:1391
+dxl_pos[4]:5
+vbus:0
+elapsed:83013
+cur_tot:0
+
+
+elapsed: 83021
+servos[0]: 1547
+servos[1]: 1395
+servos[2]: 2825
+servos[3]: 1802
+servos[4]: 4
+dxl_pos[0]: 1191
+dxl_pos[1]: 1241
+dxl_pos[2]: 2357
+dxl_pos[3]: 1391
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83139
+servos[0]: 1755
+servos[1]: 1518
+servos[2]: 2894
+servos[3]: 1997
+servos[4]: 4
+dxl_pos[0]: 1194
+dxl_pos[1]: 1243
+dxl_pos[2]: 2358
+dxl_pos[3]: 1391
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83154
+servos[0]: 1755
+servos[1]: 1518
+servos[2]: 2894
+servos[3]: 1997
+servos[4]: 4
+dxl_pos[0]: 1269
+dxl_pos[1]: 1271
+dxl_pos[2]: 2418
+dxl_pos[3]: 1391
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83169
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1423
+dxl_pos[1]: 1321
+dxl_pos[2]: 2542
+dxl_pos[3]: 1412
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83184
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1583
+dxl_pos[1]: 1389
+dxl_pos[2]: 2637
+dxl_pos[3]: 1497
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83198
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1701
+dxl_pos[1]: 1457
+dxl_pos[2]: 2727
+dxl_pos[3]: 1585
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83212
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1794
+dxl_pos[1]: 1520
+dxl_pos[2]: 2801
+dxl_pos[3]: 1668
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83226
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1843
+dxl_pos[1]: 1562
+dxl_pos[2]: 2852
+dxl_pos[3]: 1746
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83241
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1862
+dxl_pos[1]: 1583
+dxl_pos[2]: 2888
+dxl_pos[3]: 1820
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83255
+servos[0]: 1862
+servos[1]: 1594
+servos[2]: 2912
+servos[3]: 2113
+servos[4]: 4
+dxl_pos[0]: 1864
+dxl_pos[1]: 1589
+dxl_pos[2]: 2904
+dxl_pos[3]: 1878
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83343
+servos[0]: 2450
+servos[1]: 1887
+servos[2]: 2952
+servos[3]: 2725
+servos[4]: 4
+dxl_pos[0]: 1865
+dxl_pos[1]: 1591
+dxl_pos[2]: 2916
+dxl_pos[3]: 1971
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83460
+servos[0]: 2450
+servos[1]: 1887
+servos[2]: 2952
+servos[3]: 2725
+servos[4]: 4
+dxl_pos[0]: 1866
+dxl_pos[1]: 1591
+dxl_pos[2]: 2916
+dxl_pos[3]: 1972
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83475
+servos[0]: 2450
+servos[1]: 1887
+servos[2]: 2952
+servos[3]: 2725
+servos[4]: 4
+dxl_pos[0]: 1925
+dxl_pos[1]: 1633
+dxl_pos[2]: 2916
+dxl_pos[3]: 2024
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83489
+servos[0]: 2450
+servos[1]: 1887
+servos[2]: 2952
+servos[3]: 2725
+servos[4]: 4
+dxl_pos[0]: 2063
+dxl_pos[1]: 1710
+dxl_pos[2]: 2916
+dxl_pos[3]: 2173
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83504
+servos[0]: 2548
+servos[1]: 1871
+servos[2]: 2950
+servos[3]: 2785
+servos[4]: 4
+dxl_pos[0]: 2223
+dxl_pos[1]: 1786
+dxl_pos[2]: 2916
+dxl_pos[3]: 2371
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83518
+servos[0]: 2743
+servos[1]: 1792
+servos[2]: 2890
+servos[3]: 2883
+servos[4]: 4
+dxl_pos[0]: 2338
+dxl_pos[1]: 1838
+dxl_pos[2]: 2916
+dxl_pos[3]: 2526
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83533
+servos[0]: 2746
+servos[1]: 1752
+servos[2]: 2847
+servos[3]: 2913
+servos[4]: 4
+dxl_pos[0]: 2436
+dxl_pos[1]: 1863
+dxl_pos[2]: 2916
+dxl_pos[3]: 2649
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83547
+servos[0]: 2692
+servos[1]: 1685
+servos[2]: 2826
+servos[3]: 2900
+servos[4]: 4
+dxl_pos[0]: 2532
+dxl_pos[1]: 1853
+dxl_pos[2]: 2916
+dxl_pos[3]: 2741
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83562
+servos[0]: 2692
+servos[1]: 1685
+servos[2]: 2826
+servos[3]: 2900
+servos[4]: 4
+dxl_pos[0]: 2627
+dxl_pos[1]: 1814
+dxl_pos[2]: 2916
+dxl_pos[3]: 2813
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83576
+servos[0]: 2692
+servos[1]: 1685
+servos[2]: 2826
+servos[3]: 2900
+servos[4]: 4
+dxl_pos[0]: 2667
+dxl_pos[1]: 1775
+dxl_pos[2]: 2917
+dxl_pos[3]: 2855
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83590
+servos[0]: 2692
+servos[1]: 1685
+servos[2]: 2826
+servos[3]: 2900
+servos[4]: 4
+dxl_pos[0]: 2681
+dxl_pos[1]: 1741
+dxl_pos[2]: 2916
+dxl_pos[3]: 2876
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83604
+servos[0]: 2692
+servos[1]: 1685
+servos[2]: 2826
+servos[3]: 2900
+servos[4]: 4
+dxl_pos[0]: 2681
+dxl_pos[1]: 1729
+dxl_pos[2]: 2916
+dxl_pos[3]: 2880
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83617
+servos[0]: 2605
+servos[1]: 1529
+servos[2]: 2812
+servos[3]: 2824
+servos[4]: 4
+dxl_pos[0]: 2681
+dxl_pos[1]: 1706
+dxl_pos[2]: 2917
+dxl_pos[3]: 2885
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83632
+servos[0]: 2605
+servos[1]: 1529
+servos[2]: 2812
+servos[3]: 2824
+servos[4]: 4
+dxl_pos[0]: 2671
+dxl_pos[1]: 1690
+dxl_pos[2]: 2916
+dxl_pos[3]: 2879
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83647
+servos[0]: 2605
+servos[1]: 1529
+servos[2]: 2812
+servos[3]: 2824
+servos[4]: 4
+dxl_pos[0]: 2649
+dxl_pos[1]: 1649
+dxl_pos[2]: 2915
+dxl_pos[3]: 2862
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83661
+servos[0]: 2605
+servos[1]: 1529
+servos[2]: 2812
+servos[3]: 2824
+servos[4]: 4
+dxl_pos[0]: 2627
+dxl_pos[1]: 1609
+dxl_pos[2]: 2914
+dxl_pos[3]: 2848
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83676
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2609
+dxl_pos[1]: 1577
+dxl_pos[2]: 2912
+dxl_pos[3]: 2837
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83691
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2599
+dxl_pos[1]: 1559
+dxl_pos[2]: 2911
+dxl_pos[3]: 2832
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83706
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2580
+dxl_pos[1]: 1531
+dxl_pos[2]: 2910
+dxl_pos[3]: 2818
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83721
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2561
+dxl_pos[1]: 1501
+dxl_pos[2]: 2908
+dxl_pos[3]: 2803
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83736
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2548
+dxl_pos[1]: 1478
+dxl_pos[2]: 2907
+dxl_pos[3]: 2793
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 83751
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2542
+dxl_pos[1]: 1466
+dxl_pos[2]: 2906
+dxl_pos[3]: 2787
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83766
+servos[0]: 2539
+servos[1]: 1446
+servos[2]: 2796
+servos[3]: 2775
+servos[4]: 4
+dxl_pos[0]: 2540
+dxl_pos[1]: 1460
+dxl_pos[2]: 2906
+dxl_pos[3]: 2784
+dxl_pos[4]: 5
+dxl_on: 1
+
+dxl_on:0
+dxl_pos[0]:2539
+dxl_pos[1]:1460
+dxl_pos[2]:2906
+dxl_pos[3]:2785
+dxl_pos[4]:5
+vbus:0
+elapsed:83860
+cur_tot:0
+
+
+elapsed: 83875
+servos[0]: 1811
+servos[1]: 1174
+servos[2]: 2390
+servos[3]: 2088
+servos[4]: 4
+dxl_pos[0]: 2539
+dxl_pos[1]: 1460
+dxl_pos[2]: 2906
+dxl_pos[3]: 2784
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 83993
+servos[0]: 1693
+servos[1]: 1171
+servos[2]: 2318
+servos[3]: 1985
+servos[4]: 4
+dxl_pos[0]: 2536
+dxl_pos[1]: 1458
+dxl_pos[2]: 2904
+dxl_pos[3]: 2783
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84007
+servos[0]: 1693
+servos[1]: 1171
+servos[2]: 2318
+servos[3]: 1985
+servos[4]: 4
+dxl_pos[0]: 2475
+dxl_pos[1]: 1412
+dxl_pos[2]: 2850
+dxl_pos[3]: 2727
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84022
+servos[0]: 1484
+servos[1]: 1152
+servos[2]: 2218
+servos[3]: 1778
+servos[4]: 4
+dxl_pos[0]: 2300
+dxl_pos[1]: 1328
+dxl_pos[2]: 2712
+dxl_pos[3]: 2554
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84037
+servos[0]: 1402
+servos[1]: 1143
+servos[2]: 2207
+servos[3]: 1686
+servos[4]: 4
+dxl_pos[0]: 2081
+dxl_pos[1]: 1254
+dxl_pos[2]: 2569
+dxl_pos[3]: 2334
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84052
+servos[0]: 1281
+servos[1]: 1149
+servos[2]: 2242
+servos[3]: 1487
+servos[4]: 4
+dxl_pos[0]: 1856
+dxl_pos[1]: 1197
+dxl_pos[2]: 2427
+dxl_pos[3]: 2124
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84067
+servos[0]: 1232
+servos[1]: 1185
+servos[2]: 2285
+servos[3]: 1383
+servos[4]: 4
+dxl_pos[0]: 1647
+dxl_pos[1]: 1160
+dxl_pos[2]: 2319
+dxl_pos[3]: 1931
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84081
+servos[0]: 1232
+servos[1]: 1185
+servos[2]: 2285
+servos[3]: 1383
+servos[4]: 4
+dxl_pos[0]: 1480
+dxl_pos[1]: 1150
+dxl_pos[2]: 2272
+dxl_pos[3]: 1754
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84096
+servos[0]: 1253
+servos[1]: 1277
+servos[2]: 2535
+servos[3]: 1470
+servos[4]: 4
+dxl_pos[0]: 1348
+dxl_pos[1]: 1154
+dxl_pos[2]: 2264
+dxl_pos[3]: 1589
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84111
+servos[0]: 1253
+servos[1]: 1277
+servos[2]: 2535
+servos[3]: 1470
+servos[4]: 4
+dxl_pos[0]: 1268
+dxl_pos[1]: 1165
+dxl_pos[2]: 2274
+dxl_pos[3]: 1476
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84125
+servos[0]: 1253
+servos[1]: 1277
+servos[2]: 2535
+servos[3]: 1470
+servos[4]: 4
+dxl_pos[0]: 1242
+dxl_pos[1]: 1188
+dxl_pos[2]: 2322
+dxl_pos[3]: 1436
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84140
+servos[0]: 1253
+servos[1]: 1277
+servos[2]: 2535
+servos[3]: 1470
+servos[4]: 4
+dxl_pos[0]: 1243
+dxl_pos[1]: 1216
+dxl_pos[2]: 2401
+dxl_pos[3]: 1442
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84155
+servos[0]: 1253
+servos[1]: 1277
+servos[2]: 2535
+servos[3]: 1470
+servos[4]: 4
+dxl_pos[0]: 1247
+dxl_pos[1]: 1238
+dxl_pos[2]: 2456
+dxl_pos[3]: 1453
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84169
+servos[0]: 1253
+servos[1]: 1277
+servos[2]: 2535
+servos[3]: 1470
+servos[4]: 4
+dxl_pos[0]: 1250
+dxl_pos[1]: 1252
+dxl_pos[2]: 2493
+dxl_pos[3]: 1461
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84184
+servos[0]: 1370
+servos[1]: 1315
+servos[2]: 2702
+servos[3]: 1612
+servos[4]: 4
+dxl_pos[0]: 1251
+dxl_pos[1]: 1258
+dxl_pos[2]: 2512
+dxl_pos[3]: 1465
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84199
+servos[0]: 1451
+servos[1]: 1346
+servos[2]: 2770
+servos[3]: 1702
+servos[4]: 4
+dxl_pos[0]: 1262
+dxl_pos[1]: 1260
+dxl_pos[2]: 2532
+dxl_pos[3]: 1475
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84213
+servos[0]: 1451
+servos[1]: 1346
+servos[2]: 2770
+servos[3]: 1702
+servos[4]: 4
+dxl_pos[0]: 1292
+dxl_pos[1]: 1266
+dxl_pos[2]: 2576
+dxl_pos[3]: 1514
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84227
+servos[0]: 1451
+servos[1]: 1346
+servos[2]: 2770
+servos[3]: 1702
+servos[4]: 4
+dxl_pos[0]: 1313
+dxl_pos[1]: 1273
+dxl_pos[2]: 2603
+dxl_pos[3]: 1541
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84241
+servos[0]: 1451
+servos[1]: 1346
+servos[2]: 2770
+servos[3]: 1702
+servos[4]: 4
+dxl_pos[0]: 1385
+dxl_pos[1]: 1299
+dxl_pos[2]: 2684
+dxl_pos[3]: 1623
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84255
+servos[0]: 1545
+servos[1]: 1394
+servos[2]: 2825
+servos[3]: 1801
+servos[4]: 4
+dxl_pos[0]: 1419
+dxl_pos[1]: 1312
+dxl_pos[2]: 2720
+dxl_pos[3]: 1662
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84270
+servos[0]: 1545
+servos[1]: 1394
+servos[2]: 2825
+servos[3]: 1801
+servos[4]: 4
+dxl_pos[0]: 1452
+dxl_pos[1]: 1326
+dxl_pos[2]: 2748
+dxl_pos[3]: 1694
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84285
+servos[0]: 1760
+servos[1]: 1521
+servos[2]: 2895
+servos[3]: 2002
+servos[4]: 4
+dxl_pos[0]: 1490
+dxl_pos[1]: 1345
+dxl_pos[2]: 2774
+dxl_pos[3]: 1736
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84300
+servos[0]: 1974
+servos[1]: 1679
+servos[2]: 2920
+servos[3]: 2243
+servos[4]: 4
+dxl_pos[0]: 1533
+dxl_pos[1]: 1368
+dxl_pos[2]: 2797
+dxl_pos[3]: 1775
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84315
+servos[0]: 2359
+servos[1]: 1884
+servos[2]: 2947
+servos[3]: 2649
+servos[4]: 4
+dxl_pos[0]: 1619
+dxl_pos[1]: 1417
+dxl_pos[2]: 2829
+dxl_pos[3]: 1824
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84330
+servos[0]: 2359
+servos[1]: 1884
+servos[2]: 2947
+servos[3]: 2649
+servos[4]: 4
+dxl_pos[0]: 1765
+dxl_pos[1]: 1511
+dxl_pos[2]: 2863
+dxl_pos[3]: 1861
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84345
+servos[0]: 2650
+servos[1]: 1604
+servos[2]: 2822
+servos[3]: 2867
+servos[4]: 4
+dxl_pos[0]: 1969
+dxl_pos[1]: 1642
+dxl_pos[2]: 2892
+dxl_pos[3]: 1884
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84360
+servos[0]: 2650
+servos[1]: 1604
+servos[2]: 2822
+servos[3]: 2867
+servos[4]: 4
+dxl_pos[0]: 2166
+dxl_pos[1]: 1754
+dxl_pos[2]: 2911
+dxl_pos[3]: 1895
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84375
+servos[0]: 1220
+servos[1]: 1195
+servos[2]: 2294
+servos[3]: 1367
+servos[4]: 4
+dxl_pos[0]: 2257
+dxl_pos[1]: 1783
+dxl_pos[2]: 2909
+dxl_pos[3]: 1896
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84389
+servos[0]: 1220
+servos[1]: 1195
+servos[2]: 2294
+servos[3]: 1367
+servos[4]: 4
+dxl_pos[0]: 2486
+dxl_pos[1]: 1729
+dxl_pos[2]: 2878
+dxl_pos[3]: 1944
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 84403
+servos[0]: 1573
+servos[1]: 1409
+servos[2]: 2838
+servos[3]: 1829
+servos[4]: 4
+dxl_pos[0]: 2487
+dxl_pos[1]: 1607
+dxl_pos[2]: 2808
+dxl_pos[3]: 2083
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84418
+servos[0]: 1674
+servos[1]: 1467
+servos[2]: 2875
+servos[3]: 1926
+servos[4]: 4
+dxl_pos[0]: 2434
+dxl_pos[1]: 1536
+dxl_pos[2]: 2744
+dxl_pos[3]: 2153
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84433
+servos[0]: 1988
+servos[1]: 1690
+servos[2]: 2921
+servos[3]: 2261
+servos[4]: 4
+dxl_pos[0]: 2113
+dxl_pos[1]: 1367
+dxl_pos[2]: 2559
+dxl_pos[3]: 2187
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84448
+servos[0]: 2181
+servos[1]: 1819
+servos[2]: 2926
+servos[3]: 2475
+servos[4]: 4
+dxl_pos[0]: 1897
+dxl_pos[1]: 1372
+dxl_pos[2]: 2586
+dxl_pos[3]: 2102
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84462
+servos[0]: 2377
+servos[1]: 1887
+servos[2]: 2948
+servos[3]: 2666
+servos[4]: 4
+dxl_pos[0]: 1821
+dxl_pos[1]: 1452
+dxl_pos[2]: 2675
+dxl_pos[3]: 2088
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84477
+servos[0]: 2471
+servos[1]: 1885
+servos[2]: 2952
+servos[3]: 2739
+servos[4]: 4
+dxl_pos[0]: 1899
+dxl_pos[1]: 1581
+dxl_pos[2]: 2773
+dxl_pos[3]: 2189
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84492
+servos[0]: 2733
+servos[1]: 1741
+servos[2]: 2840
+servos[3]: 2913
+servos[4]: 4
+dxl_pos[0]: 2060
+dxl_pos[1]: 1709
+dxl_pos[2]: 2860
+dxl_pos[3]: 2356
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84507
+servos[0]: 2684
+servos[1]: 1669
+servos[2]: 2826
+servos[3]: 2895
+servos[4]: 4
+dxl_pos[0]: 2236
+dxl_pos[1]: 1802
+dxl_pos[2]: 2913
+dxl_pos[3]: 2518
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84522
+servos[0]: 2594
+servos[1]: 1514
+servos[2]: 2810
+servos[3]: 2817
+servos[4]: 4
+dxl_pos[0]: 2417
+dxl_pos[1]: 1821
+dxl_pos[2]: 2916
+dxl_pos[3]: 2665
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84537
+servos[0]: 2332
+servos[1]: 1289
+servos[2]: 2720
+servos[3]: 2587
+servos[4]: 4
+dxl_pos[0]: 2553
+dxl_pos[1]: 1778
+dxl_pos[2]: 2898
+dxl_pos[3]: 2771
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84552
+servos[0]: 2230
+servos[1]: 1242
+servos[2]: 2667
+servos[3]: 2488
+servos[4]: 4
+dxl_pos[0]: 2603
+dxl_pos[1]: 1701
+dxl_pos[2]: 2876
+dxl_pos[3]: 2813
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84567
+servos[0]: 1689
+servos[1]: 1171
+servos[2]: 2315
+servos[3]: 1980
+servos[4]: 4
+dxl_pos[0]: 2592
+dxl_pos[1]: 1648
+dxl_pos[2]: 2859
+dxl_pos[3]: 2801
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 84582
+servos[0]: 1407
+servos[1]: 1144
+servos[2]: 2207
+servos[3]: 1693
+servos[4]: 4
+dxl_pos[0]: 2460
+dxl_pos[1]: 1454
+dxl_pos[2]: 2786
+dxl_pos[3]: 2687
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84596
+servos[0]: 1183
+servos[1]: 1260
+servos[2]: 2366
+servos[3]: 1374
+servos[4]: 4
+dxl_pos[0]: 2383
+dxl_pos[1]: 1393
+dxl_pos[2]: 2738
+dxl_pos[3]: 2616
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 84611
+servos[0]: 1362
+servos[1]: 1312
+servos[2]: 2694
+servos[3]: 1602
+servos[4]: 4
+dxl_pos[0]: 2025
+dxl_pos[1]: 1246
+dxl_pos[2]: 2535
+dxl_pos[3]: 2263
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84626
+servos[0]: 1362
+servos[1]: 1312
+servos[2]: 2694
+servos[3]: 1602
+servos[4]: 4
+dxl_pos[0]: 1739
+dxl_pos[1]: 1226
+dxl_pos[2]: 2456
+dxl_pos[3]: 1970
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84641
+servos[0]: 1446
+servos[1]: 1344
+servos[2]: 2766
+servos[3]: 1696
+servos[4]: 4
+dxl_pos[0]: 1526
+dxl_pos[1]: 1236
+dxl_pos[2]: 2488
+dxl_pos[3]: 1746
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84656
+servos[0]: 1631
+servos[1]: 1442
+servos[2]: 2862
+servos[3]: 1888
+servos[4]: 4
+dxl_pos[0]: 1418
+dxl_pos[1]: 1258
+dxl_pos[2]: 2562
+dxl_pos[3]: 1648
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84670
+servos[0]: 1745
+servos[1]: 1511
+servos[2]: 2892
+servos[3]: 1988
+servos[4]: 4
+dxl_pos[0]: 1409
+dxl_pos[1]: 1292
+dxl_pos[2]: 2643
+dxl_pos[3]: 1648
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84685
+servos[0]: 1950
+servos[1]: 1661
+servos[2]: 2919
+servos[3]: 2214
+servos[4]: 4
+dxl_pos[0]: 1467
+dxl_pos[1]: 1339
+dxl_pos[2]: 2727
+dxl_pos[3]: 1714
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84700
+servos[0]: 2045
+servos[1]: 1732
+servos[2]: 2921
+servos[3]: 2328
+servos[4]: 4
+dxl_pos[0]: 1551
+dxl_pos[1]: 1381
+dxl_pos[2]: 2795
+dxl_pos[3]: 1808
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84714
+servos[0]: 2045
+servos[1]: 1732
+servos[2]: 2921
+servos[3]: 2328
+servos[4]: 4
+dxl_pos[0]: 1676
+dxl_pos[1]: 1453
+dxl_pos[2]: 2853
+dxl_pos[3]: 1928
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84729
+servos[0]: 2244
+servos[1]: 1850
+servos[2]: 2932
+servos[3]: 2541
+servos[4]: 4
+dxl_pos[0]: 1826
+dxl_pos[1]: 1554
+dxl_pos[2]: 2893
+dxl_pos[3]: 2076
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84744
+servos[0]: 2341
+servos[1]: 1882
+servos[2]: 2945
+servos[3]: 2632
+servos[4]: 4
+dxl_pos[0]: 1942
+dxl_pos[1]: 1639
+dxl_pos[2]: 2914
+dxl_pos[3]: 2192
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84759
+servos[0]: 2431
+servos[1]: 1888
+servos[2]: 2952
+servos[3]: 2710
+servos[4]: 4
+dxl_pos[0]: 2057
+dxl_pos[1]: 1720
+dxl_pos[2]: 2925
+dxl_pos[3]: 2305
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84773
+servos[0]: 2529
+servos[1]: 1876
+servos[2]: 2951
+servos[3]: 2774
+servos[4]: 4
+dxl_pos[0]: 2172
+dxl_pos[1]: 1788
+dxl_pos[2]: 2937
+dxl_pos[3]: 2421
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84788
+servos[0]: 2719
+servos[1]: 1805
+servos[2]: 2904
+servos[3]: 2868
+servos[4]: 4
+dxl_pos[0]: 2222
+dxl_pos[1]: 1816
+dxl_pos[2]: 2943
+dxl_pos[3]: 2481
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84803
+servos[0]: 2719
+servos[1]: 1805
+servos[2]: 2904
+servos[3]: 2868
+servos[4]: 4
+dxl_pos[0]: 2408
+dxl_pos[1]: 1860
+dxl_pos[2]: 2947
+dxl_pos[3]: 2652
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84818
+servos[0]: 2757
+servos[1]: 1770
+servos[2]: 2865
+servos[3]: 2905
+servos[4]: 4
+dxl_pos[0]: 2528
+dxl_pos[1]: 1852
+dxl_pos[2]: 2943
+dxl_pos[3]: 2740
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84833
+servos[0]: 2714
+servos[1]: 1718
+servos[2]: 2830
+servos[3]: 2909
+servos[4]: 4
+dxl_pos[0]: 2626
+dxl_pos[1]: 1838
+dxl_pos[2]: 2941
+dxl_pos[3]: 2800
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84848
+servos[0]: 2714
+servos[1]: 1718
+servos[2]: 2830
+servos[3]: 2909
+servos[4]: 4
+dxl_pos[0]: 2681
+dxl_pos[1]: 1814
+dxl_pos[2]: 2925
+dxl_pos[3]: 2843
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84862
+servos[0]: 2625
+servos[1]: 1561
+servos[2]: 2817
+servos[3]: 2842
+servos[4]: 4
+dxl_pos[0]: 2701
+dxl_pos[1]: 1786
+dxl_pos[2]: 2904
+dxl_pos[3]: 2870
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84877
+servos[0]: 2567
+servos[1]: 1478
+servos[2]: 2803
+servos[3]: 2796
+servos[4]: 4
+dxl_pos[0]: 2695
+dxl_pos[1]: 1750
+dxl_pos[2]: 2883
+dxl_pos[3]: 2876
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84892
+servos[0]: 2487
+servos[1]: 1396
+servos[2]: 2780
+servos[3]: 2728
+servos[4]: 4
+dxl_pos[0]: 2669
+dxl_pos[1]: 1692
+dxl_pos[2]: 2867
+dxl_pos[3]: 2865
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84907
+servos[0]: 2487
+servos[1]: 1396
+servos[2]: 2780
+servos[3]: 2728
+servos[4]: 4
+dxl_pos[0]: 2630
+dxl_pos[1]: 1620
+dxl_pos[2]: 2854
+dxl_pos[3]: 2842
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84921
+servos[0]: 2396
+servos[1]: 1326
+servos[2]: 2749
+servos[3]: 2646
+servos[4]: 4
+dxl_pos[0]: 2584
+dxl_pos[1]: 1548
+dxl_pos[2]: 2841
+dxl_pos[3]: 2809
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84936
+servos[0]: 2297
+servos[1]: 1271
+servos[2]: 2702
+servos[3]: 2552
+servos[4]: 4
+dxl_pos[0]: 2537
+dxl_pos[1]: 1479
+dxl_pos[2]: 2828
+dxl_pos[3]: 2773
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84951
+servos[0]: 2196
+servos[1]: 1229
+servos[2]: 2646
+servos[3]: 2451
+servos[4]: 4
+dxl_pos[0]: 2484
+dxl_pos[1]: 1419
+dxl_pos[2]: 2813
+dxl_pos[3]: 2729
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84966
+servos[0]: 2105
+servos[1]: 1202
+servos[2]: 2582
+servos[3]: 2349
+servos[4]: 4
+dxl_pos[0]: 2414
+dxl_pos[1]: 1355
+dxl_pos[2]: 2781
+dxl_pos[3]: 2662
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84981
+servos[0]: 2105
+servos[1]: 1202
+servos[2]: 2582
+servos[3]: 2349
+servos[4]: 4
+dxl_pos[0]: 2330
+dxl_pos[1]: 1295
+dxl_pos[2]: 2741
+dxl_pos[3]: 2579
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 84996
+servos[0]: 1461
+servos[1]: 1149
+servos[2]: 2212
+servos[3]: 1752
+servos[4]: 4
+dxl_pos[0]: 2246
+dxl_pos[1]: 1247
+dxl_pos[2]: 2694
+dxl_pos[3]: 2491
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85011
+servos[0]: 1382
+servos[1]: 1143
+servos[2]: 2207
+servos[3]: 1661
+servos[4]: 4
+dxl_pos[0]: 2164
+dxl_pos[1]: 1212
+dxl_pos[2]: 2636
+dxl_pos[3]: 2403
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85026
+servos[0]: 1215
+servos[1]: 1200
+servos[2]: 2298
+servos[3]: 1358
+servos[4]: 4
+dxl_pos[0]: 2011
+dxl_pos[1]: 1180
+dxl_pos[2]: 2520
+dxl_pos[3]: 2244
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85040
+servos[0]: 1183
+servos[1]: 1243
+servos[2]: 2336
+servos[3]: 1342
+servos[4]: 4
+dxl_pos[0]: 1805
+dxl_pos[1]: 1164
+dxl_pos[2]: 2405
+dxl_pos[3]: 2035
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85055
+servos[0]: 1317
+servos[1]: 1298
+servos[2]: 2645
+servos[3]: 1553
+servos[4]: 4
+dxl_pos[0]: 1571
+dxl_pos[1]: 1169
+dxl_pos[2]: 2338
+dxl_pos[3]: 1786
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85070
+servos[0]: 1389
+servos[1]: 1321
+servos[2]: 2719
+servos[3]: 1632
+servos[4]: 4
+dxl_pos[0]: 1384
+dxl_pos[1]: 1186
+dxl_pos[2]: 2327
+dxl_pos[3]: 1578
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85085
+servos[0]: 1570
+servos[1]: 1407
+servos[2]: 2837
+servos[3]: 1826
+servos[4]: 4
+dxl_pos[0]: 1295
+dxl_pos[1]: 1214
+dxl_pos[2]: 2394
+dxl_pos[3]: 1500
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85100
+servos[0]: 1777
+servos[1]: 1533
+servos[2]: 2899
+servos[3]: 2018
+servos[4]: 4
+dxl_pos[0]: 1305
+dxl_pos[1]: 1251
+dxl_pos[2]: 2508
+dxl_pos[3]: 1524
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85115
+servos[0]: 1887
+servos[1]: 1612
+servos[2]: 2915
+servos[3]: 2142
+servos[4]: 4
+dxl_pos[0]: 1371
+dxl_pos[1]: 1299
+dxl_pos[2]: 2629
+dxl_pos[3]: 1619
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85130
+servos[0]: 1992
+servos[1]: 1693
+servos[2]: 2921
+servos[3]: 2265
+servos[4]: 4
+dxl_pos[0]: 1489
+dxl_pos[1]: 1359
+dxl_pos[2]: 2739
+dxl_pos[3]: 1758
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85145
+servos[0]: 1992
+servos[1]: 1693
+servos[2]: 2921
+servos[3]: 2265
+servos[4]: 4
+dxl_pos[0]: 1644
+dxl_pos[1]: 1436
+dxl_pos[2]: 2821
+dxl_pos[3]: 1914
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85160
+servos[0]: 1992
+servos[1]: 1693
+servos[2]: 2921
+servos[3]: 2265
+servos[4]: 4
+dxl_pos[0]: 1797
+dxl_pos[1]: 1531
+dxl_pos[2]: 2881
+dxl_pos[3]: 2058
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85175
+servos[0]: 2097
+servos[1]: 1768
+servos[2]: 2922
+servos[3]: 2387
+servos[4]: 4
+dxl_pos[0]: 1907
+dxl_pos[1]: 1609
+dxl_pos[2]: 2909
+dxl_pos[3]: 2159
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85189
+servos[0]: 2191
+servos[1]: 1825
+servos[2]: 2927
+servos[3]: 2486
+servos[4]: 4
+dxl_pos[0]: 1972
+dxl_pos[1]: 1664
+dxl_pos[2]: 2920
+dxl_pos[3]: 2221
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85203
+servos[0]: 2191
+servos[1]: 1825
+servos[2]: 2927
+servos[3]: 2486
+servos[4]: 4
+dxl_pos[0]: 2036
+dxl_pos[1]: 1714
+dxl_pos[2]: 2923
+dxl_pos[3]: 2287
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85217
+servos[0]: 2293
+servos[1]: 1869
+servos[2]: 2940
+servos[3]: 2590
+servos[4]: 4
+dxl_pos[0]: 2098
+dxl_pos[1]: 1759
+dxl_pos[2]: 2926
+dxl_pos[3]: 2355
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85232
+servos[0]: 2480
+servos[1]: 1884
+servos[2]: 2951
+servos[3]: 2746
+servos[4]: 4
+dxl_pos[0]: 2149
+dxl_pos[1]: 1796
+dxl_pos[2]: 2929
+dxl_pos[3]: 2411
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85247
+servos[0]: 2579
+servos[1]: 1862
+servos[2]: 2947
+servos[3]: 2800
+servos[4]: 4
+dxl_pos[0]: 2207
+dxl_pos[1]: 1828
+dxl_pos[2]: 2937
+dxl_pos[3]: 2476
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85262
+servos[0]: 2756
+servos[1]: 1778
+servos[2]: 2875
+servos[3]: 2898
+servos[4]: 4
+dxl_pos[0]: 2295
+dxl_pos[1]: 1853
+dxl_pos[2]: 2943
+dxl_pos[3]: 2568
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85277
+servos[0]: 2677
+servos[1]: 1656
+servos[2]: 2826
+servos[3]: 2891
+servos[4]: 4
+dxl_pos[0]: 2410
+dxl_pos[1]: 1855
+dxl_pos[2]: 2943
+dxl_pos[3]: 2658
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85292
+servos[0]: 2303
+servos[1]: 1274
+servos[2]: 2705
+servos[3]: 2558
+servos[4]: 4
+dxl_pos[0]: 2535
+dxl_pos[1]: 1828
+dxl_pos[2]: 2929
+dxl_pos[3]: 2755
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 85307
+servos[0]: 2303
+servos[1]: 1274
+servos[2]: 2705
+servos[3]: 2558
+servos[4]: 4
+dxl_pos[0]: 2604
+dxl_pos[1]: 1760
+dxl_pos[2]: 2902
+dxl_pos[3]: 2805
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 85322
+servos[0]: 2303
+servos[1]: 1274
+servos[2]: 2705
+servos[3]: 2558
+servos[4]: 4
+dxl_pos[0]: 2568
+dxl_pos[1]: 1629
+dxl_pos[2]: 2857
+dxl_pos[3]: 2765
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85337
+servos[0]: 2303
+servos[1]: 1274
+servos[2]: 2705
+servos[3]: 2558
+servos[4]: 4
+dxl_pos[0]: 2481
+dxl_pos[1]: 1490
+dxl_pos[2]: 2810
+dxl_pos[3]: 2696
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85351
+servos[0]: 2200
+servos[1]: 1230
+servos[2]: 2649
+servos[3]: 2456
+servos[4]: 4
+dxl_pos[0]: 2404
+dxl_pos[1]: 1388
+dxl_pos[2]: 2777
+dxl_pos[3]: 2631
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85366
+servos[0]: 1867
+servos[1]: 1174
+servos[2]: 2425
+servos[3]: 2134
+servos[4]: 4
+dxl_pos[0]: 2335
+dxl_pos[1]: 1314
+dxl_pos[2]: 2753
+dxl_pos[3]: 2589
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85381
+servos[0]: 1637
+servos[1]: 1170
+servos[2]: 2284
+servos[3]: 1930
+servos[4]: 4
+dxl_pos[0]: 2267
+dxl_pos[1]: 1260
+dxl_pos[2]: 2724
+dxl_pos[3]: 2567
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85396
+servos[0]: 1304
+servos[1]: 1145
+servos[2]: 2226
+servos[3]: 1536
+servos[4]: 4
+dxl_pos[0]: 2143
+dxl_pos[1]: 1215
+dxl_pos[2]: 2672
+dxl_pos[3]: 2552
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85411
+servos[0]: 1180
+servos[1]: 1251
+servos[2]: 2346
+servos[3]: 1353
+servos[4]: 4
+dxl_pos[0]: 1954
+dxl_pos[1]: 1184
+dxl_pos[2]: 2661
+dxl_pos[3]: 2505
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85426
+servos[0]: 1230
+servos[1]: 1273
+servos[2]: 2495
+servos[3]: 1447
+servos[4]: 4
+dxl_pos[0]: 1851
+dxl_pos[1]: 1172
+dxl_pos[2]: 2641
+dxl_pos[3]: 2451
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85440
+servos[0]: 1230
+servos[1]: 1273
+servos[2]: 2495
+servos[3]: 1447
+servos[4]: 4
+dxl_pos[0]: 1520
+dxl_pos[1]: 1172
+dxl_pos[2]: 2507
+dxl_pos[3]: 2139
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85455
+servos[0]: 1230
+servos[1]: 1273
+servos[2]: 2495
+servos[3]: 1447
+servos[4]: 4
+dxl_pos[0]: 1357
+dxl_pos[1]: 1196
+dxl_pos[2]: 2470
+dxl_pos[3]: 1879
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85470
+servos[0]: 1272
+servos[1]: 1283
+servos[2]: 2571
+servos[3]: 1493
+servos[4]: 4
+dxl_pos[0]: 1268
+dxl_pos[1]: 1220
+dxl_pos[2]: 2472
+dxl_pos[3]: 1668
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85485
+servos[0]: 1334
+servos[1]: 1303
+servos[2]: 2665
+servos[3]: 1571
+servos[4]: 4
+dxl_pos[0]: 1236
+dxl_pos[1]: 1239
+dxl_pos[2]: 2479
+dxl_pos[3]: 1541
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85500
+servos[0]: 1334
+servos[1]: 1303
+servos[2]: 2665
+servos[3]: 1571
+servos[4]: 4
+dxl_pos[0]: 1236
+dxl_pos[1]: 1252
+dxl_pos[2]: 2488
+dxl_pos[3]: 1489
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85515
+servos[0]: 1505
+servos[1]: 1373
+servos[2]: 2804
+servos[3]: 1760
+servos[4]: 4
+dxl_pos[0]: 1260
+dxl_pos[1]: 1261
+dxl_pos[2]: 2529
+dxl_pos[3]: 1503
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85530
+servos[0]: 1805
+servos[1]: 1553
+servos[2]: 2904
+servos[3]: 2050
+servos[4]: 4
+dxl_pos[0]: 1290
+dxl_pos[1]: 1267
+dxl_pos[2]: 2577
+dxl_pos[3]: 1531
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85545
+servos[0]: 1919
+servos[1]: 1637
+servos[2]: 2918
+servos[3]: 2180
+servos[4]: 4
+dxl_pos[0]: 1347
+dxl_pos[1]: 1293
+dxl_pos[2]: 2646
+dxl_pos[3]: 1601
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85560
+servos[0]: 2021
+servos[1]: 1714
+servos[2]: 2921
+servos[3]: 2300
+servos[4]: 4
+dxl_pos[0]: 1472
+dxl_pos[1]: 1346
+dxl_pos[2]: 2732
+dxl_pos[3]: 1734
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85574
+servos[0]: 2021
+servos[1]: 1714
+servos[2]: 2921
+servos[3]: 2300
+servos[4]: 4
+dxl_pos[0]: 1634
+dxl_pos[1]: 1430
+dxl_pos[2]: 2813
+dxl_pos[3]: 1897
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85589
+servos[0]: 2021
+servos[1]: 1714
+servos[2]: 2921
+servos[3]: 2300
+servos[4]: 4
+dxl_pos[0]: 1802
+dxl_pos[1]: 1536
+dxl_pos[2]: 2872
+dxl_pos[3]: 2063
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85604
+servos[0]: 2021
+servos[1]: 1714
+servos[2]: 2921
+servos[3]: 2300
+servos[4]: 4
+dxl_pos[0]: 1924
+dxl_pos[1]: 1624
+dxl_pos[2]: 2906
+dxl_pos[3]: 2177
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85618
+servos[0]: 2226
+servos[1]: 1842
+servos[2]: 2930
+servos[3]: 2522
+servos[4]: 4
+dxl_pos[0]: 1989
+dxl_pos[1]: 1677
+dxl_pos[2]: 2918
+dxl_pos[3]: 2242
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85633
+servos[0]: 2226
+servos[1]: 1842
+servos[2]: 2930
+servos[3]: 2522
+servos[4]: 4
+dxl_pos[0]: 2035
+dxl_pos[1]: 1714
+dxl_pos[2]: 2923
+dxl_pos[3]: 2290
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85648
+servos[0]: 2520
+servos[1]: 1878
+servos[2]: 2951
+servos[3]: 2769
+servos[4]: 4
+dxl_pos[0]: 2099
+dxl_pos[1]: 1760
+dxl_pos[2]: 2928
+dxl_pos[3]: 2362
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85662
+servos[0]: 2720
+servos[1]: 1804
+servos[2]: 2903
+servos[3]: 2869
+servos[4]: 4
+dxl_pos[0]: 2164
+dxl_pos[1]: 1800
+dxl_pos[2]: 2934
+dxl_pos[3]: 2435
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85677
+servos[0]: 2558
+servos[1]: 1468
+servos[2]: 2800
+servos[3]: 2789
+servos[4]: 4
+dxl_pos[0]: 2274
+dxl_pos[1]: 1836
+dxl_pos[2]: 2941
+dxl_pos[3]: 2543
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85692
+servos[0]: 2385
+servos[1]: 1320
+servos[2]: 2745
+servos[3]: 2636
+servos[4]: 4
+dxl_pos[0]: 2416
+dxl_pos[1]: 1829
+dxl_pos[2]: 2929
+dxl_pos[3]: 2663
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85707
+servos[0]: 2195
+servos[1]: 1228
+servos[2]: 2645
+servos[3]: 2450
+servos[4]: 4
+dxl_pos[0]: 2502
+dxl_pos[1]: 1739
+dxl_pos[2]: 2895
+dxl_pos[3]: 2726
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85722
+servos[0]: 1745
+servos[1]: 1173
+servos[2]: 2349
+servos[3]: 2030
+servos[4]: 4
+dxl_pos[0]: 2483
+dxl_pos[1]: 1594
+dxl_pos[2]: 2846
+dxl_pos[3]: 2700
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85737
+servos[0]: 1536
+servos[1]: 1159
+servos[2]: 2235
+servos[3]: 1832
+servos[4]: 4
+dxl_pos[0]: 2401
+dxl_pos[1]: 1445
+dxl_pos[2]: 2786
+dxl_pos[3]: 2621
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85752
+servos[0]: 1371
+servos[1]: 1143
+servos[2]: 2207
+servos[3]: 1646
+servos[4]: 4
+dxl_pos[0]: 2256
+dxl_pos[1]: 1319
+dxl_pos[2]: 2686
+dxl_pos[3]: 2474
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85767
+servos[0]: 1266
+servos[1]: 1159
+servos[2]: 2255
+servos[3]: 1453
+servos[4]: 4
+dxl_pos[0]: 2035
+dxl_pos[1]: 1230
+dxl_pos[2]: 2546
+dxl_pos[3]: 2267
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85782
+servos[0]: 1187
+servos[1]: 1268
+servos[2]: 2390
+servos[3]: 1389
+servos[4]: 4
+dxl_pos[0]: 1794
+dxl_pos[1]: 1176
+dxl_pos[2]: 2404
+dxl_pos[3]: 2027
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85797
+servos[0]: 1311
+servos[1]: 1295
+servos[2]: 2635
+servos[3]: 1544
+servos[4]: 4
+dxl_pos[0]: 1564
+dxl_pos[1]: 1160
+dxl_pos[2]: 2323
+dxl_pos[3]: 1784
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85812
+servos[0]: 1565
+servos[1]: 1405
+servos[2]: 2835
+servos[3]: 1821
+servos[4]: 4
+dxl_pos[0]: 1386
+dxl_pos[1]: 1179
+dxl_pos[2]: 2323
+dxl_pos[3]: 1587
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85827
+servos[0]: 1784
+servos[1]: 1538
+servos[2]: 2900
+servos[3]: 2026
+servos[4]: 4
+dxl_pos[0]: 1315
+dxl_pos[1]: 1217
+dxl_pos[2]: 2414
+dxl_pos[3]: 1528
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85842
+servos[0]: 2091
+servos[1]: 1764
+servos[2]: 2922
+servos[3]: 2381
+servos[4]: 4
+dxl_pos[0]: 1317
+dxl_pos[1]: 1239
+dxl_pos[2]: 2474
+dxl_pos[3]: 1540
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85857
+servos[0]: 2193
+servos[1]: 1826
+servos[2]: 2927
+servos[3]: 2489
+servos[4]: 4
+dxl_pos[0]: 1486
+dxl_pos[1]: 1362
+dxl_pos[2]: 2688
+dxl_pos[3]: 1730
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85871
+servos[0]: 2589
+servos[1]: 1858
+servos[2]: 2947
+servos[3]: 2805
+servos[4]: 4
+dxl_pos[0]: 1685
+dxl_pos[1]: 1468
+dxl_pos[2]: 2799
+dxl_pos[3]: 1937
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85886
+servos[0]: 2723
+servos[1]: 1732
+servos[2]: 2835
+servos[3]: 2911
+servos[4]: 4
+dxl_pos[0]: 1913
+dxl_pos[1]: 1605
+dxl_pos[2]: 2877
+dxl_pos[3]: 2171
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85901
+servos[0]: 2412
+servos[1]: 1338
+servos[2]: 2756
+servos[3]: 2661
+servos[4]: 4
+dxl_pos[0]: 2160
+dxl_pos[1]: 1722
+dxl_pos[2]: 2918
+dxl_pos[3]: 2408
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85916
+servos[0]: 2208
+servos[1]: 1233
+servos[2]: 2653
+servos[3]: 2464
+servos[4]: 4
+dxl_pos[0]: 2399
+dxl_pos[1]: 1750
+dxl_pos[2]: 2911
+dxl_pos[3]: 2619
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85931
+servos[0]: 1997
+servos[1]: 1183
+servos[2]: 2510
+servos[3]: 2246
+servos[4]: 4
+dxl_pos[0]: 2473
+dxl_pos[1]: 1725
+dxl_pos[2]: 2896
+dxl_pos[3]: 2677
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85946
+servos[0]: 1749
+servos[1]: 1173
+servos[2]: 2351
+servos[3]: 2034
+servos[4]: 4
+dxl_pos[0]: 2475
+dxl_pos[1]: 1534
+dxl_pos[2]: 2812
+dxl_pos[3]: 2658
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85961
+servos[0]: 1749
+servos[1]: 1173
+servos[2]: 2351
+servos[3]: 2034
+servos[4]: 4
+dxl_pos[0]: 2344
+dxl_pos[1]: 1393
+dxl_pos[2]: 2720
+dxl_pos[3]: 2532
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85976
+servos[0]: 1540
+servos[1]: 1160
+servos[2]: 2238
+servos[3]: 1836
+servos[4]: 4
+dxl_pos[0]: 2148
+dxl_pos[1]: 1277
+dxl_pos[2]: 2604
+dxl_pos[3]: 2354
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 85991
+servos[0]: 1377
+servos[1]: 1143
+servos[2]: 2207
+servos[3]: 1654
+servos[4]: 4
+dxl_pos[0]: 1955
+dxl_pos[1]: 1207
+dxl_pos[2]: 2488
+dxl_pos[3]: 2190
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86006
+servos[0]: 1221
+servos[1]: 1195
+servos[2]: 2293
+servos[3]: 1368
+servos[4]: 4
+dxl_pos[0]: 1767
+dxl_pos[1]: 1168
+dxl_pos[2]: 2370
+dxl_pos[3]: 2026
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86021
+servos[0]: 1185
+servos[1]: 1239
+servos[2]: 2332
+servos[3]: 1337
+servos[4]: 4
+dxl_pos[0]: 1590
+dxl_pos[1]: 1150
+dxl_pos[2]: 2289
+dxl_pos[3]: 1859
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86036
+servos[0]: 1221
+servos[1]: 1271
+servos[2]: 2477
+servos[3]: 1437
+servos[4]: 4
+dxl_pos[0]: 1437
+dxl_pos[1]: 1153
+dxl_pos[2]: 2265
+dxl_pos[3]: 1683
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86051
+servos[0]: 1317
+servos[1]: 1297
+servos[2]: 2644
+servos[3]: 1552
+servos[4]: 4
+dxl_pos[0]: 1320
+dxl_pos[1]: 1167
+dxl_pos[2]: 2274
+dxl_pos[3]: 1535
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86065
+servos[0]: 1387
+servos[1]: 1321
+servos[2]: 2718
+servos[3]: 1630
+servos[4]: 4
+dxl_pos[0]: 1257
+dxl_pos[1]: 1192
+dxl_pos[2]: 2319
+dxl_pos[3]: 1464
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86080
+servos[0]: 1387
+servos[1]: 1321
+servos[2]: 2718
+servos[3]: 1630
+servos[4]: 4
+dxl_pos[0]: 1241
+dxl_pos[1]: 1222
+dxl_pos[2]: 2390
+dxl_pos[3]: 1457
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86095
+servos[0]: 1387
+servos[1]: 1321
+servos[2]: 2718
+servos[3]: 1630
+servos[4]: 4
+dxl_pos[0]: 1267
+dxl_pos[1]: 1251
+dxl_pos[2]: 2487
+dxl_pos[3]: 1505
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86109
+servos[0]: 1683
+servos[1]: 1472
+servos[2]: 2877
+servos[3]: 1934
+servos[4]: 4
+dxl_pos[0]: 1307
+dxl_pos[1]: 1275
+dxl_pos[2]: 2575
+dxl_pos[3]: 1555
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86124
+servos[0]: 1900
+servos[1]: 1622
+servos[2]: 2916
+servos[3]: 2158
+servos[4]: 4
+dxl_pos[0]: 1348
+dxl_pos[1]: 1289
+dxl_pos[2]: 2643
+dxl_pos[3]: 1595
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86139
+servos[0]: 2003
+servos[1]: 1701
+servos[2]: 2921
+servos[3]: 2279
+servos[4]: 4
+dxl_pos[0]: 1428
+dxl_pos[1]: 1324
+dxl_pos[2]: 2714
+dxl_pos[3]: 1680
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86154
+servos[0]: 2109
+servos[1]: 1776
+servos[2]: 2923
+servos[3]: 2401
+servos[4]: 4
+dxl_pos[0]: 1578
+dxl_pos[1]: 1399
+dxl_pos[2]: 2795
+dxl_pos[3]: 1833
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86168
+servos[0]: 2109
+servos[1]: 1776
+servos[2]: 2923
+servos[3]: 2401
+servos[4]: 4
+dxl_pos[0]: 1722
+dxl_pos[1]: 1484
+dxl_pos[2]: 2853
+dxl_pos[3]: 1997
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86182
+servos[0]: 2313
+servos[1]: 1875
+servos[2]: 2942
+servos[3]: 2607
+servos[4]: 4
+dxl_pos[0]: 1873
+dxl_pos[1]: 1588
+dxl_pos[2]: 2894
+dxl_pos[3]: 2150
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86197
+servos[0]: 2407
+servos[1]: 1888
+servos[2]: 2951
+servos[3]: 2691
+servos[4]: 4
+dxl_pos[0]: 1998
+dxl_pos[1]: 1680
+dxl_pos[2]: 2916
+dxl_pos[3]: 2276
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86212
+servos[0]: 2509
+servos[1]: 1881
+servos[2]: 2951
+servos[3]: 2762
+servos[4]: 4
+dxl_pos[0]: 2125
+dxl_pos[1]: 1762
+dxl_pos[2]: 2932
+dxl_pos[3]: 2396
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86227
+servos[0]: 2605
+servos[1]: 1852
+servos[2]: 2945
+servos[3]: 2813
+servos[4]: 4
+dxl_pos[0]: 2247
+dxl_pos[1]: 1826
+dxl_pos[2]: 2944
+dxl_pos[3]: 2516
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86242
+servos[0]: 2708
+servos[1]: 1810
+servos[2]: 2910
+servos[3]: 2861
+servos[4]: 4
+dxl_pos[0]: 2347
+dxl_pos[1]: 1863
+dxl_pos[2]: 2949
+dxl_pos[3]: 2609
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86257
+servos[0]: 2708
+servos[1]: 1810
+servos[2]: 2910
+servos[3]: 2861
+servos[4]: 4
+dxl_pos[0]: 2446
+dxl_pos[1]: 1867
+dxl_pos[2]: 2949
+dxl_pos[3]: 2690
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86271
+servos[0]: 2757
+servos[1]: 1770
+servos[2]: 2865
+servos[3]: 2905
+servos[4]: 4
+dxl_pos[0]: 2539
+dxl_pos[1]: 1856
+dxl_pos[2]: 2946
+dxl_pos[3]: 2753
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86286
+servos[0]: 2757
+servos[1]: 1770
+servos[2]: 2865
+servos[3]: 2905
+servos[4]: 4
+dxl_pos[0]: 2618
+dxl_pos[1]: 1842
+dxl_pos[2]: 2944
+dxl_pos[3]: 2801
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86301
+servos[0]: 2480
+servos[1]: 1390
+servos[2]: 2778
+servos[3]: 2722
+servos[4]: 4
+dxl_pos[0]: 2678
+dxl_pos[1]: 1822
+dxl_pos[2]: 2935
+dxl_pos[3]: 2838
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86316
+servos[0]: 2283
+servos[1]: 1264
+servos[2]: 2694
+servos[3]: 2539
+servos[4]: 4
+dxl_pos[0]: 2704
+dxl_pos[1]: 1792
+dxl_pos[2]: 2916
+dxl_pos[3]: 2858
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86331
+servos[0]: 2180
+servos[1]: 1223
+servos[2]: 2635
+servos[3]: 2433
+servos[4]: 4
+dxl_pos[0]: 2669
+dxl_pos[1]: 1712
+dxl_pos[2]: 2877
+dxl_pos[3]: 2815
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86346
+servos[0]: 1957
+servos[1]: 1180
+servos[2]: 2486
+servos[3]: 2212
+servos[4]: 4
+dxl_pos[0]: 2562
+dxl_pos[1]: 1572
+dxl_pos[2]: 2823
+dxl_pos[3]: 2722
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86361
+servos[0]: 1957
+servos[1]: 1180
+servos[2]: 2486
+servos[3]: 2212
+servos[4]: 4
+dxl_pos[0]: 2426
+dxl_pos[1]: 1427
+dxl_pos[2]: 2768
+dxl_pos[3]: 2612
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86375
+servos[0]: 1712
+servos[1]: 1172
+servos[2]: 2329
+servos[3]: 2001
+servos[4]: 4
+dxl_pos[0]: 2290
+dxl_pos[1]: 1315
+dxl_pos[2]: 2706
+dxl_pos[3]: 2494
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86390
+servos[0]: 1712
+servos[1]: 1172
+servos[2]: 2329
+servos[3]: 2001
+servos[4]: 4
+dxl_pos[0]: 2149
+dxl_pos[1]: 1232
+dxl_pos[2]: 2631
+dxl_pos[3]: 2369
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86404
+servos[0]: 1712
+servos[1]: 1172
+servos[2]: 2329
+servos[3]: 2001
+servos[4]: 4
+dxl_pos[0]: 2013
+dxl_pos[1]: 1191
+dxl_pos[2]: 2545
+dxl_pos[3]: 2251
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86419
+servos[0]: 1712
+servos[1]: 1172
+servos[2]: 2329
+servos[3]: 2001
+servos[4]: 4
+dxl_pos[0]: 1883
+dxl_pos[1]: 1173
+dxl_pos[2]: 2452
+dxl_pos[3]: 2138
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86434
+servos[0]: 1349
+servos[1]: 1143
+servos[2]: 2210
+servos[3]: 1615
+servos[4]: 4
+dxl_pos[0]: 1791
+dxl_pos[1]: 1169
+dxl_pos[2]: 2386
+dxl_pos[3]: 2066
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86449
+servos[0]: 1250
+servos[1]: 1169
+servos[2]: 2270
+servos[3]: 1416
+servos[4]: 4
+dxl_pos[0]: 1722
+dxl_pos[1]: 1166
+dxl_pos[2]: 2339
+dxl_pos[3]: 2011
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86463
+servos[0]: 1250
+servos[1]: 1169
+servos[2]: 2270
+servos[3]: 1416
+servos[4]: 4
+dxl_pos[0]: 1617
+dxl_pos[1]: 1161
+dxl_pos[2]: 2297
+dxl_pos[3]: 1902
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86477
+servos[0]: 1204
+servos[1]: 1211
+servos[2]: 2309
+servos[3]: 1416
+servos[4]: 4
+dxl_pos[0]: 1493
+dxl_pos[1]: 1162
+dxl_pos[2]: 2278
+dxl_pos[3]: 1749
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86492
+servos[0]: 1230
+servos[1]: 1273
+servos[2]: 2495
+servos[3]: 1447
+servos[4]: 4
+dxl_pos[0]: 1381
+dxl_pos[1]: 1162
+dxl_pos[2]: 2273
+dxl_pos[3]: 1602
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86507
+servos[0]: 1272
+servos[1]: 1283
+servos[2]: 2569
+servos[3]: 1492
+servos[4]: 4
+dxl_pos[0]: 1301
+dxl_pos[1]: 1168
+dxl_pos[2]: 2275
+dxl_pos[3]: 1499
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86522
+servos[0]: 1488
+servos[1]: 1364
+servos[2]: 2794
+servos[3]: 1742
+servos[4]: 4
+dxl_pos[0]: 1257
+dxl_pos[1]: 1190
+dxl_pos[2]: 2317
+dxl_pos[3]: 1434
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86537
+servos[0]: 1585
+servos[1]: 1415
+servos[2]: 2844
+servos[3]: 1843
+servos[4]: 4
+dxl_pos[0]: 1251
+dxl_pos[1]: 1219
+dxl_pos[2]: 2389
+dxl_pos[3]: 1435
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86552
+servos[0]: 1585
+servos[1]: 1415
+servos[2]: 2844
+servos[3]: 1843
+servos[4]: 4
+dxl_pos[0]: 1304
+dxl_pos[1]: 1262
+dxl_pos[2]: 2508
+dxl_pos[3]: 1473
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86567
+servos[0]: 1585
+servos[1]: 1415
+servos[2]: 2844
+servos[3]: 1843
+servos[4]: 4
+dxl_pos[0]: 1396
+dxl_pos[1]: 1311
+dxl_pos[2]: 2634
+dxl_pos[3]: 1512
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86582
+servos[0]: 1585
+servos[1]: 1415
+servos[2]: 2844
+servos[3]: 1843
+servos[4]: 4
+dxl_pos[0]: 1483
+dxl_pos[1]: 1344
+dxl_pos[2]: 2731
+dxl_pos[3]: 1541
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86597
+servos[0]: 1908
+servos[1]: 1628
+servos[2]: 2917
+servos[3]: 2168
+servos[4]: 4
+dxl_pos[0]: 1545
+dxl_pos[1]: 1370
+dxl_pos[2]: 2783
+dxl_pos[3]: 1559
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86612
+servos[0]: 2207
+servos[1]: 1833
+servos[2]: 2928
+servos[3]: 2503
+servos[4]: 4
+dxl_pos[0]: 1587
+dxl_pos[1]: 1397
+dxl_pos[2]: 2812
+dxl_pos[3]: 1618
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86627
+servos[0]: 2404
+servos[1]: 1888
+servos[2]: 2951
+servos[3]: 2690
+servos[4]: 4
+dxl_pos[0]: 1666
+dxl_pos[1]: 1450
+dxl_pos[2]: 2852
+dxl_pos[3]: 1761
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86642
+servos[0]: 2404
+servos[1]: 1888
+servos[2]: 2951
+servos[3]: 2690
+servos[4]: 4
+dxl_pos[0]: 1800
+dxl_pos[1]: 1548
+dxl_pos[2]: 2889
+dxl_pos[3]: 1955
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86657
+servos[0]: 2601
+servos[1]: 1854
+servos[2]: 2946
+servos[3]: 2811
+servos[4]: 4
+dxl_pos[0]: 1995
+dxl_pos[1]: 1673
+dxl_pos[2]: 2922
+dxl_pos[3]: 2196
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86672
+servos[0]: 2704
+servos[1]: 1813
+servos[2]: 2913
+servos[3]: 2858
+servos[4]: 4
+dxl_pos[0]: 2191
+dxl_pos[1]: 1773
+dxl_pos[2]: 2942
+dxl_pos[3]: 2419
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86686
+servos[0]: 2757
+servos[1]: 1772
+servos[2]: 2867
+servos[3]: 2904
+servos[4]: 4
+dxl_pos[0]: 2365
+dxl_pos[1]: 1825
+dxl_pos[2]: 2945
+dxl_pos[3]: 2595
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86700
+servos[0]: 2757
+servos[1]: 1772
+servos[2]: 2867
+servos[3]: 2904
+servos[4]: 4
+dxl_pos[0]: 2521
+dxl_pos[1]: 1831
+dxl_pos[2]: 2941
+dxl_pos[3]: 2726
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86715
+servos[0]: 2571
+servos[1]: 1484
+servos[2]: 2804
+servos[3]: 2799
+servos[4]: 4
+dxl_pos[0]: 2644
+dxl_pos[1]: 1818
+dxl_pos[2]: 2930
+dxl_pos[3]: 2816
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86730
+servos[0]: 2489
+servos[1]: 1397
+servos[2]: 2781
+servos[3]: 2730
+servos[4]: 4
+dxl_pos[0]: 2706
+dxl_pos[1]: 1798
+dxl_pos[2]: 2914
+dxl_pos[3]: 2857
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86745
+servos[0]: 2398
+servos[1]: 1327
+servos[2]: 2750
+servos[3]: 2647
+servos[4]: 4
+dxl_pos[0]: 2689
+dxl_pos[1]: 1732
+dxl_pos[2]: 2890
+dxl_pos[3]: 2841
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86759
+servos[0]: 2295
+servos[1]: 1270
+servos[2]: 2701
+servos[3]: 2550
+servos[4]: 4
+dxl_pos[0]: 2626
+dxl_pos[1]: 1626
+dxl_pos[2]: 2861
+dxl_pos[3]: 2799
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86774
+servos[0]: 2295
+servos[1]: 1270
+servos[2]: 2701
+servos[3]: 2550
+servos[4]: 4
+dxl_pos[0]: 2539
+dxl_pos[1]: 1507
+dxl_pos[2]: 2828
+dxl_pos[3]: 2741
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86789
+servos[0]: 1974
+servos[1]: 1181
+servos[2]: 2496
+servos[3]: 2226
+servos[4]: 4
+dxl_pos[0]: 2445
+dxl_pos[1]: 1405
+dxl_pos[2]: 2795
+dxl_pos[3]: 2673
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86804
+servos[0]: 1974
+servos[1]: 1181
+servos[2]: 2496
+servos[3]: 2226
+servos[4]: 4
+dxl_pos[0]: 2362
+dxl_pos[1]: 1325
+dxl_pos[2]: 2761
+dxl_pos[3]: 2604
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86819
+servos[0]: 1850
+servos[1]: 1174
+servos[2]: 2414
+servos[3]: 2120
+servos[4]: 4
+dxl_pos[0]: 2249
+dxl_pos[1]: 1258
+dxl_pos[2]: 2699
+dxl_pos[3]: 2495
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86834
+servos[0]: 1527
+servos[1]: 1158
+servos[2]: 2232
+servos[3]: 1823
+servos[4]: 4
+dxl_pos[0]: 2129
+dxl_pos[1]: 1210
+dxl_pos[2]: 2623
+dxl_pos[3]: 2368
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86849
+servos[0]: 1369
+servos[1]: 1143
+servos[2]: 2207
+servos[3]: 1644
+servos[4]: 4
+dxl_pos[0]: 1999
+dxl_pos[1]: 1181
+dxl_pos[2]: 2530
+dxl_pos[3]: 2246
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86864
+servos[0]: 1369
+servos[1]: 1143
+servos[2]: 2207
+servos[3]: 1644
+servos[4]: 4
+dxl_pos[0]: 1828
+dxl_pos[1]: 1161
+dxl_pos[2]: 2412
+dxl_pos[3]: 2085
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86879
+servos[0]: 1265
+servos[1]: 1159
+servos[2]: 2256
+servos[3]: 1450
+servos[4]: 4
+dxl_pos[0]: 1645
+dxl_pos[1]: 1149
+dxl_pos[2]: 2317
+dxl_pos[3]: 1914
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86894
+servos[0]: 1265
+servos[1]: 1159
+servos[2]: 2256
+servos[3]: 1450
+servos[4]: 4
+dxl_pos[0]: 1499
+dxl_pos[1]: 1145
+dxl_pos[2]: 2258
+dxl_pos[3]: 1772
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86909
+servos[0]: 1192
+servos[1]: 1268
+servos[2]: 2405
+servos[3]: 1399
+servos[4]: 4
+dxl_pos[0]: 1386
+dxl_pos[1]: 1147
+dxl_pos[2]: 2242
+dxl_pos[3]: 1642
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86924
+servos[0]: 1192
+servos[1]: 1268
+servos[2]: 2405
+servos[3]: 1399
+servos[4]: 4
+dxl_pos[0]: 1307
+dxl_pos[1]: 1153
+dxl_pos[2]: 2252
+dxl_pos[3]: 1543
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86939
+servos[0]: 1270
+servos[1]: 1282
+servos[2]: 2566
+servos[3]: 1490
+servos[4]: 4
+dxl_pos[0]: 1252
+dxl_pos[1]: 1177
+dxl_pos[2]: 2292
+dxl_pos[3]: 1469
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86954
+servos[0]: 1406
+servos[1]: 1327
+servos[2]: 2734
+servos[3]: 1651
+servos[4]: 4
+dxl_pos[0]: 1225
+dxl_pos[1]: 1206
+dxl_pos[2]: 2343
+dxl_pos[3]: 1439
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86969
+servos[0]: 1406
+servos[1]: 1327
+servos[2]: 2734
+servos[3]: 1651
+servos[4]: 4
+dxl_pos[0]: 1238
+dxl_pos[1]: 1235
+dxl_pos[2]: 2426
+dxl_pos[3]: 1455
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86984
+servos[0]: 1594
+servos[1]: 1420
+servos[2]: 2848
+servos[3]: 1853
+servos[4]: 4
+dxl_pos[0]: 1284
+dxl_pos[1]: 1265
+dxl_pos[2]: 2531
+dxl_pos[3]: 1512
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 86999
+servos[0]: 1819
+servos[1]: 1563
+servos[2]: 2906
+servos[3]: 2065
+servos[4]: 4
+dxl_pos[0]: 1350
+dxl_pos[1]: 1292
+dxl_pos[2]: 2629
+dxl_pos[3]: 1583
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87014
+servos[0]: 1819
+servos[1]: 1563
+servos[2]: 2906
+servos[3]: 2065
+servos[4]: 4
+dxl_pos[0]: 1448
+dxl_pos[1]: 1330
+dxl_pos[2]: 2723
+dxl_pos[3]: 1687
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87028
+servos[0]: 1819
+servos[1]: 1563
+servos[2]: 2906
+servos[3]: 2065
+servos[4]: 4
+dxl_pos[0]: 1572
+dxl_pos[1]: 1390
+dxl_pos[2]: 2796
+dxl_pos[3]: 1813
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87043
+servos[0]: 2133
+servos[1]: 1792
+servos[2]: 2923
+servos[3]: 2425
+servos[4]: 4
+dxl_pos[0]: 1685
+dxl_pos[1]: 1456
+dxl_pos[2]: 2856
+dxl_pos[3]: 1926
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87058
+servos[0]: 2337
+servos[1]: 1881
+servos[2]: 2944
+servos[3]: 2628
+servos[4]: 4
+dxl_pos[0]: 1776
+dxl_pos[1]: 1519
+dxl_pos[2]: 2891
+dxl_pos[3]: 2010
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87073
+servos[0]: 2431
+servos[1]: 1888
+servos[2]: 2952
+servos[3]: 2711
+servos[4]: 4
+dxl_pos[0]: 1902
+dxl_pos[1]: 1611
+dxl_pos[2]: 2916
+dxl_pos[3]: 2135
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87088
+servos[0]: 2532
+servos[1]: 1875
+servos[2]: 2951
+servos[3]: 2776
+servos[4]: 4
+dxl_pos[0]: 2069
+dxl_pos[1]: 1719
+dxl_pos[2]: 2935
+dxl_pos[3]: 2312
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87103
+servos[0]: 2532
+servos[1]: 1875
+servos[2]: 2951
+servos[3]: 2776
+servos[4]: 4
+dxl_pos[0]: 2231
+dxl_pos[1]: 1803
+dxl_pos[2]: 2947
+dxl_pos[3]: 2480
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87118
+servos[0]: 2728
+servos[1]: 1800
+servos[2]: 2898
+servos[3]: 2875
+servos[4]: 4
+dxl_pos[0]: 2368
+dxl_pos[1]: 1853
+dxl_pos[2]: 2951
+dxl_pos[3]: 2611
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87133
+servos[0]: 2701
+servos[1]: 1698
+servos[2]: 2826
+servos[3]: 2905
+servos[4]: 4
+dxl_pos[0]: 2473
+dxl_pos[1]: 1864
+dxl_pos[2]: 2950
+dxl_pos[3]: 2702
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87148
+servos[0]: 2658
+servos[1]: 1619
+servos[2]: 2823
+servos[3]: 2874
+servos[4]: 4
+dxl_pos[0]: 2574
+dxl_pos[1]: 1848
+dxl_pos[2]: 2939
+dxl_pos[3]: 2774
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87163
+servos[0]: 2541
+servos[1]: 1449
+servos[2]: 2796
+servos[3]: 2776
+servos[4]: 4
+dxl_pos[0]: 2638
+dxl_pos[1]: 1799
+dxl_pos[2]: 2914
+dxl_pos[3]: 2826
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87178
+servos[0]: 2460
+servos[1]: 1373
+servos[2]: 2772
+servos[3]: 2703
+servos[4]: 4
+dxl_pos[0]: 2651
+dxl_pos[1]: 1727
+dxl_pos[2]: 2887
+dxl_pos[3]: 2843
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87193
+servos[0]: 2369
+servos[1]: 1310
+servos[2]: 2738
+servos[3]: 2622
+servos[4]: 4
+dxl_pos[0]: 2623
+dxl_pos[1]: 1635
+dxl_pos[2]: 2864
+dxl_pos[3]: 2826
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87208
+servos[0]: 2168
+servos[1]: 1219
+servos[2]: 2627
+servos[3]: 2420
+servos[4]: 4
+dxl_pos[0]: 2572
+dxl_pos[1]: 1539
+dxl_pos[2]: 2841
+dxl_pos[3]: 2788
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87223
+servos[0]: 2072
+servos[1]: 1194
+servos[2]: 2558
+servos[3]: 2313
+servos[4]: 4
+dxl_pos[0]: 2507
+dxl_pos[1]: 1452
+dxl_pos[2]: 2814
+dxl_pos[3]: 2723
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87238
+servos[0]: 1954
+servos[1]: 1179
+servos[2]: 2483
+servos[3]: 2209
+servos[4]: 4
+dxl_pos[0]: 2404
+dxl_pos[1]: 1360
+dxl_pos[2]: 2765
+dxl_pos[3]: 2622
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87253
+servos[0]: 1710
+servos[1]: 1172
+servos[2]: 2328
+servos[3]: 2000
+servos[4]: 4
+dxl_pos[0]: 2274
+dxl_pos[1]: 1277
+dxl_pos[2]: 2699
+dxl_pos[3]: 2497
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87268
+servos[0]: 1710
+servos[1]: 1172
+servos[2]: 2328
+servos[3]: 2000
+servos[4]: 4
+dxl_pos[0]: 2134
+dxl_pos[1]: 1218
+dxl_pos[2]: 2612
+dxl_pos[3]: 2360
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87283
+servos[0]: 1502
+servos[1]: 1154
+servos[2]: 2224
+servos[3]: 1798
+servos[4]: 4
+dxl_pos[0]: 2062
+dxl_pos[1]: 1200
+dxl_pos[2]: 2564
+dxl_pos[3]: 2291
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87298
+servos[0]: 1344
+servos[1]: 1143
+servos[2]: 2211
+servos[3]: 1607
+servos[4]: 4
+dxl_pos[0]: 1845
+dxl_pos[1]: 1169
+dxl_pos[2]: 2414
+dxl_pos[3]: 2101
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87313
+servos[0]: 1290
+servos[1]: 1147
+servos[2]: 2235
+servos[3]: 1507
+servos[4]: 4
+dxl_pos[0]: 1709
+dxl_pos[1]: 1159
+dxl_pos[2]: 2331
+dxl_pos[3]: 1980
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87328
+servos[0]: 1241
+servos[1]: 1178
+servos[2]: 2278
+servos[3]: 1398
+servos[4]: 4
+dxl_pos[0]: 1571
+dxl_pos[1]: 1152
+dxl_pos[2]: 2273
+dxl_pos[3]: 1837
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87343
+servos[0]: 1183
+servos[1]: 1258
+servos[2]: 2361
+servos[3]: 1370
+servos[4]: 4
+dxl_pos[0]: 1509
+dxl_pos[1]: 1151
+dxl_pos[2]: 2258
+dxl_pos[3]: 1769
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87358
+servos[0]: 1183
+servos[1]: 1258
+servos[2]: 2361
+servos[3]: 1370
+servos[4]: 4
+dxl_pos[0]: 1337
+dxl_pos[1]: 1161
+dxl_pos[2]: 2260
+dxl_pos[3]: 1560
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87373
+servos[0]: 1204
+servos[1]: 1269
+servos[2]: 2440
+servos[3]: 1418
+servos[4]: 4
+dxl_pos[0]: 1260
+dxl_pos[1]: 1183
+dxl_pos[2]: 2288
+dxl_pos[3]: 1463
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87388
+servos[0]: 1284
+servos[1]: 1287
+servos[2]: 2594
+servos[3]: 1511
+servos[4]: 4
+dxl_pos[0]: 1218
+dxl_pos[1]: 1207
+dxl_pos[2]: 2322
+dxl_pos[3]: 1417
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87402
+servos[0]: 1348
+servos[1]: 1308
+servos[2]: 2681
+servos[3]: 1586
+servos[4]: 4
+dxl_pos[0]: 1214
+dxl_pos[1]: 1229
+dxl_pos[2]: 2372
+dxl_pos[3]: 1418
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87417
+servos[0]: 1525
+servos[1]: 1383
+servos[2]: 2814
+servos[3]: 1780
+servos[4]: 4
+dxl_pos[0]: 1233
+dxl_pos[1]: 1250
+dxl_pos[2]: 2446
+dxl_pos[3]: 1446
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87432
+servos[0]: 1525
+servos[1]: 1383
+servos[2]: 2814
+servos[3]: 1780
+servos[4]: 4
+dxl_pos[0]: 1281
+dxl_pos[1]: 1270
+dxl_pos[2]: 2541
+dxl_pos[3]: 1503
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87447
+servos[0]: 1736
+servos[1]: 1505
+servos[2]: 2890
+servos[3]: 1980
+servos[4]: 4
+dxl_pos[0]: 1364
+dxl_pos[1]: 1294
+dxl_pos[2]: 2643
+dxl_pos[3]: 1598
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87462
+servos[0]: 1951
+servos[1]: 1662
+servos[2]: 2919
+servos[3]: 2215
+servos[4]: 4
+dxl_pos[0]: 1447
+dxl_pos[1]: 1325
+dxl_pos[2]: 2722
+dxl_pos[3]: 1688
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87477
+servos[0]: 1951
+servos[1]: 1662
+servos[2]: 2919
+servos[3]: 2215
+servos[4]: 4
+dxl_pos[0]: 1561
+dxl_pos[1]: 1386
+dxl_pos[2]: 2794
+dxl_pos[3]: 1805
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87492
+servos[0]: 1951
+servos[1]: 1662
+servos[2]: 2919
+servos[3]: 2215
+servos[4]: 4
+dxl_pos[0]: 1699
+dxl_pos[1]: 1471
+dxl_pos[2]: 2856
+dxl_pos[3]: 1945
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87507
+servos[0]: 2357
+servos[1]: 1884
+servos[2]: 2946
+servos[3]: 2647
+servos[4]: 4
+dxl_pos[0]: 1821
+dxl_pos[1]: 1554
+dxl_pos[2]: 2895
+dxl_pos[3]: 2062
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87522
+servos[0]: 2543
+servos[1]: 1872
+servos[2]: 2950
+servos[3]: 2783
+servos[4]: 4
+dxl_pos[0]: 1917
+dxl_pos[1]: 1626
+dxl_pos[2]: 2918
+dxl_pos[3]: 2151
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87537
+servos[0]: 2644
+servos[1]: 1838
+servos[2]: 2935
+servos[3]: 2829
+servos[4]: 4
+dxl_pos[0]: 2056
+dxl_pos[1]: 1719
+dxl_pos[2]: 2935
+dxl_pos[3]: 2289
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87552
+servos[0]: 2644
+servos[1]: 1838
+servos[2]: 2935
+servos[3]: 2829
+servos[4]: 4
+dxl_pos[0]: 2226
+dxl_pos[1]: 1792
+dxl_pos[2]: 2945
+dxl_pos[3]: 2459
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87567
+servos[0]: 2701
+servos[1]: 1699
+servos[2]: 2826
+servos[3]: 2905
+servos[4]: 4
+dxl_pos[0]: 2397
+dxl_pos[1]: 1830
+dxl_pos[2]: 2946
+dxl_pos[3]: 2613
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87582
+servos[0]: 2658
+servos[1]: 1620
+servos[2]: 2823
+servos[3]: 2875
+servos[4]: 4
+dxl_pos[0]: 2534
+dxl_pos[1]: 1834
+dxl_pos[2]: 2943
+dxl_pos[3]: 2727
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87597
+servos[0]: 2549
+servos[1]: 1458
+servos[2]: 2798
+servos[3]: 2782
+servos[4]: 4
+dxl_pos[0]: 2633
+dxl_pos[1]: 1810
+dxl_pos[2]: 2927
+dxl_pos[3]: 2807
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87612
+servos[0]: 2549
+servos[1]: 1458
+servos[2]: 2798
+servos[3]: 2782
+servos[4]: 4
+dxl_pos[0]: 2665
+dxl_pos[1]: 1757
+dxl_pos[2]: 2902
+dxl_pos[3]: 2847
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 87627
+servos[0]: 2376
+servos[1]: 1315
+servos[2]: 2741
+servos[3]: 2628
+servos[4]: 4
+dxl_pos[0]: 2643
+dxl_pos[1]: 1672
+dxl_pos[2]: 2877
+dxl_pos[3]: 2861
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87642
+servos[0]: 2275
+servos[1]: 1260
+servos[2]: 2690
+servos[3]: 2531
+servos[4]: 4
+dxl_pos[0]: 2594
+dxl_pos[1]: 1577
+dxl_pos[2]: 2852
+dxl_pos[3]: 2863
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87657
+servos[0]: 2173
+servos[1]: 1221
+servos[2]: 2631
+servos[3]: 2426
+servos[4]: 4
+dxl_pos[0]: 2516
+dxl_pos[1]: 1476
+dxl_pos[2]: 2826
+dxl_pos[3]: 2863
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87671
+servos[0]: 2173
+servos[1]: 1221
+servos[2]: 2631
+servos[3]: 2426
+servos[4]: 4
+dxl_pos[0]: 2428
+dxl_pos[1]: 1388
+dxl_pos[2]: 2801
+dxl_pos[3]: 2863
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87686
+servos[0]: 2173
+servos[1]: 1221
+servos[2]: 2631
+servos[3]: 2426
+servos[4]: 4
+dxl_pos[0]: 2328
+dxl_pos[1]: 1303
+dxl_pos[2]: 2793
+dxl_pos[3]: 2862
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87701
+servos[0]: 1944
+servos[1]: 1179
+servos[2]: 2477
+servos[3]: 2201
+servos[4]: 4
+dxl_pos[0]: 2249
+dxl_pos[1]: 1251
+dxl_pos[2]: 2790
+dxl_pos[3]: 2808
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87716
+servos[0]: 1598
+servos[1]: 1167
+servos[2]: 2264
+servos[3]: 1894
+servos[4]: 4
+dxl_pos[0]: 2192
+dxl_pos[1]: 1223
+dxl_pos[2]: 2757
+dxl_pos[3]: 2679
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87731
+servos[0]: 1494
+servos[1]: 1153
+servos[2]: 2221
+servos[3]: 1790
+servos[4]: 4
+dxl_pos[0]: 2101
+dxl_pos[1]: 1199
+dxl_pos[2]: 2668
+dxl_pos[3]: 2497
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87746
+servos[0]: 1286
+servos[1]: 1148
+servos[2]: 2238
+servos[3]: 1500
+servos[4]: 4
+dxl_pos[0]: 1949
+dxl_pos[1]: 1179
+dxl_pos[2]: 2531
+dxl_pos[3]: 2280
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87761
+servos[0]: 1238
+servos[1]: 1180
+servos[2]: 2280
+servos[3]: 1394
+servos[4]: 4
+dxl_pos[0]: 1774
+dxl_pos[1]: 1161
+dxl_pos[2]: 2395
+dxl_pos[3]: 2073
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87775
+servos[0]: 1238
+servos[1]: 1180
+servos[2]: 2280
+servos[3]: 1394
+servos[4]: 4
+dxl_pos[0]: 1604
+dxl_pos[1]: 1153
+dxl_pos[2]: 2308
+dxl_pos[3]: 1872
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87789
+servos[0]: 1192
+servos[1]: 1223
+servos[2]: 2319
+servos[3]: 1338
+servos[4]: 4
+dxl_pos[0]: 1451
+dxl_pos[1]: 1157
+dxl_pos[2]: 2276
+dxl_pos[3]: 1682
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87804
+servos[0]: 1184
+servos[1]: 1261
+servos[2]: 2368
+servos[3]: 1376
+servos[4]: 4
+dxl_pos[0]: 1332
+dxl_pos[1]: 1159
+dxl_pos[2]: 2272
+dxl_pos[3]: 1534
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87818
+servos[0]: 1360
+servos[1]: 1312
+servos[2]: 2693
+servos[3]: 1600
+servos[4]: 4
+dxl_pos[0]: 1291
+dxl_pos[1]: 1163
+dxl_pos[2]: 2275
+dxl_pos[3]: 1482
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87833
+servos[0]: 1444
+servos[1]: 1343
+servos[2]: 2765
+servos[3]: 1694
+servos[4]: 4
+dxl_pos[0]: 1214
+dxl_pos[1]: 1196
+dxl_pos[2]: 2307
+dxl_pos[3]: 1404
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87848
+servos[0]: 1444
+servos[1]: 1343
+servos[2]: 2765
+servos[3]: 1694
+servos[4]: 4
+dxl_pos[0]: 1218
+dxl_pos[1]: 1224
+dxl_pos[2]: 2376
+dxl_pos[3]: 1421
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87862
+servos[0]: 1643
+servos[1]: 1448
+servos[2]: 2865
+servos[3]: 1898
+servos[4]: 4
+dxl_pos[0]: 1270
+dxl_pos[1]: 1258
+dxl_pos[2]: 2488
+dxl_pos[3]: 1497
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87877
+servos[0]: 1746
+servos[1]: 1512
+servos[2]: 2892
+servos[3]: 1989
+servos[4]: 4
+dxl_pos[0]: 1348
+dxl_pos[1]: 1291
+dxl_pos[2]: 2606
+dxl_pos[3]: 1590
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87892
+servos[0]: 1854
+servos[1]: 1588
+servos[2]: 2912
+servos[3]: 2104
+servos[4]: 4
+dxl_pos[0]: 1438
+dxl_pos[1]: 1325
+dxl_pos[2]: 2709
+dxl_pos[3]: 1702
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87907
+servos[0]: 1962
+servos[1]: 1671
+servos[2]: 2920
+servos[3]: 2230
+servos[4]: 4
+dxl_pos[0]: 1552
+dxl_pos[1]: 1378
+dxl_pos[2]: 2789
+dxl_pos[3]: 1820
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87922
+servos[0]: 2256
+servos[1]: 1856
+servos[2]: 2934
+servos[3]: 2552
+servos[4]: 4
+dxl_pos[0]: 1676
+dxl_pos[1]: 1454
+dxl_pos[2]: 2852
+dxl_pos[3]: 1940
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87937
+servos[0]: 2349
+servos[1]: 1883
+servos[2]: 2946
+servos[3]: 2640
+servos[4]: 4
+dxl_pos[0]: 1813
+dxl_pos[1]: 1550
+dxl_pos[2]: 2895
+dxl_pos[3]: 2075
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87952
+servos[0]: 2349
+servos[1]: 1883
+servos[2]: 2946
+servos[3]: 2640
+servos[4]: 4
+dxl_pos[0]: 1967
+dxl_pos[1]: 1660
+dxl_pos[2]: 2921
+dxl_pos[3]: 2245
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87967
+servos[0]: 2437
+servos[1]: 1888
+servos[2]: 2952
+servos[3]: 2715
+servos[4]: 4
+dxl_pos[0]: 2129
+dxl_pos[1]: 1760
+dxl_pos[2]: 2938
+dxl_pos[3]: 2408
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87982
+servos[0]: 2640
+servos[1]: 1840
+servos[2]: 2936
+servos[3]: 2827
+servos[4]: 4
+dxl_pos[0]: 2257
+dxl_pos[1]: 1832
+dxl_pos[2]: 2946
+dxl_pos[3]: 2533
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 87996
+servos[0]: 2754
+servos[1]: 1759
+servos[2]: 2853
+servos[3]: 2910
+servos[4]: 4
+dxl_pos[0]: 2360
+dxl_pos[1]: 1865
+dxl_pos[2]: 2948
+dxl_pos[3]: 2625
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 88011
+servos[0]: 2700
+servos[1]: 1697
+servos[2]: 2826
+servos[3]: 2904
+servos[4]: 4
+dxl_pos[0]: 2478
+dxl_pos[1]: 1860
+dxl_pos[2]: 2944
+dxl_pos[3]: 2715
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88026
+servos[0]: 2700
+servos[1]: 1697
+servos[2]: 2826
+servos[3]: 2904
+servos[4]: 4
+dxl_pos[0]: 2591
+dxl_pos[1]: 1834
+dxl_pos[2]: 2929
+dxl_pos[3]: 2791
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 88040
+servos[0]: 2700
+servos[1]: 1697
+servos[2]: 2826
+servos[3]: 2904
+servos[4]: 4
+dxl_pos[0]: 2656
+dxl_pos[1]: 1796
+dxl_pos[2]: 2907
+dxl_pos[3]: 2839
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88055
+servos[0]: 2370
+servos[1]: 1311
+servos[2]: 2739
+servos[3]: 2623
+servos[4]: 4
+dxl_pos[0]: 2684
+dxl_pos[1]: 1760
+dxl_pos[2]: 2887
+dxl_pos[3]: 2870
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88070
+servos[0]: 2370
+servos[1]: 1311
+servos[2]: 2739
+servos[3]: 2623
+servos[4]: 4
+dxl_pos[0]: 2676
+dxl_pos[1]: 1717
+dxl_pos[2]: 2869
+dxl_pos[3]: 2869
+dxl_pos[4]: 4
+dxl_on: 1
+
+elapsed: 88084
+servos[0]: 2272
+servos[1]: 1259
+servos[2]: 2689
+servos[3]: 2528
+servos[4]: 4
+dxl_pos[0]: 2611
+dxl_pos[1]: 1619
+dxl_pos[2]: 2843
+dxl_pos[3]: 2812
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88099
+servos[0]: 2083
+servos[1]: 1196
+servos[2]: 2566
+servos[3]: 2324
+servos[4]: 4
+dxl_pos[0]: 2520
+dxl_pos[1]: 1502
+dxl_pos[2]: 2814
+dxl_pos[3]: 2737
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88114
+servos[0]: 2083
+servos[1]: 1196
+servos[2]: 2566
+servos[3]: 2324
+servos[4]: 4
+dxl_pos[0]: 2416
+dxl_pos[1]: 1394
+dxl_pos[2]: 2776
+dxl_pos[3]: 2645
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88128
+servos[0]: 1963
+servos[1]: 1180
+servos[2]: 2489
+servos[3]: 2216
+servos[4]: 4
+dxl_pos[0]: 2305
+dxl_pos[1]: 1302
+dxl_pos[2]: 2722
+dxl_pos[3]: 2537
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88143
+servos[0]: 1844
+servos[1]: 1174
+servos[2]: 2411
+servos[3]: 2115
+servos[4]: 4
+dxl_pos[0]: 2191
+dxl_pos[1]: 1235
+dxl_pos[2]: 2657
+dxl_pos[3]: 2422
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88158
+servos[0]: 1436
+servos[1]: 1147
+servos[2]: 2209
+servos[3]: 1726
+servos[4]: 4
+dxl_pos[0]: 2082
+dxl_pos[1]: 1195
+dxl_pos[2]: 2586
+dxl_pos[3]: 2317
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88173
+servos[0]: 1361
+servos[1]: 1143
+servos[2]: 2208
+servos[3]: 1632
+servos[4]: 4
+dxl_pos[0]: 1964
+dxl_pos[1]: 1173
+dxl_pos[2]: 2501
+dxl_pos[3]: 2208
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88188
+servos[0]: 1304
+servos[1]: 1145
+servos[2]: 2226
+servos[3]: 1537
+servos[4]: 4
+dxl_pos[0]: 1800
+dxl_pos[1]: 1156
+dxl_pos[2]: 2390
+dxl_pos[3]: 2053
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88203
+servos[0]: 1304
+servos[1]: 1145
+servos[2]: 2226
+servos[3]: 1537
+servos[4]: 4
+dxl_pos[0]: 1628
+dxl_pos[1]: 1147
+dxl_pos[2]: 2303
+dxl_pos[3]: 1890
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88218
+servos[0]: 1304
+servos[1]: 1145
+servos[2]: 2226
+servos[3]: 1537
+servos[4]: 4
+dxl_pos[0]: 1482
+dxl_pos[1]: 1145
+dxl_pos[2]: 2254
+dxl_pos[3]: 1743
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88233
+servos[0]: 1227
+servos[1]: 1272
+servos[2]: 2490
+servos[3]: 1444
+servos[4]: 4
+dxl_pos[0]: 1384
+dxl_pos[1]: 1145
+dxl_pos[2]: 2235
+dxl_pos[3]: 1638
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88248
+servos[0]: 1227
+servos[1]: 1272
+servos[2]: 2490
+servos[3]: 1444
+servos[4]: 4
+dxl_pos[0]: 1319
+dxl_pos[1]: 1151
+dxl_pos[2]: 2239
+dxl_pos[3]: 1566
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88262
+servos[0]: 1269
+servos[1]: 1282
+servos[2]: 2564
+servos[3]: 1488
+servos[4]: 4
+dxl_pos[0]: 1271
+dxl_pos[1]: 1174
+dxl_pos[2]: 2276
+dxl_pos[3]: 1498
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88277
+servos[0]: 1400
+servos[1]: 1325
+servos[2]: 2729
+servos[3]: 1644
+servos[4]: 4
+dxl_pos[0]: 1247
+dxl_pos[1]: 1203
+dxl_pos[2]: 2346
+dxl_pos[3]: 1467
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88292
+servos[0]: 1487
+servos[1]: 1363
+servos[2]: 2793
+servos[3]: 1741
+servos[4]: 4
+dxl_pos[0]: 1253
+dxl_pos[1]: 1233
+dxl_pos[2]: 2432
+dxl_pos[3]: 1477
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88306
+servos[0]: 1581
+servos[1]: 1413
+servos[2]: 2842
+servos[3]: 1839
+servos[4]: 4
+dxl_pos[0]: 1282
+dxl_pos[1]: 1262
+dxl_pos[2]: 2523
+dxl_pos[3]: 1529
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88321
+servos[0]: 1686
+servos[1]: 1474
+servos[2]: 2879
+servos[3]: 1937
+servos[4]: 4
+dxl_pos[0]: 1356
+dxl_pos[1]: 1296
+dxl_pos[2]: 2631
+dxl_pos[3]: 1616
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88336
+servos[0]: 1789
+servos[1]: 1542
+servos[2]: 2901
+servos[3]: 2032
+servos[4]: 4
+dxl_pos[0]: 1444
+dxl_pos[1]: 1326
+dxl_pos[2]: 2722
+dxl_pos[3]: 1711
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88351
+servos[0]: 2097
+servos[1]: 1768
+servos[2]: 2922
+servos[3]: 2387
+servos[4]: 4
+dxl_pos[0]: 1531
+dxl_pos[1]: 1366
+dxl_pos[2]: 2792
+dxl_pos[3]: 1813
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88366
+servos[0]: 2194
+servos[1]: 1827
+servos[2]: 2927
+servos[3]: 2490
+servos[4]: 4
+dxl_pos[0]: 1644
+dxl_pos[1]: 1436
+dxl_pos[2]: 2849
+dxl_pos[3]: 1924
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88381
+servos[0]: 2381
+servos[1]: 1887
+servos[2]: 2949
+servos[3]: 2670
+servos[4]: 4
+dxl_pos[0]: 1798
+dxl_pos[1]: 1543
+dxl_pos[2]: 2892
+dxl_pos[3]: 2074
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88396
+servos[0]: 2477
+servos[1]: 1884
+servos[2]: 2952
+servos[3]: 2744
+servos[4]: 4
+dxl_pos[0]: 1964
+dxl_pos[1]: 1661
+dxl_pos[2]: 2920
+dxl_pos[3]: 2240
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88410
+servos[0]: 2574
+servos[1]: 1864
+servos[2]: 2948
+servos[3]: 2798
+servos[4]: 4
+dxl_pos[0]: 2125
+dxl_pos[1]: 1757
+dxl_pos[2]: 2939
+dxl_pos[3]: 2402
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88425
+servos[0]: 2676
+servos[1]: 1824
+servos[2]: 2925
+servos[3]: 2843
+servos[4]: 4
+dxl_pos[0]: 2279
+dxl_pos[1]: 1831
+dxl_pos[2]: 2948
+dxl_pos[3]: 2556
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88440
+servos[0]: 2734
+servos[1]: 1741
+servos[2]: 2840
+servos[3]: 2913
+servos[4]: 4
+dxl_pos[0]: 2419
+dxl_pos[1]: 1857
+dxl_pos[2]: 2949
+dxl_pos[3]: 2673
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88455
+servos[0]: 2684
+servos[1]: 1670
+servos[2]: 2826
+servos[3]: 2895
+servos[4]: 4
+dxl_pos[0]: 2546
+dxl_pos[1]: 1848
+dxl_pos[2]: 2940
+dxl_pos[3]: 2762
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88469
+servos[0]: 2684
+servos[1]: 1670
+servos[2]: 2826
+servos[3]: 2895
+servos[4]: 4
+dxl_pos[0]: 2630
+dxl_pos[1]: 1816
+dxl_pos[2]: 2919
+dxl_pos[3]: 2822
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88484
+servos[0]: 2592
+servos[1]: 1511
+servos[2]: 2809
+servos[3]: 2815
+servos[4]: 4
+dxl_pos[0]: 2670
+dxl_pos[1]: 1769
+dxl_pos[2]: 2896
+dxl_pos[3]: 2859
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88499
+servos[0]: 2329
+servos[1]: 1287
+servos[2]: 2719
+servos[3]: 2584
+servos[4]: 4
+dxl_pos[0]: 2675
+dxl_pos[1]: 1748
+dxl_pos[2]: 2887
+dxl_pos[3]: 2868
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88514
+servos[0]: 2329
+servos[1]: 1287
+servos[2]: 2719
+servos[3]: 2584
+servos[4]: 4
+dxl_pos[0]: 2649
+dxl_pos[1]: 1661
+dxl_pos[2]: 2863
+dxl_pos[3]: 2852
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88529
+servos[0]: 2129
+servos[1]: 1207
+servos[2]: 2599
+servos[3]: 2375
+servos[4]: 4
+dxl_pos[0]: 2577
+dxl_pos[1]: 1553
+dxl_pos[2]: 2831
+dxl_pos[3]: 2782
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88544
+servos[0]: 2025
+servos[1]: 1187
+servos[2]: 2529
+servos[3]: 2271
+servos[4]: 4
+dxl_pos[0]: 2473
+dxl_pos[1]: 1439
+dxl_pos[2]: 2797
+dxl_pos[3]: 2689
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88559
+servos[0]: 2025
+servos[1]: 1187
+servos[2]: 2529
+servos[3]: 2271
+servos[4]: 4
+dxl_pos[0]: 2351
+dxl_pos[1]: 1333
+dxl_pos[2]: 2745
+dxl_pos[3]: 2575
+dxl_pos[4]: 5
+dxl_on: 1
+
+elapsed: 88573
+servos[0]: 1897
+servos[1]: 1176
+servos[2]: 2445
+servos[3]: 2160
+servos[4]: 4
+dxl_pos[0]: 2232
+dxl_pos[1]: 1258
+dxl_pos[2]: 2685
+dxl_pos[3]: 2462
+dxl_pos[4]: 5
+dxl_on: 1
+

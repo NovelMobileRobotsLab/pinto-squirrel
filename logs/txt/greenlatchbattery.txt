@@ -1,0 +1,765 @@
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:37
+ntcB:41
+vbus:11.30
+elapsed:415287
+cur_tot:7502.09
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.26
+elapsed:415300
+cur_tot:14470.45
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.23
+elapsed:415312
+cur_tot:13720.81
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.20
+elapsed:415326
+cur_tot:14481.82
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.20
+elapsed:415326
+cur_tot:14481.82
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:37
+ntcB:41
+vbus:11.17
+elapsed:415339
+cur_tot:10314.36
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.14
+elapsed:415352
+cur_tot:8938.58
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.11
+elapsed:415365
+cur_tot:10398.89
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.04   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:42
+vbus:11.08
+elapsed:415378
+cur_tot:8878.34
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.05   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.06
+elapsed:415390
+cur_tot:10207.06
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.05   -1.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-510    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.04
+elapsed:415404
+cur_tot:10637.45
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.09  -0.58     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-298    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.04
+elapsed:415404
+cur_tot:10637.45
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.09  -0.58     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-298    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.03
+elapsed:415417
+cur_tot:15619.06
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.09  -0.58     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-298    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.01
+elapsed:415430
+cur_tot:9709.17
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.09  -0.58     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-298    0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:10.98
+elapsed:415442
+cur_tot:10527.00
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.01  -0.15     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-74   0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:10.96
+elapsed:415455
+cur_tot:13037.99
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+ -0.01  -0.15     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [-74   0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:10.98
+elapsed:415468
+cur_tot:6824.71
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0  -0.04     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:10.99
+elapsed:415482
+cur_tot:4917.84
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:10.99
+elapsed:415482
+cur_tot:4917.84
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.01
+elapsed:415495
+cur_tot:4121.23
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.05
+elapsed:415507
+cur_tot:1957.88
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.08
+elapsed:415521
+cur_tot:998.95
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:39
+ntcB:41
+vbus:11.12
+elapsed:415533
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.16
+elapsed:415547
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.16
+elapsed:415547
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.20
+elapsed:415560
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.23
+elapsed:415573
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.26
+elapsed:415586
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:42
+vbus:11.30
+elapsed:415599
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.33
+elapsed:415612
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.35
+elapsed:415625
+cur_tot:0.00
+5
+
+
+
+
+_—————____—————____—————____—————
+ leftx  lefty  rightx  righty
+   0.0   -0.0     0.0    -0.0
+s: [1848  769 3330 2584 2048]
+m: [0 0]
+ a:00000
+
+station_ok:1
+espnow_ok:1
+estopped:0
+motor_power_on:1
+dxl_pos[0]:0
+dxl_pos[1]:0
+dxl_pos[2]:0
+dxl_pos[3]:0
+dxl_pos[4]:0
+ntcA:41
+ntcB:41
+vbus:11.35
+elapsed:415625
+cur_tot:0.00
