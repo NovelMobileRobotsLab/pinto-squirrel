@@ -1,0 +1,497 @@
+
+elapsed: 10791
+force: -0.0091
+
+
+elapsed: 10801
+force: -0.0098
+
+
+elapsed: 10811
+force: -0.0106
+
+
+elapsed: 10821
+force: -0.0114
+
+
+elapsed: 10831
+force: -0.0120
+
+
+elapsed: 10841
+force: -0.0122
+
+
+elapsed: 10851
+force: -0.0112
+
+
+elapsed: 10861
+force: -0.0104
+
+
+elapsed: 10871
+force: -0.0092
+
+
+elapsed: 10881
+force: -0.0079
+
+
+elapsed: 10891
+force: -0.0057
+
+
+elapsed: 10901
+force: -0.0050
+
+
+elapsed: 10911
+force: -0.0023
+
+
+elapsed: 10921
+force: 0.0033
+
+
+elapsed: 10931
+force: 0.0119
+
+
+elapsed: 10941
+force: 0.0195
+
+
+elapsed: 10951
+force: 0.0285
+
+
+elapsed: 10961
+force: 0.0414
+
+
+elapsed: 10971
+force: 0.0563
+
+
+elapsed: 10981
+force: 0.0733
+
+
+elapsed: 10991
+force: 0.0991
+
+
+elapsed: 11001
+force: 0.1510
+
+
+elapsed: 11011
+force: 0.2313
+
+
+elapsed: 11021
+force: 0.3467
+
+
+elapsed: 11031
+force: 0.5061
+
+
+elapsed: 11041
+force: 0.6992
+
+
+elapsed: 11051
+force: 0.9477
+
+
+elapsed: 11061
+force: 1.2567
+
+
+elapsed: 11071
+force: 1.6074
+
+
+elapsed: 11081
+force: 1.9897
+
+
+elapsed: 11091
+force: 2.3577
+
+
+elapsed: 11101
+force: 2.6873
+
+
+elapsed: 11111
+force: 3.0097
+
+
+elapsed: 11121
+force: 3.3229
+
+
+elapsed: 11131
+force: 3.6178
+
+
+elapsed: 11141
+force: 3.8718
+
+
+elapsed: 11151
+force: 4.0563
+
+
+elapsed: 11161
+force: 4.2416
+
+
+elapsed: 11171
+force: 4.4688
+
+
+elapsed: 11181
+force: 4.6326
+
+
+elapsed: 11191
+force: 4.7754
+
+
+elapsed: 11201
+force: 4.8964
+
+
+elapsed: 11211
+force: 5.0261
+
+
+elapsed: 11221
+force: 5.1258
+
+
+elapsed: 11231
+force: 5.2336
+
+
+elapsed: 11241
+force: 5.3297
+
+
+elapsed: 11251
+force: 5.3843
+
+
+elapsed: 11261
+force: 5.4153
+
+
+elapsed: 11271
+force: 5.4308
+
+
+elapsed: 11281
+force: 5.4451
+
+
+elapsed: 11291
+force: 5.4104
+
+
+elapsed: 11301
+force: 5.2926
+
+
+elapsed: 11311
+force: 5.0767
+
+
+elapsed: 11321
+force: 4.7325
+
+
+elapsed: 11331
+force: 4.2656
+
+
+elapsed: 11341
+force: 3.6867
+
+
+elapsed: 11351
+force: 3.0487
+
+
+elapsed: 11361
+force: 2.4105
+
+
+elapsed: 11371
+force: 1.8360
+
+
+elapsed: 11381
+force: 1.3488
+
+
+elapsed: 11391
+force: 0.9377
+
+
+elapsed: 11401
+force: 0.5984
+
+
+elapsed: 11411
+force: 0.3074
+
+
+elapsed: 11421
+force: 0.0968
+
+
+elapsed: 11431
+force: -0.0070
+
+
+elapsed: 11441
+force: -0.0262
+
+
+elapsed: 11451
+force: -0.0173
+
+
+elapsed: 11461
+force: -0.0079
+
+
+elapsed: 11471
+force: -0.0100
+
+
+elapsed: 11481
+force: -0.0094
+
+
+elapsed: 11491
+force: -0.0082
+
+
+elapsed: 11501
+force: -0.0095
+
+
+elapsed: 11511
+force: -0.0088
+
+
+elapsed: 11521
+force: -0.0081
+
+
+elapsed: 11531
+force: -0.0072
+
+
+elapsed: 11541
+force: -0.0068
+
+
+elapsed: 11551
+force: -0.0065
+
+
+elapsed: 11561
+force: -0.0059
+
+
+elapsed: 11571
+force: -0.0055
+
+
+elapsed: 11581
+force: -0.0053
+
+
+elapsed: 11591
+force: -0.0053
+
+
+elapsed: 11601
+force: -0.0049
+
+
+elapsed: 11611
+force: -0.0049
+
+
+elapsed: 11621
+force: -0.0048
+
+
+elapsed: 11631
+force: -0.0046
+
+
+elapsed: 11641
+force: -0.0045
+
+
+elapsed: 11651
+force: -0.0049
+
+
+elapsed: 11661
+force: -0.0048
+
+
+elapsed: 11671
+force: -0.0047
+
+
+elapsed: 11681
+force: -0.0046
+
+
+elapsed: 11691
+force: -0.0042
+
+
+elapsed: 11701
+force: -0.0040
+
+
+elapsed: 11711
+force: -0.0038
+
+
+elapsed: 11721
+force: -0.0036
+
+
+elapsed: 11731
+force: -0.0034
+
+
+elapsed: 11741
+force: -0.0032
+
+
+elapsed: 11751
+force: -0.0029
+
+
+elapsed: 11761
+force: -0.0029
+
+
+elapsed: 11771
+force: -0.0028
+
+
+elapsed: 11781
+force: -0.0026
+
+
+elapsed: 11791
+force: -0.0025
+
+
+elapsed: 11801
+force: -0.0028
+
+
+elapsed: 11811
+force: -0.0024
+
+
+elapsed: 11821
+force: -0.0027
+
+
+elapsed: 11831
+force: -0.0021
+
+
+elapsed: 11841
+force: -0.0018
+
+
+elapsed: 11851
+force: -0.0019
+
+
+elapsed: 11861
+force: -0.0017
+
+
+elapsed: 11871
+force: -0.0019
+
+
+elapsed: 11881
+force: -0.0015
+
+
+elapsed: 11891
+force: -0.0016
+
+
+elapsed: 11901
+force: -0.0018
+
+
+elapsed: 11911
+force: -0.0019
+
+
+elapsed: 11921
+force: -0.0013
+
+
+elapsed: 11931
+force: -0.0016
+
+
+elapsed: 11941
+force: -0.0016
+
+
+elapsed: 11951
+force: -0.0017
+
+
+elapsed: 11961
+force: -0.0019
+
+
+elapsed: 11971
+force: -0.0013
+
+
+elapsed: 11981
+force: -0.0013
+
+
+elapsed: 11991
+force: -0.0015
+
+
+elapsed: 12001
+force: -0.0016
+
+
+elapsed: 12011
+force: -0.0013
+
+
+elapsed: 12021
+force: -0.0013
+
+

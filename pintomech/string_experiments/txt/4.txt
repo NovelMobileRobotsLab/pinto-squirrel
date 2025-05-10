@@ -1,0 +1,5436 @@
+des: 12
+motor: 770
+enc: 861
+
+
+des: 12
+motor: 770
+enc: 861
+
+
+des: 12
+motor: 770
+enc: 861
+
+
+des: 12
+motor: 770
+enc: 861
+
+
+des: 12
+motor: 770
+enc: 861
+
+
+des: 13
+motor: 770
+enc: 861
+
+
+des: 14
+motor: 832
+enc: 860
+
+
+des: 15
+motor: 894
+enc: 860
+
+
+des: 16
+motor: 961
+enc: 859
+
+
+des: 17
+motor: 1026
+enc: 860
+
+
+des: 18
+motor: 1088
+enc: 860
+
+
+des: 19
+motor: 1149
+enc: 860
+
+
+des: 20
+motor: 1217
+enc: 858
+
+
+des: 21
+motor: 1282
+enc: 859
+
+
+des: 22
+motor: 1344
+enc: 859
+
+
+des: 23
+motor: 1405
+enc: 858
+
+
+des: 24
+motor: 1473
+enc: 857
+
+
+des: 25
+motor: 1538
+enc: 858
+
+
+des: 26
+motor: 1600
+enc: 859
+
+
+des: 27
+motor: 1661
+enc: 857
+
+
+des: 28
+motor: 1729
+enc: 856
+
+des: 29
+motor: 1794
+enc: 857
+
+
+des: 30
+motor: 1856
+enc: 857
+
+
+des: 31
+motor: 1917
+enc: 856
+
+
+des: 32
+motor: 1985
+enc: 854
+
+
+des: 33
+motor: 2050
+enc: 855
+
+
+des: 34
+motor: 2112
+enc: 855
+
+
+des: 35
+motor: 2173
+enc: 854
+
+
+des: 36
+motor: 2241
+enc: 853
+
+
+des: 37
+motor: 2306
+enc: 853
+
+
+des: 38
+motor: 2368
+enc: 853
+
+
+des: 39
+motor: 2429
+enc: 852
+
+
+des: 40
+motor: 2497
+enc: 850
+
+
+des: 41
+motor: 2562
+enc: 851
+
+
+des: 42
+motor: 2624
+enc: 851
+
+
+des: 43
+motor: 2685
+enc: 849
+
+
+des: 44
+motor: 2753
+enc: 848
+
+
+des: 45
+motor: 2818
+enc: 848
+
+
+des: 46
+motor: 2880
+enc: 848
+
+
+des: 47
+motor: 2941
+enc: 847
+
+
+des: 48
+motor: 3009
+enc: 845
+
+
+des: 49
+motor: 3073
+enc: 845
+
+
+des: 50
+motor: 3134
+enc: 845
+
+
+des: 51
+motor: 3197
+enc: 843
+
+
+des: 52
+motor: 3265
+enc: 842
+
+
+des: 53
+motor: 3328
+enc: 842
+
+
+des: 54
+motor: 3391
+enc: 842
+
+
+des: 55
+motor: 3453
+enc: 839
+
+
+des: 56
+motor: 3521
+enc: 838
+
+
+des: 57
+motor: 3582
+enc: 838
+
+
+des: 58
+motor: 3646
+enc: 837
+
+
+des: 59
+motor: 3708
+enc: 835
+
+
+des: 60
+motor: 3776
+enc: 833
+
+
+des: 61
+motor: 3837
+enc: 833
+
+
+des: 62
+motor: 3901
+enc: 832
+
+
+des: 63
+motor: 3963
+enc: 829
+
+
+des: 64
+motor: 4032
+enc: 827
+
+
+des: 65
+motor: 4093
+enc: 827
+
+
+des: 66
+motor: 4157
+enc: 826
+
+
+des: 67
+motor: 4219
+enc: 823
+
+
+des: 68
+motor: 4288
+enc: 821
+
+
+des: 69
+motor: 4349
+enc: 821
+
+
+des: 70
+motor: 4413
+enc: 820
+
+
+des: 71
+motor: 4474
+enc: 816
+
+
+des: 72
+motor: 4542
+enc: 813
+
+
+des: 73
+motor: 4604
+enc: 812
+
+
+des: 74
+motor: 4668
+enc: 811
+
+
+des: 75
+motor: 4730
+enc: 808
+
+
+des: 76
+motor: 4797
+enc: 803
+
+
+des: 77
+motor: 4860
+enc: 802
+
+
+des: 78
+motor: 4925
+enc: 800
+
+
+des: 79
+motor: 4986
+enc: 797
+
+
+des: 80
+motor: 5053
+enc: 793
+
+
+des: 81
+motor: 5116
+enc: 790
+
+
+des: 82
+motor: 5181
+enc: 788
+
+
+des: 83
+motor: 5242
+enc: 785
+
+
+des: 84
+motor: 5309
+enc: 781
+
+
+des: 85
+motor: 5371
+enc: 778
+
+
+des: 86
+motor: 5437
+enc: 776
+
+
+des: 87
+motor: 5498
+enc: 773
+
+des: 88
+motor: 5564
+enc: 768
+
+
+des: 89
+motor: 5627
+enc: 766
+
+
+des: 90
+motor: 5692
+enc: 764
+
+
+des: 91
+motor: 5754
+enc: 761
+
+
+des: 92
+motor: 5821
+enc: 756
+
+
+des: 93
+motor: 5882
+enc: 753
+
+
+des: 94
+motor: 5945
+enc: 751
+
+
+des: 95
+motor: 6010
+enc: 747
+
+
+des: 96
+motor: 6073
+enc: 742
+
+
+des: 97
+motor: 6132
+enc: 737
+
+
+des: 98
+motor: 6197
+enc: 738
+
+
+des: 98
+motor: 6265
+enc: 734
+
+
+des: 97
+motor: 6265
+enc: 735
+
+
+des: 96
+motor: 6205
+enc: 738
+
+
+des: 95
+motor: 6139
+enc: 743
+
+
+des: 94
+motor: 6080
+enc: 747
+
+
+des: 93
+motor: 6013
+enc: 751
+
+
+des: 92
+motor: 5952
+enc: 757
+
+
+des: 91
+motor: 5889
+enc: 760
+
+
+des: 90
+motor: 5825
+enc: 762
+
+
+des: 89
+motor: 5757
+enc: 766
+
+
+des: 88
+motor: 5697
+enc: 771
+
+
+des: 87
+motor: 5634
+enc: 772
+
+
+des: 86
+motor: 5569
+enc: 773
+
+
+des: 85
+motor: 5500
+enc: 779
+
+
+des: 84
+motor: 5440
+enc: 783
+
+des: 83
+motor: 5378
+enc: 785
+
+
+des: 82
+motor: 5313
+enc: 785
+
+des: 81
+motor: 5245
+enc: 787
+
+
+des: 80
+motor: 5184
+enc: 791
+
+
+des: 79
+motor: 5122
+enc: 793
+
+
+des: 78
+motor: 5057
+enc: 793
+
+
+des: 77
+motor: 4989
+enc: 797
+
+
+des: 76
+motor: 4928
+enc: 801
+
+
+des: 75
+motor: 4866
+enc: 803
+
+des: 74
+motor: 4801
+enc: 803
+
+
+des: 73
+motor: 4733
+enc: 806
+
+
+des: 72
+motor: 4672
+enc: 810
+
+
+des: 71
+motor: 4610
+enc: 811
+
+
+des: 70
+motor: 4546
+enc: 811
+
+
+des: 69
+motor: 4479
+enc: 813
+
+
+des: 68
+motor: 4416
+enc: 818
+
+
+des: 67
+motor: 4354
+enc: 820
+
+
+des: 66
+motor: 4289
+enc: 820
+
+
+des: 65
+motor: 4223
+enc: 822
+
+
+des: 64
+motor: 4160
+enc: 825
+
+
+des: 63
+motor: 4098
+enc: 829
+
+
+des: 62
+motor: 4033
+enc: 828
+
+
+des: 61
+motor: 3967
+enc: 830
+
+
+des: 60
+motor: 3904
+enc: 833
+
+
+des: 59
+motor: 3842
+enc: 834
+
+
+des: 58
+motor: 3777
+enc: 834
+
+des: 57
+motor: 3712
+enc: 835
+
+
+des: 56
+motor: 3649
+enc: 837
+
+
+des: 55
+motor: 3586
+enc: 839
+
+
+des: 54
+motor: 3521
+enc: 838
+
+
+des: 53
+motor: 3456
+enc: 840
+
+
+des: 52
+motor: 3393
+enc: 841
+
+
+des: 51
+motor: 3330
+enc: 842
+
+
+des: 50
+motor: 3265
+enc: 842
+
+
+des: 49
+motor: 3201
+enc: 843
+
+
+des: 48
+motor: 3137
+enc: 845
+
+
+des: 47
+motor: 3074
+enc: 845
+
+
+des: 46
+motor: 3009
+enc: 844
+
+
+des: 45
+motor: 2945
+enc: 846
+
+
+des: 44
+motor: 2881
+enc: 848
+
+
+des: 43
+motor: 2818
+enc: 848
+
+
+des: 42
+motor: 2753
+enc: 847
+
+
+des: 41
+motor: 2689
+enc: 849
+
+
+des: 40
+motor: 2625
+enc: 851
+
+
+des: 39
+motor: 2562
+enc: 851
+
+
+des: 38
+motor: 2497
+enc: 850
+
+
+des: 37
+motor: 2433
+enc: 851
+
+
+des: 36
+motor: 2369
+enc: 853
+
+
+des: 35
+motor: 2306
+enc: 852
+
+
+des: 34
+motor: 2241
+enc: 852
+
+
+des: 33
+motor: 2177
+enc: 853
+
+
+des: 32
+motor: 2113
+enc: 855
+
+
+des: 31
+motor: 2050
+enc: 854
+
+
+des: 30
+motor: 1985
+enc: 854
+
+
+des: 29
+motor: 1921
+enc: 855
+
+
+des: 28
+motor: 1857
+enc: 856
+
+
+des: 27
+motor: 1794
+enc: 856
+
+
+des: 26
+motor: 1729
+enc: 855
+
+
+des: 25
+motor: 1665
+enc: 857
+
+
+des: 24
+motor: 1601
+enc: 858
+
+
+des: 23
+motor: 1538
+enc: 858
+
+
+des: 22
+motor: 1473
+enc: 857
+
+
+des: 21
+motor: 1409
+enc: 858
+
+
+des: 20
+motor: 1345
+enc: 859
+
+
+des: 19
+motor: 1282
+enc: 859
+
+
+des: 18
+motor: 1217
+enc: 858
+
+
+des: 17
+motor: 1153
+enc: 859
+
+
+des: 16
+motor: 1089
+enc: 860
+
+
+des: 15
+motor: 1026
+enc: 860
+
+
+des: 14
+motor: 961
+enc: 859
+
+
+des: 13
+motor: 898
+enc: 860
+
+
+des: 12
+motor: 833
+enc: 861
+
+
+des: 11
+motor: 770
+enc: 861
+
+
+des: 10
+motor: 705
+enc: 859
+
+
+des: 9
+motor: 642
+enc: 860
+
+
+des: 8
+motor: 577
+enc: 861
+
+
+des: 7
+motor: 514
+enc: 861
+
+
+des: 6
+motor: 450
+enc: 859
+
+des: 5
+motor: 386
+enc: 860
+
+
+des: 4
+motor: 321
+enc: 860
+
+
+des: 3
+motor: 258
+enc: 860
+
+
+des: 2
+motor: 193
+enc: 859
+
+
+des: 1
+motor: 130
+enc: 859
+
+des: 0
+motor: 65
+enc: 859
+
+
+des: -1
+motor: 2
+enc: 859
+
+
+des: -2
+motor: -63
+enc: 858
+
+
+des: -3
+motor: -126
+enc: 858
+
+
+des: -4
+motor: -191
+enc: 858
+
+
+des: -5
+motor: -254
+enc: 858
+
+
+des: -6
+motor: -318
+enc: 856
+
+
+des: -7
+motor: -382
+enc: 857
+
+
+des: -8
+motor: -447
+enc: 857
+
+
+des: -9
+motor: -510
+enc: 856
+
+
+des: -10
+motor: -574
+enc: 855
+
+
+des: -11
+motor: -638
+enc: 855
+
+
+des: -12
+motor: -703
+enc: 855
+
+
+des: -13
+motor: -766
+enc: 854
+
+
+des: -14
+motor: -830
+enc: 853
+
+
+des: -15
+motor: -894
+enc: 853
+
+
+des: -16
+motor: -959
+enc: 853
+
+
+des: -17
+motor: -1022
+enc: 852
+
+
+des: -18
+motor: -1086
+enc: 850
+
+
+des: -19
+motor: -1150
+enc: 850
+
+
+des: -20
+motor: -1215
+enc: 851
+
+
+des: -21
+motor: -1278
+enc: 850
+
+
+des: -22
+motor: -1342
+enc: 848
+
+
+des: -23
+motor: -1406
+enc: 848
+
+
+des: -24
+motor: -1470
+enc: 847
+
+
+des: -25
+motor: -1534
+enc: 847
+
+
+des: -26
+motor: -1598
+enc: 845
+
+
+des: -27
+motor: -1662
+enc: 844
+
+
+des: -28
+motor: -1726
+enc: 844
+
+des: -29
+motor: -1790
+enc: 844
+
+
+des: -30
+motor: -1854
+enc: 842
+
+
+des: -31
+motor: -1918
+enc: 841
+
+
+des: -32
+motor: -1982
+enc: 841
+
+
+des: -33
+motor: -2046
+enc: 840
+
+
+des: -34
+motor: -2110
+enc: 838
+
+des: -35
+motor: -2174
+enc: 837
+
+
+des: -36
+motor: -2238
+enc: 837
+
+
+des: -37
+motor: -2302
+enc: 836
+
+
+des: -38
+motor: -2366
+enc: 834
+
+
+des: -39
+motor: -2430
+enc: 833
+
+
+des: -40
+motor: -2494
+enc: 833
+
+
+des: -41
+motor: -2558
+enc: 832
+
+
+des: -42
+motor: -2622
+enc: 828
+
+
+des: -43
+motor: -2686
+enc: 826
+
+
+des: -44
+motor: -2750
+enc: 827
+
+
+des: -45
+motor: -2814
+enc: 826
+
+
+des: -46
+motor: -2878
+enc: 822
+
+
+des: -47
+motor: -2942
+enc: 820
+
+
+des: -48
+motor: -3006
+enc: 820
+
+
+des: -49
+motor: -3070
+enc: 819
+
+
+des: -50
+motor: -3133
+enc: 816
+
+
+des: -51
+motor: -3198
+enc: 813
+
+
+des: -52
+motor: -3262
+enc: 812
+
+
+des: -53
+motor: -3326
+enc: 811
+
+des: -54
+motor: -3389
+enc: 808
+
+
+des: -55
+motor: -3454
+enc: 804
+
+des: -56
+motor: -3518
+enc: 803
+
+
+des: -57
+motor: -3581
+enc: 802
+
+
+des: -58
+motor: -3644
+enc: 798
+
+
+des: -59
+motor: -3709
+enc: 794
+
+
+des: -60
+motor: -3774
+enc: 793
+
+
+des: -61
+motor: -3838
+enc: 792
+
+
+des: -62
+motor: -3900
+enc: 788
+
+
+des: -63
+motor: -3966
+enc: 785
+
+
+des: -64
+motor: -4030
+enc: 784
+
+
+des: -65
+motor: -4093
+enc: 782
+
+
+des: -66
+motor: -4157
+enc: 778
+
+
+des: -67
+motor: -4222
+enc: 775
+
+
+des: -68
+motor: -4286
+enc: 772
+
+
+des: -69
+motor: -4348
+enc: 771
+
+
+des: -70
+motor: -4414
+enc: 767
+
+
+des: -71
+motor: -4478
+enc: 763
+
+
+des: -72
+motor: -4540
+enc: 761
+
+
+des: -73
+motor: -4601
+enc: 759
+
+
+des: -74
+motor: -4667
+enc: 756
+
+
+des: -75
+motor: -4733
+enc: 751
+
+
+des: -76
+motor: -4794
+enc: 747
+
+
+des: -77
+motor: -4856
+enc: 745
+
+
+des: -78
+motor: -4924
+enc: 741
+
+
+des: -79
+motor: -4985
+enc: 738
+
+
+des: -80
+motor: -5044
+enc: 734
+
+
+des: -81
+motor: -5106
+enc: 734
+
+
+des: -82
+motor: -5178
+enc: 728
+
+
+des: -83
+motor: -5240
+enc: 719
+
+
+des: -82
+motor: -5290
+enc: 715
+
+
+des: -81
+motor: -5244
+enc: 719
+
+
+des: -80
+motor: -5184
+enc: 726
+
+
+des: -79
+motor: -5113
+enc: 736
+
+
+des: -78
+motor: -5054
+enc: 743
+
+
+des: -77
+motor: -4990
+enc: 747
+
+
+des: -76
+motor: -4926
+enc: 751
+
+
+des: -75
+motor: -4862
+enc: 756
+
+
+des: -74
+motor: -4799
+enc: 758
+
+
+des: -73
+motor: -4734
+enc: 760
+
+
+des: -72
+motor: -4670
+enc: 765
+
+
+des: -71
+motor: -4606
+enc: 769
+
+des: -70
+motor: -4543
+enc: 771
+
+
+des: -69
+motor: -4483
+enc: 772
+
+
+des: -68
+motor: -4414
+enc: 775
+
+
+des: -67
+motor: -4350
+enc: 781
+
+
+des: -66
+motor: -4287
+enc: 783
+
+
+des: -65
+motor: -4227
+enc: 783
+
+
+des: -64
+motor: -4158
+enc: 785
+
+
+des: -63
+motor: -4094
+enc: 789
+
+
+des: -62
+motor: -4031
+enc: 791
+
+
+des: -61
+motor: -3970
+enc: 791
+
+
+des: -60
+motor: -3902
+enc: 793
+
+
+des: -59
+motor: -3838
+enc: 796
+
+
+des: -58
+motor: -3775
+enc: 798
+
+
+des: -57
+motor: -3714
+enc: 798
+
+
+des: -56
+motor: -3646
+enc: 801
+
+
+des: -55
+motor: -3582
+enc: 806
+
+
+des: -54
+motor: -3519
+enc: 808
+
+
+des: -53
+motor: -3458
+enc: 807
+
+
+des: -52
+motor: -3390
+enc: 809
+
+
+des: -51
+motor: -3326
+enc: 816
+
+
+des: -50
+motor: -3263
+enc: 817
+
+
+des: -49
+motor: -3203
+enc: 817
+
+
+des: -48
+motor: -3134
+enc: 819
+
+
+des: -47
+motor: -3070
+enc: 823
+
+
+des: -46
+motor: -3007
+enc: 825
+
+
+des: -45
+motor: -2946
+enc: 825
+
+
+des: -44
+motor: -2878
+enc: 826
+
+
+des: -43
+motor: -2814
+enc: 831
+
+
+des: -42
+motor: -2751
+enc: 832
+
+
+des: -41
+motor: -2690
+enc: 832
+
+
+des: -40
+motor: -2622
+enc: 834
+
+
+des: -39
+motor: -2558
+enc: 837
+
+
+des: -38
+motor: -2495
+enc: 838
+
+
+des: -37
+motor: -2435
+enc: 838
+
+
+des: -36
+motor: -2366
+enc: 839
+
+
+des: -35
+motor: -2302
+enc: 841
+
+
+des: -34
+motor: -2239
+enc: 842
+
+des: -33
+motor: -2179
+enc: 841
+
+
+des: -32
+motor: -2110
+enc: 842
+
+
+des: -31
+motor: -2046
+enc: 844
+
+
+des: -30
+motor: -1983
+enc: 845
+
+
+des: -29
+motor: -1923
+enc: 845
+
+
+des: -28
+motor: -1854
+enc: 845
+
+
+des: -27
+motor: -1790
+enc: 847
+
+
+des: -26
+motor: -1727
+enc: 848
+
+
+des: -25
+motor: -1666
+enc: 847
+
+
+des: -24
+motor: -1599
+enc: 848
+
+
+des: -23
+motor: -1534
+enc: 850
+
+
+des: -22
+motor: -1471
+enc: 850
+
+
+des: -21
+motor: -1410
+enc: 850
+
+
+des: -20
+motor: -1343
+enc: 850
+
+
+des: -19
+motor: -1278
+enc: 852
+
+
+des: -18
+motor: -1215
+enc: 853
+
+
+des: -17
+motor: -1154
+enc: 852
+
+des: -16
+motor: -1087
+enc: 852
+
+
+des: -15
+motor: -1022
+enc: 854
+
+
+des: -14
+motor: -959
+enc: 855
+
+
+des: -13
+motor: -899
+enc: 854
+
+
+des: -12
+motor: -831
+enc: 854
+
+
+des: -11
+motor: -766
+enc: 856
+
+
+des: -10
+motor: -703
+enc: 857
+
+
+des: -9
+motor: -643
+enc: 856
+
+
+des: -8
+motor: -575
+enc: 855
+
+
+des: -7
+motor: -510
+enc: 857
+
+
+des: -6
+motor: -448
+enc: 858
+
+
+des: -5
+motor: -387
+enc: 857
+
+
+des: -4
+motor: -319
+enc: 856
+
+
+des: -3
+motor: -254
+enc: 858
+
+
+des: -2
+motor: -192
+enc: 859
+
+
+des: -1
+motor: -131
+enc: 859
+
+
+des: 0
+motor: -63
+enc: 858
+
+
+des: 1
+motor: 2
+enc: 860
+
+
+des: 2
+motor: 64
+enc: 860
+
+
+des: 3
+motor: 125
+enc: 860
+
+
+des: 4
+motor: 193
+enc: 858
+
+
+des: 5
+motor: 258
+enc: 860
+
+
+des: 6
+motor: 320
+enc: 861
+
+
+des: 7
+motor: 381
+enc: 860
+
+
+des: 8
+motor: 449
+enc: 858
+
+
+des: 9
+motor: 514
+enc: 860
+
+
+des: 10
+motor: 576
+enc: 861
+
+
+des: 11
+motor: 637
+enc: 860
+
+
+des: 12
+motor: 705
+enc: 858
+
+
+des: 13
+motor: 770
+enc: 859
+
+
+des: 14
+motor: 832
+enc: 860
+
+
+des: 15
+motor: 893
+enc: 860
+
+
+des: 16
+motor: 961
+enc: 857
+
+
+des: 17
+motor: 1026
+enc: 859
+
+
+des: 18
+motor: 1088
+enc: 860
+
+
+des: 19
+motor: 1149
+enc: 859
+
+
+des: 20
+motor: 1216
+enc: 856
+
+
+des: 21
+motor: 1282
+enc: 858
+
+
+des: 22
+motor: 1344
+enc: 858
+
+
+des: 23
+motor: 1405
+enc: 857
+
+
+des: 24
+motor: 1473
+enc: 856
+
+
+des: 25
+motor: 1538
+enc: 856
+
+
+des: 26
+motor: 1600
+enc: 857
+
+
+des: 27
+motor: 1661
+enc: 856
+
+
+des: 28
+motor: 1728
+enc: 854
+
+des: 29
+motor: 1794
+enc: 855
+
+
+des: 30
+motor: 1856
+enc: 856
+
+
+des: 31
+motor: 1917
+enc: 854
+
+
+des: 32
+motor: 1984
+enc: 853
+
+
+des: 33
+motor: 2050
+enc: 853
+
+
+des: 34
+motor: 2112
+enc: 854
+
+
+des: 35
+motor: 2173
+enc: 853
+
+
+des: 36
+motor: 2240
+enc: 851
+
+
+des: 37
+motor: 2306
+enc: 851
+
+
+des: 38
+motor: 2368
+enc: 852
+
+
+des: 39
+motor: 2429
+enc: 851
+
+
+des: 40
+motor: 2497
+enc: 849
+
+
+des: 41
+motor: 2562
+enc: 849
+
+
+des: 42
+motor: 2624
+enc: 849
+
+
+des: 43
+motor: 2685
+enc: 847
+
+
+des: 44
+motor: 2753
+enc: 846
+
+
+des: 45
+motor: 2817
+enc: 847
+
+
+des: 46
+motor: 2879
+enc: 846
+
+
+des: 47
+motor: 2941
+enc: 845
+
+
+des: 48
+motor: 3009
+enc: 843
+
+
+des: 49
+motor: 3072
+enc: 844
+
+
+des: 50
+motor: 3134
+enc: 843
+
+
+des: 51
+motor: 3197
+enc: 841
+
+
+des: 52
+motor: 3265
+enc: 840
+
+
+des: 53
+motor: 3327
+enc: 840
+
+
+des: 54
+motor: 3389
+enc: 840
+
+
+des: 55
+motor: 3452
+enc: 837
+
+
+des: 56
+motor: 3521
+enc: 836
+
+
+des: 57
+motor: 3582
+enc: 836
+
+
+des: 58
+motor: 3645
+enc: 835
+
+
+des: 59
+motor: 3707
+enc: 833
+
+
+des: 60
+motor: 3776
+enc: 831
+
+
+des: 61
+motor: 3837
+enc: 831
+
+
+des: 62
+motor: 3901
+enc: 831
+
+
+des: 63
+motor: 3963
+enc: 827
+
+
+des: 64
+motor: 4032
+enc: 825
+
+
+des: 65
+motor: 4093
+enc: 826
+
+
+des: 66
+motor: 4157
+enc: 825
+
+
+des: 67
+motor: 4218
+enc: 822
+
+
+des: 68
+motor: 4287
+enc: 819
+
+
+des: 69
+motor: 4349
+enc: 818
+
+
+des: 70
+motor: 4413
+enc: 818
+
+
+des: 71
+motor: 4474
+enc: 814
+
+
+des: 72
+motor: 4541
+enc: 810
+
+
+des: 73
+motor: 4604
+enc: 810
+
+
+des: 74
+motor: 4668
+enc: 809
+
+
+des: 75
+motor: 4730
+enc: 805
+
+
+des: 76
+motor: 4797
+enc: 802
+
+
+des: 77
+motor: 4860
+enc: 800
+
+
+des: 78
+motor: 4925
+enc: 799
+
+
+des: 79
+motor: 4986
+enc: 795
+
+
+des: 80
+motor: 5053
+enc: 791
+
+
+des: 81
+motor: 5115
+enc: 789
+
+
+des: 82
+motor: 5180
+enc: 788
+
+
+des: 83
+motor: 5242
+enc: 785
+
+
+des: 84
+motor: 5309
+enc: 780
+
+
+des: 85
+motor: 5371
+enc: 778
+
+
+des: 86
+motor: 5436
+enc: 776
+
+
+des: 87
+motor: 5498
+enc: 772
+
+
+des: 88
+motor: 5565
+enc: 768
+
+
+des: 89
+motor: 5626
+enc: 766
+
+
+des: 90
+motor: 5691
+enc: 763
+
+
+des: 91
+motor: 5754
+enc: 759
+
+
+des: 92
+motor: 5820
+enc: 754
+
+
+des: 93
+motor: 5882
+enc: 751
+
+
+des: 94
+motor: 5946
+enc: 749
+
+
+des: 95
+motor: 6010
+enc: 745
+
+
+des: 96
+motor: 6073
+enc: 743
+
+
+des: 97
+motor: 6135
+enc: 737
+
+
+des: 98
+motor: 6196
+enc: 736
+
+
+des: 99
+motor: 6264
+enc: 733
+
+
+des: 100
+motor: 6325
+enc: 728
+
+
+des: 101
+motor: 6381
+enc: 722
+
+
+des: 101
+motor: 6443
+enc: 722
+
+
+des: 100
+motor: 6443
+enc: 722
+
+
+des: 99
+motor: 6392
+enc: 723
+
+
+des: 98
+motor: 6333
+enc: 729
+
+
+des: 97
+motor: 6269
+enc: 735
+
+
+des: 96
+motor: 6206
+enc: 742
+
+
+des: 95
+motor: 6143
+enc: 747
+
+
+des: 94
+motor: 6081
+enc: 751
+
+des: 93
+motor: 6012
+enc: 756
+
+
+des: 92
+motor: 5952
+enc: 761
+
+
+des: 91
+motor: 5890
+enc: 763
+
+
+des: 90
+motor: 5825
+enc: 765
+
+
+des: 89
+motor: 5756
+enc: 770
+
+
+des: 88
+motor: 5697
+enc: 774
+
+
+des: 87
+motor: 5634
+enc: 775
+
+
+des: 86
+motor: 5569
+enc: 776
+
+des: 85
+motor: 5501
+enc: 780
+
+
+des: 84
+motor: 5440
+enc: 783
+
+
+des: 83
+motor: 5378
+enc: 785
+
+
+des: 82
+motor: 5313
+enc: 785
+
+
+des: 81
+motor: 5245
+enc: 788
+
+
+des: 80
+motor: 5184
+enc: 794
+
+
+des: 79
+motor: 5122
+enc: 795
+
+
+des: 78
+motor: 5058
+enc: 795
+
+
+des: 77
+motor: 4989
+enc: 799
+
+
+des: 76
+motor: 4928
+enc: 804
+
+
+des: 75
+motor: 4866
+enc: 806
+
+
+des: 74
+motor: 4802
+enc: 805
+
+
+des: 73
+motor: 4733
+enc: 808
+
+
+des: 72
+motor: 4672
+enc: 812
+
+
+des: 71
+motor: 4610
+enc: 813
+
+
+des: 70
+motor: 4546
+enc: 813
+
+
+des: 69
+motor: 4477
+enc: 816
+
+
+des: 68
+motor: 4416
+enc: 820
+
+
+des: 67
+motor: 4354
+enc: 821
+
+
+des: 66
+motor: 4290
+enc: 820
+
+
+des: 65
+motor: 4221
+enc: 823
+
+
+des: 64
+motor: 4160
+enc: 829
+
+
+des: 63
+motor: 4098
+enc: 830
+
+
+des: 62
+motor: 4034
+enc: 830
+
+des: 61
+motor: 3965
+enc: 831
+
+
+des: 60
+motor: 3904
+enc: 834
+
+
+des: 59
+motor: 3842
+enc: 835
+
+des: 58
+motor: 3778
+enc: 834
+
+
+des: 57
+motor: 3711
+enc: 836
+
+
+des: 56
+motor: 3649
+enc: 839
+
+
+des: 55
+motor: 3586
+enc: 838
+
+
+des: 54
+motor: 3522
+enc: 838
+
+
+des: 53
+motor: 3456
+enc: 840
+
+
+des: 52
+motor: 3393
+enc: 842
+
+
+des: 51
+motor: 3330
+enc: 842
+
+
+des: 50
+motor: 3265
+enc: 842
+
+
+des: 49
+motor: 3200
+enc: 844
+
+
+des: 48
+motor: 3137
+enc: 846
+
+
+des: 47
+motor: 3074
+enc: 846
+
+
+des: 46
+motor: 3009
+enc: 845
+
+
+des: 45
+motor: 2944
+enc: 847
+
+
+des: 44
+motor: 2881
+enc: 848
+
+
+des: 43
+motor: 2818
+enc: 848
+
+
+des: 42
+motor: 2753
+enc: 848
+
+
+des: 41
+motor: 2689
+enc: 850
+
+
+des: 40
+motor: 2625
+enc: 851
+
+
+des: 39
+motor: 2562
+enc: 850
+
+
+des: 38
+motor: 2497
+enc: 850
+
+
+des: 37
+motor: 2433
+enc: 852
+
+
+des: 36
+motor: 2369
+enc: 854
+
+des: 35
+motor: 2306
+enc: 853
+
+
+des: 34
+motor: 2241
+enc: 853
+
+
+des: 33
+motor: 2177
+enc: 854
+
+
+des: 32
+motor: 2113
+enc: 855
+
+
+des: 31
+motor: 2050
+enc: 855
+
+
+des: 30
+motor: 1985
+enc: 854
+
+
+des: 29
+motor: 1921
+enc: 856
+
+
+des: 28
+motor: 1857
+enc: 857
+
+
+des: 27
+motor: 1794
+enc: 857
+
+
+des: 26
+motor: 1729
+enc: 856
+
+
+des: 25
+motor: 1665
+enc: 857
+
+
+des: 24
+motor: 1601
+enc: 859
+
+
+des: 23
+motor: 1538
+enc: 858
+
+
+des: 22
+motor: 1473
+enc: 857
+
+
+des: 21
+motor: 1409
+enc: 858
+
+
+des: 20
+motor: 1345
+enc: 860
+
+
+des: 19
+motor: 1282
+enc: 859
+
+des: 18
+motor: 1217
+enc: 858
+
+
+des: 17
+motor: 1153
+enc: 859
+
+
+des: 16
+motor: 1089
+enc: 861
+
+
+des: 15
+motor: 1026
+enc: 860
+
+
+des: 14
+motor: 961
+enc: 859
+
+
+des: 13
+motor: 897
+enc: 861
+
+
+des: 12
+motor: 833
+enc: 861
+
+
+des: 11
+motor: 770
+enc: 861
+
+
+des: 10
+motor: 705
+enc: 860
+
+
+des: 9
+motor: 641
+enc: 861
+
+
+des: 8
+motor: 577
+enc: 862
+
+
+des: 7
+motor: 514
+enc: 861
+
+
+des: 6
+motor: 449
+enc: 860
+
+
+des: 5
+motor: 385
+enc: 861
+
+
+des: 4
+motor: 321
+enc: 862
+
+
+des: 3
+motor: 258
+enc: 860
+
+
+des: 2
+motor: 193
+enc: 859
+
+des: 1
+motor: 129
+enc: 860
+
+
+des: 0
+motor: 65
+enc: 861
+
+
+des: -1
+motor: 2
+enc: 859
+
+
+des: -2
+motor: -63
+enc: 858
+
+
+des: -3
+motor: -126
+enc: 859
+
+
+des: -4
+motor: -191
+enc: 859
+
+
+des: -5
+motor: -254
+enc: 858
+
+
+des: -6
+motor: -319
+enc: 857
+
+
+des: -7
+motor: -383
+enc: 857
+
+
+des: -8
+motor: -447
+enc: 858
+
+
+des: -9
+motor: -510
+enc: 857
+
+
+des: -10
+motor: -574
+enc: 855
+
+
+des: -11
+motor: -638
+enc: 856
+
+
+des: -12
+motor: -702
+enc: 856
+
+
+des: -13
+motor: -766
+enc: 855
+
+
+des: -14
+motor: -830
+enc: 854
+
+
+des: -15
+motor: -894
+enc: 854
+
+
+des: -16
+motor: -958
+enc: 854
+
+
+des: -17
+motor: -1022
+enc: 853
+
+
+des: -18
+motor: -1086
+enc: 852
+
+
+des: -19
+motor: -1150
+enc: 852
+
+
+des: -20
+motor: -1214
+enc: 852
+
+
+des: -21
+motor: -1278
+enc: 851
+
+
+des: -22
+motor: -1342
+enc: 850
+
+
+des: -23
+motor: -1406
+enc: 849
+
+
+des: -24
+motor: -1470
+enc: 850
+
+
+des: -25
+motor: -1534
+enc: 849
+
+
+des: -26
+motor: -1598
+enc: 847
+
+
+des: -27
+motor: -1662
+enc: 847
+
+
+des: -28
+motor: -1726
+enc: 847
+
+
+des: -29
+motor: -1790
+enc: 846
+
+
+des: -30
+motor: -1854
+enc: 844
+
+
+des: -31
+motor: -1918
+enc: 844
+
+
+des: -32
+motor: -1982
+enc: 844
+
+
+des: -33
+motor: -2046
+enc: 843
+
+
+des: -34
+motor: -2110
+enc: 841
+
+
+des: -35
+motor: -2174
+enc: 840
+
+
+des: -36
+motor: -2238
+enc: 840
+
+
+des: -37
+motor: -2302
+enc: 839
+
+
+des: -38
+motor: -2366
+enc: 836
+
+
+des: -39
+motor: -2430
+enc: 835
+
+
+des: -40
+motor: -2494
+enc: 836
+
+
+des: -41
+motor: -2558
+enc: 834
+
+
+des: -42
+motor: -2622
+enc: 831
+
+
+des: -43
+motor: -2686
+enc: 830
+
+
+des: -44
+motor: -2750
+enc: 830
+
+
+des: -45
+motor: -2814
+enc: 829
+
+
+des: -46
+motor: -2878
+enc: 825
+
+
+des: -47
+motor: -2942
+enc: 823
+
+
+des: -48
+motor: -3006
+enc: 823
+
+
+des: -49
+motor: -3070
+enc: 822
+
+
+des: -50
+motor: -3134
+enc: 819
+
+
+des: -51
+motor: -3198
+enc: 816
+
+
+des: -52
+motor: -3262
+enc: 815
+
+
+des: -53
+motor: -3326
+enc: 814
+
+
+des: -54
+motor: -3389
+enc: 810
+
+
+des: -55
+motor: -3454
+enc: 807
+
+des: -56
+motor: -3518
+enc: 806
+
+
+des: -57
+motor: -3582
+enc: 806
+
+
+des: -58
+motor: -3645
+enc: 802
+
+
+des: -59
+motor: -3710
+enc: 798
+
+
+des: -60
+motor: -3774
+enc: 797
+
+
+des: -61
+motor: -3837
+enc: 796
+
+
+des: -62
+motor: -3901
+enc: 793
+
+
+des: -63
+motor: -3966
+enc: 788
+
+des: -64
+motor: -4030
+enc: 787
+
+
+des: -65
+motor: -4093
+enc: 785
+
+
+des: -66
+motor: -4157
+enc: 782
+
+
+des: -67
+motor: -4222
+enc: 778
+
+
+des: -68
+motor: -4286
+enc: 775
+
+
+des: -69
+motor: -4349
+enc: 774
+
+
+des: -70
+motor: -4413
+enc: 770
+
+
+des: -71
+motor: -4478
+enc: 766
+
+
+des: -72
+motor: -4541
+enc: 764
+
+
+des: -73
+motor: -4603
+enc: 762
+
+
+des: -74
+motor: -4667
+enc: 759
+
+
+des: -75
+motor: -4733
+enc: 754
+
+
+des: -76
+motor: -4795
+enc: 750
+
+
+des: -77
+motor: -4857
+enc: 747
+
+
+des: -78
+motor: -4922
+enc: 745
+
+
+des: -79
+motor: -4989
+enc: 738
+
+
+des: -80
+motor: -5046
+enc: 734
+
+
+des: -81
+motor: -5106
+enc: 733
+
+
+des: -82
+motor: -5178
+enc: 730
+
+
+des: -81
+motor: -5241
+enc: 721
+
+
+des: -80
+motor: -5184
+enc: 727
+
+
+des: -79
+motor: -5113
+enc: 736
+
+
+des: -78
+motor: -5054
+enc: 741
+
+
+des: -77
+motor: -4990
+enc: 745
+
+
+des: -76
+motor: -4926
+enc: 750
+
+
+des: -75
+motor: -4862
+enc: 756
+
+
+des: -74
+motor: -4798
+enc: 760
+
+
+des: -73
+motor: -4734
+enc: 762
+
+
+des: -72
+motor: -4670
+enc: 767
+
+
+des: -71
+motor: -4606
+enc: 771
+
+
+des: -70
+motor: -4543
+enc: 773
+
+
+des: -69
+motor: -4482
+enc: 774
+
+
+des: -68
+motor: -4414
+enc: 777
+
+
+des: -67
+motor: -4350
+enc: 782
+
+
+des: -66
+motor: -4287
+enc: 783
+
+
+des: -65
+motor: -4227
+enc: 783
+
+
+des: -64
+motor: -4158
+enc: 786
+
+
+des: -63
+motor: -4094
+enc: 789
+
+
+des: -62
+motor: -4031
+enc: 791
+
+
+des: -61
+motor: -3971
+enc: 791
+
+
+des: -60
+motor: -3902
+enc: 793
+
+des: -59
+motor: -3838
+enc: 797
+
+
+des: -58
+motor: -3775
+enc: 799
+
+
+des: -57
+motor: -3711
+enc: 799
+
+des: -56
+motor: -3646
+enc: 803
+
+
+des: -55
+motor: -3582
+enc: 806
+
+
+des: -54
+motor: -3519
+enc: 807
+
+
+des: -53
+motor: -3455
+enc: 808
+
+
+des: -52
+motor: -3390
+enc: 810
+
+
+des: -51
+motor: -3326
+enc: 816
+
+
+des: -50
+motor: -3263
+enc: 818
+
+
+des: -49
+motor: -3202
+enc: 818
+
+des: -48
+motor: -3134
+enc: 820
+
+
+des: -47
+motor: -3070
+enc: 823
+
+
+des: -46
+motor: -3007
+enc: 825
+
+
+des: -45
+motor: -2943
+enc: 826
+
+
+des: -44
+motor: -2878
+enc: 828
+
+
+des: -43
+motor: -2814
+enc: 831
+
+
+des: -42
+motor: -2751
+enc: 833
+
+
+des: -41
+motor: -2687
+enc: 833
+
+
+des: -40
+motor: -2622
+enc: 833
+
+
+des: -39
+motor: -2558
+enc: 837
+
+
+des: -38
+motor: -2495
+enc: 838
+
+
+des: -37
+motor: -2431
+enc: 838
+
+
+des: -36
+motor: -2366
+enc: 839
+
+
+des: -35
+motor: -2302
+enc: 842
+
+
+des: -34
+motor: -2239
+enc: 842
+
+
+des: -33
+motor: -2178
+enc: 842
+
+des: -32
+motor: -2110
+enc: 843
+
+
+des: -31
+motor: -2046
+enc: 845
+
+
+des: -30
+motor: -1983
+enc: 846
+
+
+des: -29
+motor: -1923
+enc: 845
+
+
+des: -28
+motor: -1854
+enc: 846
+
+
+des: -27
+motor: -1790
+enc: 848
+
+
+des: -26
+motor: -1727
+enc: 848
+
+
+des: -25
+motor: -1666
+enc: 848
+
+
+des: -24
+motor: -1599
+enc: 848
+
+
+des: -23
+motor: -1534
+enc: 850
+
+
+des: -22
+motor: -1471
+enc: 851
+
+
+des: -21
+motor: -1411
+enc: 851
+
+
+des: -20
+motor: -1343
+enc: 850
+
+
+des: -19
+motor: -1278
+enc: 852
+
+
+des: -18
+motor: -1215
+enc: 853
+
+
+des: -17
+motor: -1155
+enc: 853
+
+
+des: -16
+motor: -1087
+enc: 853
+
+
+des: -15
+motor: -1022
+enc: 855
+
+
+des: -14
+motor: -959
+enc: 855
+
+
+des: -13
+motor: -899
+enc: 855
+
+
+des: -12
+motor: -831
+enc: 854
+
+
+des: -11
+motor: -766
+enc: 856
+
+
+des: -10
+motor: -703
+enc: 857
+
+
+des: -9
+motor: -643
+enc: 857
+
+
+des: -8
+motor: -575
+enc: 856
+
+
+des: -7
+motor: -510
+enc: 858
+
+
+des: -6
+motor: -447
+enc: 859
+
+
+des: -5
+motor: -387
+enc: 858
+
+
+des: -4
+motor: -319
+enc: 857
+
+
+des: -3
+motor: -254
+enc: 859
+
+
+des: -2
+motor: -192
+enc: 860
+
+
+des: -1
+motor: -131
+enc: 859
+
+
+des: 0
+motor: -63
+enc: 858
+
+
+des: 1
+motor: 2
+enc: 860
+
+
+des: 2
+motor: 64
+enc: 861
+
+des: 3
+motor: 125
+enc: 860
+
+
+des: 4
+motor: 193
+enc: 859
+
+
+des: 5
+motor: 258
+enc: 861
+
+
+des: 6
+motor: 320
+enc: 862
+
+
+des: 7
+motor: 381
+enc: 861
+
+
+des: 8
+motor: 449
+enc: 858
+
+
+des: 9
+motor: 514
+enc: 860
+
+des: 10
+motor: 576
+enc: 861
+
+
+des: 11
+motor: 637
+enc: 861
+
+
+des: 12
+motor: 705
+enc: 858
+
+
+des: 13
+motor: 770
+enc: 860
+
+
+des: 14
+motor: 832
+enc: 861
+
+
+des: 15
+motor: 893
+enc: 860
+
+
+des: 16
+motor: 961
+enc: 858
+
+
+des: 17
+motor: 1026
+enc: 859
+
+
+des: 18
+motor: 1088
+enc: 860
+
+
+des: 19
+motor: 1149
+enc: 859
+
+
+des: 20
+motor: 1217
+enc: 857
+
+
+des: 21
+motor: 1282
+enc: 859
+
+
+des: 22
+motor: 1344
+enc: 859
+
+
+des: 23
+motor: 1405
+enc: 858
+
+
+des: 24
+motor: 1473
+enc: 856
+
+
+des: 25
+motor: 1538
+enc: 857
+
+des: 26
+motor: 1600
+enc: 858
+
+
+des: 27
+motor: 1661
+enc: 857
+
+
+des: 28
+motor: 1728
+enc: 855
+
+
+des: 29
+motor: 1794
+enc: 856
+
+
+des: 30
+motor: 1856
+enc: 857
+
+
+des: 31
+motor: 1917
+enc: 856
+
+
+des: 32
+motor: 1985
+enc: 854
+
+
+des: 33
+motor: 2050
+enc: 854
+
+
+des: 34
+motor: 2112
+enc: 855
+
+
+des: 35
+motor: 2173
+enc: 854
+
+
+des: 36
+motor: 2240
+enc: 852
+
+
+des: 37
+motor: 2306
+enc: 852
+
+
+des: 38
+motor: 2368
+enc: 853
+
+
+des: 39
+motor: 2429
+enc: 851
+
+
+des: 40
+motor: 2497
+enc: 850
+
+
+des: 41
+motor: 2562
+enc: 850
+
+
+des: 42
+motor: 2624
+enc: 850
+
+
+des: 43
+motor: 2685
+enc: 848
+
+
+des: 44
+motor: 2753
+enc: 847
+
+
+des: 45
+motor: 2817
+enc: 847
+
+
+des: 46
+motor: 2880
+enc: 847
+
+
+des: 47
+motor: 2941
+enc: 846
+
+
+des: 48
+motor: 3009
+enc: 844
+
+
+des: 49
+motor: 3072
+enc: 845
+
+
+des: 50
+motor: 3133
+enc: 844
+
+
+des: 51
+motor: 3197
+enc: 842
+
+
+des: 52
+motor: 3265
+enc: 841
+
+
+des: 53
+motor: 3327
+enc: 841
+
+
+des: 54
+motor: 3389
+enc: 840
+
+des: 55
+motor: 3452
+enc: 838
+
+
+des: 56
+motor: 3521
+enc: 837
+
+
+des: 57
+motor: 3582
+enc: 837
+
+
+des: 58
+motor: 3645
+enc: 837
+
+
+des: 59
+motor: 3708
+enc: 834
+
+
+des: 60
+motor: 3776
+enc: 832
+
+
+des: 61
+motor: 3837
+enc: 833
+
+
+des: 62
+motor: 3901
+enc: 832
+
+
+des: 63
+motor: 3963
+enc: 829
+
+
+des: 64
+motor: 4032
+enc: 826
+
+
+des: 65
+motor: 4093
+enc: 827
+
+
+des: 66
+motor: 4157
+enc: 826
+
+
+des: 67
+motor: 4219
+enc: 822
+
+
+des: 68
+motor: 4288
+enc: 820
+
+
+des: 69
+motor: 4349
+enc: 820
+
+
+des: 70
+motor: 4413
+enc: 819
+
+
+des: 71
+motor: 4474
+enc: 815
+
+
+des: 72
+motor: 4541
+enc: 812
+
+des: 73
+motor: 4604
+enc: 811
+
+
+des: 74
+motor: 4669
+enc: 809
+
+des: 75
+motor: 4730
+enc: 806
+
+
+des: 76
+motor: 4797
+enc: 802
+
+des: 77
+motor: 4860
+enc: 801
+
+
+des: 78
+motor: 4925
+enc: 799
+
+
+des: 79
+motor: 4986
+enc: 796
+
+
+des: 80
+motor: 5053
+enc: 792
+
+
+des: 81
+motor: 5116
+enc: 791
+
+
+des: 82
+motor: 5181
+enc: 789
+
+
+des: 83
+motor: 5242
+enc: 785
+
+
+des: 84
+motor: 5309
+enc: 782
+
+
+des: 85
+motor: 5371
+enc: 780
+
+
+des: 86
+motor: 5435
+enc: 778
+
+
+des: 87
+motor: 5498
+enc: 774
+
+
+des: 88
+motor: 5565
+enc: 770
+
+
+des: 89
+motor: 5626
+enc: 768
+
+
+des: 90
+motor: 5691
+enc: 766
+
+
+des: 91
+motor: 5754
+enc: 762
+
+
+des: 92
+motor: 5819
+enc: 757
+
+
+des: 93
+motor: 5882
+enc: 754
+
+
+des: 94
+motor: 5946
+enc: 751
+
+des: 95
+motor: 6010
+enc: 747
+
+
+des: 96
+motor: 6074
+enc: 742
+
+
+des: 97
+motor: 6135
+enc: 739
+
+
+des: 98
+motor: 6198
+enc: 738
+
+
+des: 99
+motor: 6265
+enc: 733
+
+
+des: 98
+motor: 6327
+enc: 728
+
+
+des: 97
+motor: 6271
+enc: 733
+
+
+des: 96
+motor: 6204
+enc: 741
+
+
+des: 95
+motor: 6139
+enc: 747
+
+
+des: 94
+motor: 6080
+enc: 751
+
+
+des: 93
+motor: 6013
+enc: 755
+
+
+des: 92
+motor: 5952
+enc: 760
+
+
+des: 91
+motor: 5889
+enc: 763
+
+
+des: 90
+motor: 5825
+enc: 765
+
+
+des: 89
+motor: 5756
+enc: 769
+
+
+des: 88
+motor: 5696
+enc: 774
+
+
+des: 87
+motor: 5634
+enc: 776
+
+
+des: 86
+motor: 5569
+enc: 776
+
+
+des: 85
+motor: 5500
+enc: 781
+
+
+des: 84
+motor: 5440
+enc: 787
+
+
+des: 83
+motor: 5378
+enc: 788
+
+
+des: 82
+motor: 5313
+enc: 789
+
+
+des: 81
+motor: 5244
+enc: 793
+
+
+des: 80
+motor: 5184
+enc: 797
+
+
+des: 79
+motor: 5122
+enc: 799
+
+
+des: 78
+motor: 5058
+enc: 799
+
+
+des: 77
+motor: 4989
+enc: 801
+
+
+des: 76
+motor: 4928
+enc: 805
+
+
+des: 75
+motor: 4866
+enc: 807
+
+
+des: 74
+motor: 4802
+enc: 806
+
+des: 73
+motor: 4733
+enc: 808
+
+
+des: 72
+motor: 4672
+enc: 813
+
+
+des: 71
+motor: 4610
+enc: 814
+
+
+des: 70
+motor: 4546
+enc: 813
+
+
+des: 69
+motor: 4477
+enc: 817
+
+
+des: 68
+motor: 4416
+enc: 821
+
+
+des: 67
+motor: 4354
+enc: 822
+
+
+des: 66
+motor: 4290
+enc: 822
+
+
+des: 65
+motor: 4221
+enc: 825
+
+
+des: 64
+motor: 4160
+enc: 829
+
+
+des: 63
+motor: 4098
+enc: 830
+
+
+des: 62
+motor: 4034
+enc: 830
+
+
+des: 61
+motor: 3965
+enc: 831
+
+
+des: 60
+motor: 3904
+enc: 834
+
+
+des: 59
+motor: 3842
+enc: 835
+
+
+des: 58
+motor: 3778
+enc: 834
+
+
+des: 57
+motor: 3711
+enc: 836
+
+
+des: 56
+motor: 3649
+enc: 838
+
+
+des: 55
+motor: 3586
+enc: 839
+
+
+des: 54
+motor: 3521
+enc: 838
+
+
+des: 53
+motor: 3456
+enc: 840
+
+
+des: 52
+motor: 3393
+enc: 842
+
+
+des: 51
+motor: 3330
+enc: 842
+
+
+des: 50
+motor: 3265
+enc: 842
+
+
+des: 49
+motor: 3200
+enc: 844
+
+
+des: 48
+motor: 3137
+enc: 846
+
+des: 47
+motor: 3074
+enc: 845
+
+
+des: 46
+motor: 3009
+enc: 845
+
+
+des: 45
+motor: 2944
+enc: 847
+
+
+des: 44
+motor: 2881
+enc: 849
+
+
+des: 43
+motor: 2818
+enc: 848
+
+
+des: 42
+motor: 2753
+enc: 848
+
+
+des: 41
+motor: 2689
+enc: 850
+
+
+des: 40
+motor: 2625
+enc: 851
+
+
+des: 39
+motor: 2562
+enc: 851
+
+
+des: 38
+motor: 2497
+enc: 850
+
+des: 37
+motor: 2433
+enc: 852
+
+
+des: 36
+motor: 2369
+enc: 854
+
+
+des: 35
+motor: 2306
+enc: 853
+
+
+des: 34
+motor: 2241
+enc: 852
+
+
+des: 33
+motor: 2177
+enc: 854
+
+
+des: 32
+motor: 2113
+enc: 856
+
+
+des: 31
+motor: 2050
+enc: 855
+
+
+des: 30
+motor: 1985
+enc: 854
+
+
+des: 29
+motor: 1921
+enc: 856
+
+
+des: 28
+motor: 1857
+enc: 857
+
+
+des: 27
+motor: 1794
+enc: 857
+
+
+des: 26
+motor: 1729
+enc: 856
+
+
+des: 25
+motor: 1665
+enc: 858
+
+
+des: 24
+motor: 1601
+enc: 859
+
+
+des: 23
+motor: 1538
+enc: 858
+
+
+des: 22
+motor: 1473
+enc: 857
+
+
+des: 21
+motor: 1409
+enc: 859
+
+
+des: 20
+motor: 1345
+enc: 860
+
+des: 19
+motor: 1282
+enc: 859
+
+
+des: 18
+motor: 1217
+enc: 858
+
+
+des: 17
+motor: 1153
+enc: 860
+
+
+des: 16
+motor: 1089
+enc: 861
+
+
+des: 15
+motor: 1026
+enc: 860
+
+
+des: 14
+motor: 961
+enc: 859
+
+
+des: 13
+motor: 897
+enc: 861
+
+
+des: 12
+motor: 833
+enc: 862
+
+
+des: 11
+motor: 770
+enc: 861
+
+
+des: 10
+motor: 705
+enc: 860
+
+
+des: 9
+motor: 641
+enc: 861
+
+
+des: 8
+motor: 577
+enc: 862
+
+
+des: 7
+motor: 514
+enc: 861
+
+des: 6
+motor: 449
+enc: 859
+
+
+des: 5
+motor: 385
+enc: 861
+
+
+des: 4
+motor: 321
+enc: 862
+
+
+des: 3
+motor: 258
+enc: 860
+
+
+des: 2
+motor: 193
+enc: 859
+
+
+des: 1
+motor: 129
+enc: 860
+
+
+des: 0
+motor: 65
+enc: 860
+
+
+des: -1
+motor: 2
+enc: 860
+
+
+des: -2
+motor: -62
+enc: 858
+
+
+des: -3
+motor: -127
+enc: 859
+
+des: -4
+motor: -191
+enc: 859
+
+
+des: -5
+motor: -254
+enc: 859
+
+
+des: -6
+motor: -318
+enc: 857
+
+
+des: -7
+motor: -382
+enc: 858
+
+
+des: -8
+motor: -447
+enc: 858
+
+
+des: -9
+motor: -510
+enc: 857
+
+
+des: -10
+motor: -575
+enc: 856
+
+
+des: -11
+motor: -639
+enc: 856
+
+
+des: -12
+motor: -702
+enc: 856
+
+
+des: -13
+motor: -766
+enc: 856
+
+
+des: -14
+motor: -830
+enc: 854
+
+
+des: -15
+motor: -894
+enc: 854
+
+
+des: -16
+motor: -958
+enc: 854
+
+
+des: -17
+motor: -1022
+enc: 854
+
+
+des: -18
+motor: -1086
+enc: 852
+
+
+des: -19
+motor: -1150
+enc: 852
+
+
+des: -20
+motor: -1214
+enc: 853
+
+
+des: -21
+motor: -1278
+enc: 852
+
+
+des: -22
+motor: -1342
+enc: 850
+
+
+des: -23
+motor: -1406
+enc: 850
+
+
+des: -24
+motor: -1470
+enc: 850
+
+
+des: -25
+motor: -1534
+enc: 849
+
+
+des: -26
+motor: -1598
+enc: 848
+
+
+des: -27
+motor: -1662
+enc: 847
+
+
+des: -28
+motor: -1726
+enc: 847
+
+
+des: -29
+motor: -1790
+enc: 847
+
+des: -30
+motor: -1854
+enc: 845
+
+
+des: -31
+motor: -1918
+enc: 844
+
+
+des: -32
+motor: -1982
+enc: 845
+
+
+des: -33
+motor: -2046
+enc: 844
+
+
+des: -34
+motor: -2110
+enc: 841
+
+
+des: -35
+motor: -2174
+enc: 841
+
+
+des: -36
+motor: -2238
+enc: 841
+
+
+des: -37
+motor: -2302
+enc: 840
+
+
+des: -38
+motor: -2366
+enc: 838
+
+
+des: -39
+motor: -2430
+enc: 836
+
+
+des: -40
+motor: -2494
+enc: 836
+
+
+des: -41
+motor: -2558
+enc: 835
+
+
+des: -42
+motor: -2622
+enc: 832
+
+
+des: -43
+motor: -2686
+enc: 830
+
+
+des: -44
+motor: -2750
+enc: 831
+
+
+des: -45
+motor: -2814
+enc: 830
+
+
+des: -46
+motor: -2878
+enc: 827
+
+des: -47
+motor: -2942
+enc: 824
+
+
+des: -48
+motor: -3006
+enc: 824
+
+
+des: -49
+motor: -3070
+enc: 823
+
+
+des: -50
+motor: -3133
+enc: 820
+
+des: -51
+motor: -3198
+enc: 817
+
+
+des: -52
+motor: -3262
+enc: 817
+
+
+des: -53
+motor: -3326
+enc: 815
+
+
+des: -54
+motor: -3389
+enc: 812
+
+
+des: -55
+motor: -3454
+enc: 809
+
+des: -56
+motor: -3518
+enc: 808
+
+
+des: -57
+motor: -3581
+enc: 807
+
+
+des: -58
+motor: -3645
+enc: 803
+
+
+des: -59
+motor: -3710
+enc: 800
+
+
+des: -60
+motor: -3774
+enc: 798
+
+
+des: -61
+motor: -3837
+enc: 797
+
+
+des: -62
+motor: -3901
+enc: 794
+
+
+des: -63
+motor: -3966
+enc: 790
+
+
+des: -64
+motor: -4030
+enc: 788
+
+
+des: -65
+motor: -4093
+enc: 787
+
+
+des: -66
+motor: -4157
+enc: 783
+
+
+des: -67
+motor: -4222
+enc: 780
+
+
+des: -68
+motor: -4286
+enc: 776
+
+
+des: -69
+motor: -4350
+enc: 775
+
+
+des: -70
+motor: -4414
+enc: 771
+
+
+des: -71
+motor: -4478
+enc: 768
+
+
+des: -72
+motor: -4541
+enc: 765
+
+
+des: -73
+motor: -4604
+enc: 764
+
+
+des: -74
+motor: -4667
+enc: 760
+
+
+des: -75
+motor: -4731
+enc: 757
+
+
+des: -76
+motor: -4795
+enc: 752
+
+
+des: -77
+motor: -4857
+enc: 749
+
+
+des: -78
+motor: -4922
+enc: 746
+
+des: -79
+motor: -4985
+enc: 741
+
+
+des: -80
+motor: -5049
+enc: 735
+
+
+des: -81
+motor: -5108
+enc: 733
+
+
+des: -82
+motor: -5179
+enc: 730
+
+
+des: -82
+motor: -5241
+enc: 722
+
+
+des: -81
+motor: -5241
+enc: 722
+
+
+des: -80
+motor: -5184
+enc: 728
+
+
+des: -79
+motor: -5113
+enc: 736
+
+des: -78
+motor: -5054
+enc: 742
+
+
+des: -77
+motor: -4990
+enc: 745
+
+
+des: -76
+motor: -4926
+enc: 750
+
+
+des: -75
+motor: -4862
+enc: 755
+
+
+des: -74
+motor: -4799
+enc: 756
+
+
+des: -73
+motor: -4734
+enc: 757
+
+
+des: -72
+motor: -4670
+enc: 767
+
+
+des: -71
+motor: -4606
+enc: 772
+
+
+des: -70
+motor: -4543
+enc: 773
+
+
+des: -69
+motor: -4478
+enc: 774
+
+
+des: -68
+motor: -4414
+enc: 778
+
+
+des: -67
+motor: -4350
+enc: 783
+
+des: -66
+motor: -4287
+enc: 784
+
+
+des: -65
+motor: -4227
+enc: 784
+
+des: -64
+motor: -4158
+enc: 786
+
+
+des: -63
+motor: -4094
+enc: 790
+
+
+des: -62
+motor: -4031
+enc: 791
+
+
+des: -61
+motor: -3970
+enc: 792
+
+
+des: -60
+motor: -3902
+enc: 794
+
+
+des: -59
+motor: -3838
+enc: 798
+
+
+des: -58
+motor: -3775
+enc: 799
+
+
+des: -57
+motor: -3711
+enc: 800
+
+
+des: -56
+motor: -3646
+enc: 801
+
+
+des: -55
+motor: -3582
+enc: 806
+
+des: -54
+motor: -3519
+enc: 807
+
+
+des: -53
+motor: -3455
+enc: 807
+
+
+des: -52
+motor: -3390
+enc: 811
+
+
+des: -51
+motor: -3326
+enc: 815
+
+
+des: -50
+motor: -3263
+enc: 816
+
+
+des: -49
+motor: -3199
+enc: 817
+
+
+des: -48
+motor: -3134
+enc: 819
+
+
+des: -47
+motor: -3070
+enc: 826
+
+des: -46
+motor: -3007
+enc: 827
+
+
+des: -45
+motor: -2946
+enc: 828
+
+
+des: -44
+motor: -2878
+enc: 829
+
+
+des: -43
+motor: -2814
+enc: 832
+
+
+des: -42
+motor: -2751
+enc: 833
+
+
+des: -41
+motor: -2687
+enc: 833
+
+
+des: -40
+motor: -2622
+enc: 834
+
+
+des: -39
+motor: -2558
+enc: 837
+
+
+des: -38
+motor: -2495
+enc: 838
+
+des: -37
+motor: -2431
+enc: 839
+
+
+des: -36
+motor: -2366
+enc: 840
+
+
+des: -35
+motor: -2302
+enc: 842
+
+
+des: -34
+motor: -2239
+enc: 843
+
+
+des: -33
+motor: -2178
+enc: 843
+
+des: -32
+motor: -2110
+enc: 843
+
+
+des: -31
+motor: -2046
+enc: 845
+
+
+des: -30
+motor: -1983
+enc: 846
+
+
+des: -29
+motor: -1922
+enc: 846
+
+
+des: -28
+motor: -1855
+enc: 846
+
+
+des: -27
+motor: -1790
+enc: 848
+
+
+des: -26
+motor: -1727
+enc: 849
+
+
+des: -25
+motor: -1667
+enc: 849
+
+
+des: -24
+motor: -1599
+enc: 848
+
+
+des: -23
+motor: -1534
+enc: 850
+
+
+des: -22
+motor: -1471
+enc: 852
+
+
+des: -21
+motor: -1411
+enc: 851
+
+
+des: -20
+motor: -1343
+enc: 851
+
+
+des: -19
+motor: -1278
+enc: 853
+
+
+des: -18
+motor: -1215
+enc: 854
+
+
+des: -17
+motor: -1155
+enc: 853
+
+
+des: -16
+motor: -1087
+enc: 853
+
+
+des: -15
+motor: -1022
+enc: 855
+
+
+des: -14
+motor: -959
+enc: 856
+
+des: -13
+motor: -899
+enc: 855
+
+
+des: -12
+motor: -831
+enc: 854
+
+
+des: -11
+motor: -766
+enc: 856
+
+
+des: -10
+motor: -703
+enc: 857
+
+
+des: -9
+motor: -643
+enc: 857
+
+
+des: -8
+motor: -575
+enc: 856
+
+
+des: -7
+motor: -510
+enc: 858
+
+
+des: -6
+motor: -447
+enc: 859
+
+
+des: -5
+motor: -387
+enc: 859
+
+
+des: -4
+motor: -319
+enc: 857
+
+
+des: -3
+motor: -254
+enc: 859
+
+
+des: -2
+motor: -191
+enc: 860
+
+
+des: -1
+motor: -131
+enc: 860
+
+
+des: 0
+motor: -63
+enc: 858
+
+
+des: 1
+motor: 2
+enc: 860
+
+
+des: 2
+motor: 65
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 860
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861
+
+
+des: 2
+motor: 125
+enc: 861

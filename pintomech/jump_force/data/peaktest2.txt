@@ -1,0 +1,413 @@
+
+elapsed: 14166
+force: -0.0039
+
+
+elapsed: 14176
+force: -0.0043
+
+
+elapsed: 14186
+force: -0.0034
+
+
+elapsed: 14196
+force: -0.0032
+
+
+elapsed: 14206
+force: -0.0025
+
+
+elapsed: 14216
+force: -0.0018
+
+
+elapsed: 14226
+force: 0.0007
+
+
+elapsed: 14236
+force: 0.0013
+
+
+elapsed: 14246
+force: -0.0010
+
+
+elapsed: 14256
+force: -0.0036
+
+
+elapsed: 14266
+force: -0.0029
+
+
+elapsed: 14276
+force: -0.0028
+
+
+elapsed: 14286
+force: -0.0029
+
+
+elapsed: 14296
+force: -0.0017
+
+
+elapsed: 14306
+force: 0.0034
+
+
+elapsed: 14316
+force: 0.0172
+
+
+elapsed: 14326
+force: 0.0651
+
+
+elapsed: 14336
+force: 0.1475
+
+
+elapsed: 14346
+force: 0.2664
+
+
+elapsed: 14356
+force: 0.4455
+
+
+elapsed: 14366
+force: 0.6856
+
+
+elapsed: 14376
+force: 1.0044
+
+
+elapsed: 14386
+force: 1.4218
+
+
+elapsed: 14396
+force: 1.9374
+
+
+elapsed: 14406
+force: 2.4760
+
+
+elapsed: 14416
+force: 3.0072
+
+
+elapsed: 14426
+force: 3.5226
+
+
+elapsed: 14436
+force: 3.9738
+
+
+elapsed: 14446
+force: 4.3711
+
+
+elapsed: 14456
+force: 4.7044
+
+
+elapsed: 14466
+force: 4.9859
+
+
+elapsed: 14476
+force: 5.2192
+
+
+elapsed: 14486
+force: 5.4437
+
+
+elapsed: 14496
+force: 5.6552
+
+
+elapsed: 14506
+force: 5.8125
+
+
+elapsed: 14516
+force: 5.9482
+
+
+elapsed: 14526
+force: 6.0740
+
+
+elapsed: 14536
+force: 6.1778
+
+
+elapsed: 14546
+force: 6.2680
+
+
+elapsed: 14556
+force: 6.3123
+
+
+elapsed: 14566
+force: 6.2923
+
+
+elapsed: 14576
+force: 6.1732
+
+
+elapsed: 14586
+force: 5.9660
+
+
+elapsed: 14596
+force: 5.6793
+
+
+elapsed: 14606
+force: 5.2651
+
+
+elapsed: 14616
+force: 4.7045
+
+
+elapsed: 14626
+force: 3.9875
+
+
+elapsed: 14636
+force: 3.1845
+
+
+elapsed: 14646
+force: 2.4043
+
+
+elapsed: 14656
+force: 1.6976
+
+
+elapsed: 14666
+force: 1.0947
+
+
+elapsed: 14676
+force: 0.5940
+
+
+elapsed: 14686
+force: 0.2138
+
+
+elapsed: 14696
+force: 0.0207
+
+
+elapsed: 14706
+force: -0.0103
+
+
+elapsed: 14716
+force: -0.0052
+
+
+elapsed: 14726
+force: -0.0061
+
+
+elapsed: 14736
+force: 0.0003
+
+
+elapsed: 14746
+force: 0.0045
+
+
+elapsed: 14756
+force: 0.0053
+
+
+elapsed: 14766
+force: 0.0064
+
+
+elapsed: 14776
+force: 0.0076
+
+
+elapsed: 14786
+force: 0.0081
+
+
+elapsed: 14796
+force: 0.0086
+
+
+elapsed: 14806
+force: 0.0090
+
+
+elapsed: 14816
+force: 0.0095
+
+
+elapsed: 14826
+force: 0.0096
+
+
+elapsed: 14836
+force: 0.0095
+
+
+elapsed: 14846
+force: 0.0096
+
+
+elapsed: 14856
+force: 0.0101
+
+
+elapsed: 14866
+force: 0.0098
+
+
+elapsed: 14876
+force: 0.0102
+
+
+elapsed: 14886
+force: 0.0100
+
+
+elapsed: 14896
+force: 0.0100
+
+
+elapsed: 14906
+force: 0.0100
+
+
+elapsed: 14916
+force: 0.0105
+
+
+elapsed: 14926
+force: 0.0103
+
+
+elapsed: 14936
+force: 0.0102
+
+
+elapsed: 14946
+force: 0.0101
+
+
+elapsed: 14956
+force: 0.0104
+
+
+elapsed: 14966
+force: 0.0107
+
+
+elapsed: 14976
+force: 0.0104
+
+
+elapsed: 14986
+force: 0.0104
+
+
+elapsed: 14996
+force: 0.0105
+
+
+elapsed: 15006
+force: 0.0107
+
+
+elapsed: 15016
+force: 0.0104
+
+
+elapsed: 15026
+force: 0.0104
+
+
+elapsed: 15036
+force: 0.0105
+
+
+elapsed: 15046
+force: 0.0104
+
+
+elapsed: 15056
+force: 0.0107
+
+
+elapsed: 15066
+force: 0.0106
+
+
+elapsed: 15076
+force: 0.0106
+
+
+elapsed: 15086
+force: 0.0110
+
+
+elapsed: 15096
+force: 0.0107
+
+
+elapsed: 15106
+force: 0.0106
+
+
+elapsed: 15116
+force: 0.0104
+
+
+elapsed: 15126
+force: 0.0106
+
+
+elapsed: 15136
+force: 0.0108
+
+
+elapsed: 15146
+force: 0.0107
+
+
+elapsed: 15156
+force: 0.0104
+
+
+elapsed: 15166
+force: 0.0108
+
+
+elapsed: 15176
+force: 0.0105
+
+
+elapsed: 15186
+force: 0.0104
+
+
