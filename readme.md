@@ -1,6 +1,6 @@
 # Pinto: Tree-Jumping Squirrel Robot
 
-![Pinto Robot Image Placeholder](readme_media/treejumpclipi2.gif)
+![Pinto Robot Image](readme_media/treejumpclipi2.gif)
 
 ## Overview
 
@@ -25,8 +25,7 @@ Contains firmware and control code for various microcontroller platforms and ite
 - **Platform:** Teensy 4.0 microcontroller
 - **Files:** `.ino` files for Arduino IDE
 
-![Version 1 Image Placeholder](placeholder_v1_image.jpg)
-*[Placeholder for Version 1 robot image]*
+![Version 1 Image](readme_media/hopbox.gif)
 
 #### **Version 2: ESP8266 Wireless Control System**
 - **`teensy/joystick*/`**: Teensy 4.0 code for custom 8-axis joystick (four 2-axis thumbsticks)
@@ -35,8 +34,9 @@ Contains firmware and control code for various microcontroller platforms and ite
 - **Communication:** ESP-NOW wireless protocol
 - **Control:** Human input via 8-axis joystick mapped to 4 robot limbs
 
-![Version 2 Image Placeholder](placeholder_v2_image.jpg)
-*[Placeholder for Version 2 system image]*
+<!-- ![Version 2 Image](readme_media/presentingv2.jpg) -->
+<img src="readme_media/presentingv2.jpg" alt="Version 2 Image" width="480"/>
+
 
 #### **Version 3: Station-Estop-Brain Architecture (Current)**
 - **`station/`**: Python control software running on laptop
@@ -52,14 +52,23 @@ Contains firmware and control code for various microcontroller platforms and ite
 2. **Estop (ESP32S3):** Physical emergency stop button with wireless transceiver functionality
 3. **Brain (ESP32S3):** Custom PCB controlling servos, brushless motors, and sensors
 
-![Version 3 Station Image Placeholder](placeholder_v3_station.jpg)
-*[Placeholder for Version 3 station setup image]*
 
-![Version 3 Estop Image Placeholder](placeholder_v3_estop.jpg)
-*[Placeholder for Version 3 estop device image]*
 
-![Version 3 Brain Image Placeholder](placeholder_v3_brain.jpg)
-*[Placeholder for Version 3 brain PCB image]*
+
+
+<p align="center">
+<img src="readme_media/anatomy.png" alt="anatomy" width="800"/>
+</p>
+
+<p align="center">
+<img src="readme_media/blockdiag.png" alt="v3 system diagram" width="800"/>
+</p>
+
+<p align="center">
+<img src="readme_media/pintosetup.jpeg" alt="setup" width="600"/>
+<img src="readme_media/estopinside.jpeg" alt="estop inside" width="240"/>
+</p>
+
 
 #### **Other Platforms:**
 - **`esp32s3/`**: Various ESP32S3 applications and utilities
@@ -88,8 +97,10 @@ Contains mechanical analysis, simulation, and experimental data:
 - **`polytope/`**: Polytope-based motion planning analysis
 - **`windup/`**: Windup mechanism studies
 
-![Jump Experiment Image Placeholder](placeholder_jump_experiment.jpg)
-*[Placeholder for jump experiment setup image]*
+
+<p align="center">
+<img src="readme_media/forcejump.png" alt="jump experiment" width="800"/>
+</p>
 
 #### **Utilities:**
 - **`logs/`**: Experimental logs and data files
