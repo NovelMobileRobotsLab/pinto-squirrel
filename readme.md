@@ -2,18 +2,17 @@
 
 ![Pinto Robot Image](readme_media/treejumpclipi2.gif)
 
-## Overview
 
-Pinto is a 450g tree-jumping robot inspired by squirrel locomotion, developed to demonstrate the feasibility of arboreal robotics. The robot features a novel latched series-elastic actuator mechanism that can switch between stiff series elastic and parallel elastic modes, enabling both precision movement and powerful energy storage for jumping from the ground onto vertical tree trunks.
+Pinto performs a tree-jump (jumping from the ground to a tree) like a squirrel. The robot uses a novel mechanism for the rear leg that can switch between a stiff series elastic and parallel elastic mode, for both precision movement and a powerful jump using elastic energy storage.
 
-**Key Features:**
-- **Weight:** 450g lightweight design
-- **Novel Mechanism:** Latched series-elastic actuator using twisted string and carbon fiber springs
-- **5-bar leg mechanism:** Front and rear legs with 2 motors cooperatively actuating each foot
-- **Dual-mode operation:** Series and parallel-elastic modes for different locomotion requirements
-- **Spined grippers:** 2-DoF arms for grasping tree bark during high-speed perching
 
-**Research Abstract:** Arboreal environments challenge current robots but are deftly traversed by many familiar animal locomotors such as squirrels. We present a small, 450 g robot "Pinto" developed for tree-jumping, a behavior seen in squirrels but rarely in legged robots: jumping from the ground onto a vertical tree trunk. We develop a powerful and lightweight latched series-elastic actuator using a twisted string and carbon fiber springs. We consider the effects of scaling down conventional quadrupeds and experimentally show how storing energy in a parallel-elastic fashion using a latch increases jump energy compared to series-elastic or springless strategies. By switching between series and parallel-elastic modes with our latched 5-bar leg mechanism, Pinto executes energetic jumps as well as maintains continuous control during shorter bounding motions. We also develop sprung 2-DoF arms equipped with spined grippers to grasp tree bark for high-speed perching following a jump.
+**Features:**
+- **Dual-mode rear leg:** Series and parallel-elastic modes for both precise control and powerful jumps
+- **Twisted string:** High mechanical advantage and lightweight transmission ideal for jumping
+- **Spring:** Near constant torque carbon fiber spring for efficient windup 
+- **Spined grippers:** Fishhooks for grasping tree bark during perching
+
+**Paper Abstract:** Arboreal environments challenge current robots but are deftly traversed by many familiar animal locomotors such as squirrels. We present a small, 450 g robot "Pinto" developed for tree-jumping, a behavior seen in squirrels but rarely in legged robots: jumping from the ground onto a vertical tree trunk. We develop a powerful and lightweight latched series-elastic actuator using a twisted string and carbon fiber springs. We consider the effects of scaling down conventional quadrupeds and experimentally show how storing energy in a parallel-elastic fashion using a latch increases jump energy compared to series-elastic or springless strategies. By switching between series and parallel-elastic modes with our latched 5-bar leg mechanism, Pinto executes energetic jumps as well as maintains continuous control during shorter bounding motions. We also develop sprung 2-DoF arms equipped with spined grippers to grasp tree bark for high-speed perching following a jump.
 
 ## Repository Structure
 
@@ -67,10 +66,7 @@ Contains firmware and control code for various microcontroller platforms and ite
 </p>
 
 
-#### **Other Platforms:**
-- **`esp32s3/`**: Various ESP32S3 applications and utilities
-- **`seeeduino/`**: Seeeduino-specific firmware
-- **`lookuptables/`**: Precomputed lookup tables for inverse kinematics and control
+
 
 ### `pintomech/`
 Contains mechanical analysis, simulation, and experimental data:
@@ -93,16 +89,15 @@ Contains mechanical analysis, simulation, and experimental data:
 - **`jump_force/`**: Jump force analysis and experiments
 - **`polytope/`**: Polytope-based motion planning analysis
 - **`windup/`**: Windup mechanism studies
-
+- **`logs/`**: Experimental logs and data files
 
 <p align="center">
 <img src="readme_media/forcejump.png" alt="jump experiment" width="800"/>
 </p>
 
-#### **Utilities:**
-- **`logs/`**: Experimental logs and data files
 
-## Hardware Requirements
+
+## Hardware
 
 - **Custom PCBs:** Available at [github.com/qwertpas/squirrelbrain](https://github.com/qwertpas/squirrelbrain)
 - **CAD Files:** Available at [Onshape CAD](https://cad.onshape.com/documents/0c72dae6c9475dd41cab7700/w/2583ef1f629f03790729c107/e/f951a8c75300fed560aa6177)
@@ -122,9 +117,9 @@ Contains mechanical analysis, simulation, and experimental data:
 - **Power Management:** squirrelbrain PCB: https://github.com/qwertpas/squirrelbrain
 
 ### **Additional Components:**
-- **Springs:** Custom carbon fiber springs
-- **Actuators:** Twisted string actuators
-- **Grippers:** Spined grippers for bark grasping
+- **Springs:** 0.5mm thick pultruded carbon fiber strips from Amazon
+- **String:** UHMWPE rope (McMaster-Carr 4377N2)
+- **Grippers:** Fishhooks from Amazon
 - **Controller:** BINBOK Nintendo Switch compatible controller (or Xbox controller)
 
 ## Software Requirements
@@ -214,11 +209,10 @@ Dependencies are specified in the `lib_deps` section of each project's `platform
 5. Divide terminal values by 100 and update `poslib`
 6. Note: "trigger" entry is currently unused
 
-## Research Publications
+## Publication
 
-- **ICRA 2025 Paper:** "Pinto: A latched spring actuated robot for jumping and perching" by Christopher Y. Xu, Jack Yan, and Justin K. Yim [arXiv:2409.09203](https://arxiv.org/abs/2409.09203)
-- **ICRA 2024 Workshop on Unconventional Robots** by Justin K. Yim
-- **Data:** Experimental datasets available in `pintomech/ICRA24/` and `pintomech/ICRA25/`
+- **ICRA 2025:** "Pinto: A latched spring actuated robot for jumping and perching" by Christopher Y. Xu, Jack Yan, and Justin K. Yim [arXiv:2409.09203](https://arxiv.org/abs/2409.09203)
+
 
 
 ## Open-source
