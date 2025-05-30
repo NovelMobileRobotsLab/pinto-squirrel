@@ -53,9 +53,6 @@ Contains firmware and control code for various microcontroller platforms and ite
 3. **Brain (ESP32S3):** Custom PCB controlling servos, brushless motors, and sensors
 
 
-
-
-
 <p align="center">
 <img src="readme_media/anatomy.png" alt="anatomy" width="800"/>
 </p>
@@ -112,17 +109,17 @@ Contains mechanical analysis, simulation, and experimental data:
 - **Microcontrollers:** Teensy 4.0, ESP8266, ESP32S3 (Seeedstudio XIAO)
 
 ### **Motors:**
-- **Brushless Motors:** [Placeholder for BLDC motor specifications]
-- **Servo Motors:** [Placeholder for servo motor specifications - Dynamixel compatible]
+- **Brushless Motors:** 2x HGLRC SPECTER 2105.5 Brushless Motor 2650KV from Aliexpress
+- **Servo Motors:** 5x Dynamixel XL330-M077-T
 
 ### **Sensors:**
-- **Encoders:** [Placeholder for encoder specifications]
-- **IMU:** [Placeholder for IMU specifications]
-- **Force Sensors:** [Placeholder for force sensor specifications]
+- **Encoders:** 2x MA702 on custom PCB: https://github.com/qwertpas/o12encoder
+- **IMU:** 1x LSM6DSV on custom PCB: https://github.com/qwertpas/o12imu
+- **Force Sensors:** (not on the robot) 2x 5kg load cells
 
 ### **Power:**
-- **Battery:** [Placeholder for battery specifications - 3S LiPo, >11V required]
-- **Power Management:** [Placeholder for power distribution details]
+- **Battery:** Tattu 3S 450mAh or 500mAh LiPo 
+- **Power Management:** squirrelbrain PCB: https://github.com/qwertpas/squirrelbrain
 
 ### **Additional Components:**
 - **Springs:** Custom carbon fiber springs
@@ -219,8 +216,8 @@ Dependencies are specified in the `lib_deps` section of each project's `platform
 
 ## Research Publications
 
-- **ICRA 2025 Paper:** "Tree-Jumping Robot" - [arXiv:2409.09203](https://arxiv.org/abs/2409.09203)
-- **ICRA 2024 Presentation:** Force sensor jump analysis data
+- **ICRA 2025 Paper:** "Pinto: A latched spring actuated robot for jumping and perching" by Christopher Y. Xu, Jack Yan, and Justin K. Yim [arXiv:2409.09203](https://arxiv.org/abs/2409.09203)
+- **ICRA 2024 Workshop on Unconventional Robots** by Justin K. Yim
 - **Data:** Experimental datasets available in `pintomech/ICRA24/` and `pintomech/ICRA25/`
 
 
