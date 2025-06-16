@@ -72,11 +72,11 @@ Contains firmware and control code for various microcontroller platforms and ite
 Contains mechanical analysis, simulation, and experimental data:
 
 #### **Mechanism Analysis:**
-- **`SEA/`**: Series Elastic Actuator analysis and optimization notebooks
+- **`SEA/`**: Series Elastic Actuator analysis and optimization python notebooks: see https://pintobotics.substack.com/p/extra-variable-mechanical-advantage
 - **`spring_theory/`**: Theoretical spring mechanism analysis
 - **`spring_experiments/`**: Physical spring testing and validation data
-- **`string_experiments/`**: Twisted string actuator characterization
-- **`lambda_linkage/`**: Lambda-linkage mechanism analysis for a vertically moving boom for testing a jumping leg
+- **`string_experiments/`**: Twisted string actuator characterization: see https://pintobotics.substack.com/i/137821874/twisted-string-experiment
+- **`lambda_linkage/`**: Lambda-linkage mechanism analysis for a vertically moving boom for testing a jumping leg: see https://pintobotics.substack.com/p/extra-linkage-optimization
 - **`IK/`**: Inverse kinematics implementations and verification
 
 #### **Research Data:**
